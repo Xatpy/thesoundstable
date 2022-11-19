@@ -40,6 +40,7 @@ body {
 #content div {
   width: 40%;
   height: 40%;
+  margin: 20px;
 }
 
 .divSubsectionImage {

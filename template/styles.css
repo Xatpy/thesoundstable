@@ -203,7 +203,8 @@ a.button:active {
 /* Landscape phones and down */
 @media (max-width: 480px) {
   html {
-    background: url(images/highRes.jpg) no-repeat center center fixed #612213;
+    background: url(images/highRes.jpg) center center #612213;
+    background-repeat: repeat-y;
     /* background: url(images/highRes.webp) no-repeat center center fixed #612213;
     -webkit-background-size: cover;
     -moz-background-size: cover;

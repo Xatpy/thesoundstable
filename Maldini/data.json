@@ -114,10 +114,6 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/bueno-eso-es-una-bakala-infame.mp3"
     },
     {
-      "text": "Un saludo calvito",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/un-saludo-calvito.mp3"
-    },
-    {
       "text": "Esto es un chollo macho",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/esto-es-un-chollo-macho.mp3"
     },
@@ -146,16 +142,24 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/un-saludo-a-keko-niete.mp3"
     },
     {
+      "text": "Salud desde Lomas Turbas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/salud-desde-lomas-turbas.mp3"
+    },
+    {
+      "text": "Saludos a mi amiga Elva Gigón",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/saludos-a-mi-amiga-elva-gigon.mp3"
+    },
+    {
+      "text": "Un saludo calvito",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/un-saludo-calvito.mp3"
+    },
+    {
       "text": "Pero lo que nunca nos va a dejar es el futbol",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/pero-lo-que-nunca-nos-va-a-dejar-es-el-futbol.mp3"
     },
     {
       "text": "Puedes hacer trios...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/puedes-hacer-trios.mp3"
-    },
-    {
-      "text": "Saludos a mi amiga Elva Gigón",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/saludos-a-mi-amiga-elva-gigon.mp3"
     },
     {
       "text": "Tenéis que entender que si está la Copa África...",
@@ -176,10 +180,6 @@
     {
       "text": "La gente mira y dice por que este tio aporrea la mesa",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/la-gente-mira-y-dice-por-que-este-tio-aporrea-la-mesa.mp3"
-    },
-    {
-      "text": "Salud desde Lomas Turbas",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/salud-desde-lomas-turbas.mp3"
     },
     {
       "text": "El fútbol, las mujeres, el zumo...",
@@ -246,7 +246,7 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/no-me-pite-usted-senior.mp3"
     },
     {
-      "text": "Adoro a las italianas tambien para que nos vamos a engañar",
+      "text": "Adoro a las italianas también para que nos vamos a engañar",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/adoro-a-las-italianas-tambien-para-que-nos-vamos-a-enganiar.mp3"
     },
     {
@@ -270,7 +270,7 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/la-vida-va-pasando-por-aqui-tio.mp3"
     },
     {
-      "text": "tambien en el as por detras hay que verlo",
+      "text": "También en el as por detras hay que verlo",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Maldini/data/tambien-en-el-as-por-detras-hay-que-verlo.mp3"
     },
     {

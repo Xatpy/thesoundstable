@@ -14,6 +14,7 @@ function handleKey(e) {
 }
 
 function initApp(dataInfo) {
+  debugger;
   dataURL = location.search.split("data=")[1];
   if (dataURL === undefined) {
     dataURL = dataInfo;
@@ -53,6 +54,7 @@ function verifySound(sound) {
 }
 
 function parseData(data) {
+  debugger;
   const title = data.title;
   if (title !== undefined) {
     document.getElementById("head").innerHTML = title;

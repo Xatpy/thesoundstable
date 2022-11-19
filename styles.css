@@ -29,8 +29,8 @@ body {
 
 .divSubsection:hover .logoSubsection {
   opacity: 0.95;
-  -webkit-transform: scale(1.3);
-  transform: scale(1.3);
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
 }
 
 .divSubsectionImage {

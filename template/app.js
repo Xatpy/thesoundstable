@@ -54,7 +54,6 @@ function verifySound(sound) {
 }
 
 function parseData(data) {
-  debugger;
   const title = data.title;
   if (title !== undefined) {
     document.getElementById("head").innerHTML = title;

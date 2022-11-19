@@ -25,6 +25,10 @@ body {
   position: relative;
   text-align: center;
   color: white;
+
+  display: flex;
+  /* align-content: center; */
+  align-items: center;
 }
 
 .divSubsection:hover .logoSubsection {
@@ -33,8 +37,15 @@ body {
   transform: scale(1.05);
 }
 
+#content div {
+  width: 40%;
+  height: 40%;
+}
+
 .divSubsectionImage {
-  width: 500px !important;
+  /* width: 500px;*/
+  width: 40%;
+  height: 40%;
 
   -moz-transition: all 2s ease-in;
   -o-transition: all 2s ease-in;
@@ -48,6 +59,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: xxx-large;
+  cursor: pointer;
 }
 
 .divSubsection:hover .lblSubsection {

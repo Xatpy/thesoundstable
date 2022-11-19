@@ -14,7 +14,6 @@ function handleKey(e) {
 }
 
 function initApp(dataInfo) {
-  debugger;
   dataURL = location.search.split("data=")[1];
   if (dataURL === undefined) {
     dataURL = dataInfo;

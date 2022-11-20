@@ -1,4 +1,5 @@
 let hashAudios = {};
+let hashAudiosHowl = {};
 let hashAudiosIds = {};
 let lastCodeKey = "";
 let indexCurrentCodeKey = -1;
@@ -94,10 +95,18 @@ const getIdFromUrl = (urlSound) => {
 
 function loadAudio(urlSound) {
   const id = getIdFromUrl(urlSound);
+
+  const audioHowl = new Howl({
+    src: [urlSound],
+  });
+
   var audio = new Audio(urlSound);
-  audio.load();
+  audio.src = urlSound;
   audio.id = id;
+  audio.load();
+
   hashAudios[id] = audio;
+  hashAudiosHowl[id] = audioHowl;
 
   const firstCharacter = id[0];
   if (!hashAudiosIds.hasOwnProperty(firstCharacter)) {
@@ -147,7 +156,7 @@ function createButton(text, urlSound, id) {
   link.onclick = function (evt) {
     evt.preventDefault();
     var target = evt.target || evt.srcElement; // Fix for Firefox
-    hashAudios[target.id].play();
+    hashAudiosHowl[target.id].play();
   };
   return link;
 }

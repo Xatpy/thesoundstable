@@ -1,13 +1,9 @@
 {
   "title": "Luis Enrique",
   "sounds": [
-	{
-		"text": "Lucho has probado alguna vez un helado de huevo?",
-		"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/lucho-has-probado-alguna-vez-el-helado-de-huevo.mp3"
-	}
     {
-      "text": "Si Ferrán Torres marca gol...",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-ferran-torres-marca-gol.mp3"
+      "text": "Lucho has probado alguna vez un helado de huevo?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/lucho-has-probado-alguna-vez-el-helado-de-huevo.mp3"
     },
     {
       "text": "Aquí hay mucho cachondo en el chat",
@@ -94,6 +90,10 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/Maria-se-ha-puesto-cachonda-seguro.mp3"
     },
     {
+      "text": "Mando un saludo muy fuerte a Franco",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/mando-un-saludo-muy-fuerte-a-franco.mp3"
+    },
+    {
       "text": "Un iron man esta chupado",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/un-iron-man-esta-chupado.mp3"
     },
@@ -138,8 +138,8 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/me-parece-que-la-pregunta-es-una-tonteria.mp3"
     },
     {
-      "text": "Mando un saludo muy fuerte a Franco",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/mando-un-saludo-muy-fuerte-a-franco.mp3"
+      "text": "Si Ferrán Torres marca gol...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-ferran-torres-marca-gol.mp3"
     }
   ]
 }

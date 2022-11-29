@@ -1,5 +1,5 @@
 {
-  "title": "LuisEnrique",
+  "title": "Luis Enrique",
   "sounds": [
     {
       "text": "Si Ferrán Torres marca gol...",
@@ -14,11 +14,11 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-ganamos-el-mundial.mp3"
     },
     {
-      "text": "Ha ha ha ha",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/ha-ha-ha-ha.mp3"
+      "text": "Ha ha ha",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/ha-ha-ha.mp3"
     },
     {
-      "text": "Qué más, que más señores?",
+      "text": "¿Qué más, que más señores?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/que-mas-que-mas-seniores.mp3"
     },
     {
@@ -30,11 +30,11 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/un-abrazo-enorme-figuras.mp3"
     },
     {
-      "text": "Hablar a mi se me da de maravilla",
+      "text": "Hablar a mi se me da de maravilla...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/hablar-a-mi-se-me-da-de-maravilla.mp3"
     },
     {
-      "text": "he he he",
+      "text": "He he he",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/he-he-he.mp3"
     },
     {
@@ -102,10 +102,6 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/cuantos-huevos-se-mete-entre-pecho-y-espalda.mp3"
     },
     {
-      "text": "Ha ha ha",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/ha-ha-ha.mp3"
-    },
-    {
       "text": "Seria la repera",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/seria-la-repera.mp3"
     },
@@ -120,6 +116,10 @@
     {
       "text": "Muy fácil",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/muy-fa\u0301cil.mp3"
+    },
+    {
+      "text": "Ha ha ha ha",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/ha-ha-ha-ha.mp3"
     },
     {
       "text": "El himno siempre te pone la piel de gallina",

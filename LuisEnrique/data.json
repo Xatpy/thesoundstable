@@ -2,6 +2,10 @@
   "title": "Luis Enrique",
   "sounds": [
     {
+      "text": "Usas boxer o slim? Uso tanga",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/usas-boxer-o-slim.mp3"
+    },
+    {
       "text": "Lucho has probado alguna vez un helado de huevo?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/lucho-has-probado-alguna-vez-el-helado-de-huevo.mp3"
     },

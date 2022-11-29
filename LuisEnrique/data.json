@@ -1,6 +1,10 @@
 {
   "title": "Luis Enrique",
   "sounds": [
+	{
+		"text": "Lucho has probado alguna vez un helado de huevo?",
+		"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/lucho-has-probado-alguna-vez-el-helado-de-huevo.mp3"
+	}
     {
       "text": "Si Ferrán Torres marca gol...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-ferran-torres-marca-gol.mp3"

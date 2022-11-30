@@ -2,6 +2,14 @@
   "title": "Luis Enrique",
   "sounds": [
     {
+      "text": "Si lo sacamos de contexto queda muy mal",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-lo-sacamos-de-contexto-queda-muy-mal.mp3"
+    },
+    {
+      "text": "Vladimir",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/vladimir.mp3"
+    },
+    {
       "text": "Usas boxer o slim? Uso tanga",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/usas-boxer-o-slim.mp3"
     },
@@ -46,16 +54,16 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/con-esa-voz-dudo-de-mi-orientacion-sexual.mp3"
     },
     {
-      "text": "Si lo sacamos de contexto queda muy mal",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-lo-sacamos-de-contexto-queda-muy-mal.mp3"
-    },
-    {
       "text": "Está relajadisima se ha dormido",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/esta-relajadisimo-se-ha-dormido.mp3"
     },
     {
       "text": "Lo que queráis me da igual",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/lo-que-querais-me-da-igual.mp3"
+    },
+    {
+      "text": "Barra libre",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/barra-libre.mp3"
     },
     {
       "text": "Lo que no voy a hacer es un spoiler",

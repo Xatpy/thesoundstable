@@ -2,6 +2,10 @@
   "title": "Luis Enrique",
   "sounds": [
     {
+      "text": "Esto es Oliver y Benji o qué es esto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/esto-es-oliver-y-benji-o-que-es-esto.mp3"
+    },
+    {
       "text": "Apartaros que voy cuesta abajo y sin frenos",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/apartaros-que-voy-cuesta-abajo-y-sin-frenos.mp3"
     },

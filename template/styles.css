@@ -55,6 +55,13 @@ h1 {
   margin: 10px;
 }
 
+.firstRowHeader {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
 #main {
   display: flex;
   justify-content: center;

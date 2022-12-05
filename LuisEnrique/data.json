@@ -2,10 +2,6 @@
   "title": "Luis Enrique",
   "sounds": [
     {
-      "text": "Esto es Oliver y Benji o qué es esto",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/esto-es-oliver-y-benji-o-que-es-esto.mp3"
-    },
-    {
       "text": "Apartaros que voy cuesta abajo y sin frenos",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/apartaros-que-voy-cuesta-abajo-y-sin-frenos.mp3"
     },
@@ -20,6 +16,72 @@
     {
       "text": "Usas boxer o slim? Uso tanga",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/usas-boxer-o-slim.mp3"
+    },
+    {
+      "text": "A tope!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/a-tope.mp3"
+    },
+    {
+      "text": "Me gusta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/me-gusta.mp3"
+    },
+    {
+      "text": "El ganso",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/es-la-marca-de-la-seleccion-el-ganso.mp3"
+    },
+    {
+      "text": "A Gavi le ha hecho la porra el rey",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/a-gavi-le-ha-hecho-la-porra-el-rey.mp3"
+    },
+    {
+      "text": "Madre mia me encanta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/maaadre-mia-me-encanta.mp3"
+    },
+    {
+      "text": "Si me gana mi mujer al parchís...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/si-me-gana-mi-mujer-al-parchis.mp3"
+    },
+    {
+      "text": "Es un pesao que no veas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/es-un-pesao-que-no-veas.mp3"
+    },
+
+    {
+      "text": "Te mete una galleta y flipas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/te-mete-una-galleta-y-flipas.mp3"
+    },
+    {
+      "text": "¿Qué pelea es más difícil?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/que-pelea-es-mas-dificil.mp3"
+    },
+    {
+      "text": "Hmm va a ser que no",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/hm-va-a-ser-que-no.mp3"
+    },
+
+    {
+      "text": "Vamos a hacer aquí raideo a @elopi23",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/vamos-a-hacer-aqui-raideo-a-elopi-23.mp3"
+    },
+    {
+      "text": "Perfecto acércate más",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/perfecto-acercate-mas.mp3"
+    },
+    {
+      "text": "Ese vocabulario por favor",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/ese-vocabulario-por-favor.mp3"
+    },
+    {
+      "text": "Cuando seas padre comerás huevos",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/cuando-seas-padres-comeras-huevos.mp3"
+    },
+    {
+      "text": "En el ranking de huevos...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/en-el-ranking-de-huevos-en-que-puesto-estas.mp3"
+    },
+    {
+      "text": "Esto es Oliver y Benji o qué es esto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/esto-es-oliver-y-benji-o-que-es-esto.mp3"
     },
     {
       "text": "Lucho has probado alguna vez un helado de huevo?",

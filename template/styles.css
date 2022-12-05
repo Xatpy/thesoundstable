@@ -230,6 +230,10 @@ a.button:active {
     margin-right: 1px;
   }
 
+  header .mainLogoIndex {
+    width: 50px;
+  }
+
   h1 {
     font-size: 6vh;
   }

@@ -40,13 +40,13 @@ header .mainLogoXks {
 }
 
 header .mainLogoIndex {
-  width: 125px;
+  width: 75px;
 }
 
 header h1 {
   position: relative;
-  top: 18px;
-  left: 10px;
+  /* top: 18px; */
+  /* left: 10px; */
 }
 
 h1 {
@@ -63,7 +63,19 @@ h1 {
   display: flex;
   align-content: center;
   justify-content: space-between;
-  align-items: flex-end;
+  align-items: center;
+}
+
+.headerSmall {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.headerTitle {
+  flex: 5;
 }
 
 #main {
@@ -232,6 +244,10 @@ a.button:active {
 
   header .mainLogoIndex {
     width: 50px;
+  }
+
+  .headerSmall:hover {
+    border-bottom: solid 30px #019fb6;
   }
 
   h1 {

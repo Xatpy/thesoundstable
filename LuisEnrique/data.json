@@ -22,10 +22,6 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/a-tope.mp3"
     },
     {
-      "text": "Me gusta",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/me-gusta.mp3"
-    },
-    {
       "text": "Tu padre es Amunike",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/tu-padre-es-amunike.mp3"
     },
@@ -42,8 +38,12 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/oye-haaland-es-espaniol.mp3"
     },
     {
-      "text": "El ganso",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/es-la-marca-de-la-seleccion-el-ganso.mp3"
+      "text": "Me gusta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/me-gusta.mp3"
+    },
+    {
+      "text": "Oye me tienen que querer esto es lo de siempre...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/oye-me-tienen-que-querer-esto-es-lo-de-siempre.mp3"
     },
     {
       "text": "A Gavi le ha hecho la porra el rey",
@@ -61,7 +61,10 @@
       "text": "Es un pesao que no veas",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/es-un-pesao-que-no-veas.mp3"
     },
-
+    {
+      "text": "¿Estás borracho?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/estas-borracho.mp3"
+    },
     {
       "text": "Te mete una galleta y flipas",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/te-mete-una-galleta-y-flipas.mp3"
@@ -188,10 +191,6 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/que-hace-carrasco-con-la-seleccion-espaniola.mp3"
     },
     {
-      "text": "¿Estás borracho?",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/estas-borracho.mp3"
-    },
-    {
       "text": "Por favor es lo que mas me gusta del mundo...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/por-favor-es-lo-que-mas-me-gusta-del-mundo.mp3"
     },
@@ -214,6 +213,10 @@
     {
       "text": "Voy a pasar a la historia como...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/voy-a-pasar-a-la-historia-como-el-mayor-comedor-de-ex-huevos.mp3"
+    },
+    {
+      "text": "El ganso",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LuisEnrique/data/es-la-marca-de-la-seleccion-el-ganso.mp3"
     },
     {
       "text": "Cuántos huevos se mete entre pecho y espalda?",

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="La Vida Moderna Sounds Table" />
+    <meta
+      name="description"
+      content="La Vida Moderna Sounds Table - La web con los sonidos más famosos del periodista deportivo"
+    />
+
+    <script
+      type="text/javascript"
+      src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"
+    ></script>
+
+    <meta name="apple-mobile-web-app-status-bar" content="#7d3014"" />
+    <meta name="theme-color" content="#ff0000" />
+
+    <meta property="og:image:type" content="image/png" />
+    <meta
+      property="og:image"
+      content="https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LaVidaModerna/laVidaModerna.jpeg"
+    />
+    <meta property="og:title" content="La Vida Moderna Sounds Table" />
+    <meta
+      property="og:description"
+      content="La Vida Moderna Sounds table - Web app con las mejores reacciones de La Vida Moderna"
+    />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="La Vida Moderna · Sounds table" />
+    <meta
+      name="twitter:description"
+      content="La Vida Moderna Sounds table - Web app con las mejores reacciones de La Vida Moderna"
+    />
+    <meta
+      name="twitter:image"
+      content="https://raw.githubusercontent.com/Xatpy/thesoundstable/master/LaVidaModerna/laVidaModerna.jpeg"
+    />
+
+    <title>🎶 La Vida Moderna SOUNDS</title>
+
+    <link
+      href="https://fonts.googleapis.com/css?family=Lobster&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" type="text/css" href="../template/styles.css" />
+    <link rel="icon" type="image/png" href="../template/images/icon.png" />
+  </head>
+  <body>
+    <header>
+      <div class="firstRowHeader">
+        <div class="headerIndex">
+          <a href="https://thesoundstable.com" class="buttonIndex"
+            >THE SOUNDS TABLE</a
+          >
+        </div>
+        <div class="headerTitle">
+          <h1 id="head">La Vida Moderna</h1>
+        </div>
+        <div class="headerSmall">
+          <img
+            src="./laVidaModerna.jpeg"
+            class="mainLogoXks"
+            alt="logo principal"
+          />
+        </div>
+      </div>
+
+      <div id="share" class="container">
+        <span id="labelCompartir"><i>Compartir:</i></span>
+        <a
+          aria-label="Twitter"
+          class="twitter customer share"
+          href="https://twitter.com/intent/tweet?text=🎶%20La%20Vida%20Moderna%20Sounds%20-%20La%20web%20app%20con%20los%20sonidos%20de%20La%20Vida%20Moderna:%0Dhttps://thesoundstable.com/LaVidaModerna/"
+          rel="noopener"
+          target="_blank"
+          ><img
+            alt="logo twitter"
+            src="../template/images/logoTwitter.png"
+            width="64px"
+            height="64px"
+            class="logo"
+        /></a>
+        <a
+          aria-label="Facebook"
+          class="facebook customer share"
+          href="https://www.facebook.com/sharer/sharer.php?u=https://www.thesoundstable.com/LaVidaModerna/"
+          target="_blank"
+          title="Compartir en Facebook"
+          ><img
+            alt="logo facebook"
+            src="../template/images/logoFacebook.png"
+            class="logo"
+        /></a>
+        <a
+          aria-label="Telegram"
+          href="https://t.me/share/url?url=https://www.thesoundstable.com/LaVidaModerna/"
+          ><img
+            src="../template/images/logoTg.png"
+            alt="logo telegram"
+            width="64px"
+            height="64px"
+            class="logo"
+        /></a>
+        <a
+          aria-label="Whatsapp"
+          href="whatsapp://send?text=https://thesoundstable.com/LaVidaModerna/"
+          data-action="share/whatsapp/share"
+          ><img
+            alt="logo whatsapp"
+            src="../template/images/logoWhatsapp.png"
+            class="logo"
+        /></a>
+      </div>
+    </header>
+    <div id="main">
+      <div id="content"></div>
+    </div>
+
+    <script src="../template/app.js"></script>
+    <script>
+      window.onload = function () {
+        initApp("./data.json");
+      };
+    </script>
+
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8801495871341198"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-YG7GJD9VLS"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-YG7GJD9VLS");
+    </script>
+  </body>
+</html>

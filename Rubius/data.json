@@ -1,69 +1,101 @@
 {
-	"title": "Rubius",
-	"sounds": [
-		{
-			"text": "Necesitais salir y tocar cesped",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/necesitais-salir-y-tocar-cesped.mp3"
-		},
-		{
-			"text": "Vaya vaya",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/vaya-vaya.mp3"
-		},
-		{
-			"text": "Tas bobo o que",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tas-bobo-o-que.mp3"
-		},
-		{
-			"text": "Ay la puta madre andale andale",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ay-la-puta-madre-andale-andale.mp3"
-		},
-		{
-			"text": "Me pego un tiro en la polla tio",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/me-pego-un-tiro-en-la-polla-tio.mp3"
-		},
-		{
-			"text": "No me quiero irrr",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/no-me-quiero-irrr.mp3"
-		},
-		{
-			"text": "Espabila crack",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/espabila-crack.mp3"
-		},
-		{
-			"text": "Putin relajate",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/putin-relajate.mp3"
-		},
-		{
-			"text": "Ven aqui cabron",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ven-aqui-cabron.mp3"
-		},
-		{
-			"text": "Podemos tener sexo",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/podemos-tener-sexo.mp3"
-		},
-		{
-			"text": "Buenas noches hijos de puta",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/buenas-noches-hijos-de-puta.mp3"
-		},
-		{
-			"text": "Esto tiene mas copyright que mis tetas",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/esto-tiene-mas-copyright-que-mis-tetas.mp3"
-		},
-		{
-			"text": "Ooh ooh",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ooh-ooh.mp3"
-		},
-		{
-			"text": "Que cojoneee",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/que-cojoneee.mp3"
-		},
-		{
-			"text": "No hijodeputa ponte a estudiar y deja la droga",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/no-hijodeputa-ponte-a-estudiar-y-deja-la-droga.mp3"
-		},
-		{
-			"text": "Tu amigo tom holland",
-			"soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tu-amigo-tom-holland.mp3"
-		}
-	]
+  "title": "Rubius",
+  "sounds": [
+    {
+      "text": "Necesitais salir y tocar cesped",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/necesitais-salir-y-tocar-cesped.mp3"
+    },
+    {
+      "text": "Vaya vaya",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/vaya-vaya.mp3"
+    },
+    {
+      "text": "Tas bobo o que",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tas-bobo-o-que.mp3"
+    },
+    {
+      "text": "Ay la puta madre andale andale",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ay-la-puta-madre-andale-andale.mp3"
+    },
+    {
+      "text": "Me pego un tiro en la polla tio",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/me-pego-un-tiro-en-la-polla-tio.mp3"
+    },
+    {
+      "text": "No me quiero irrr",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/no-me-quiero-irrr.mp3"
+    },
+    {
+      "text": "Espabila crack",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/espabila-crack.mp3"
+    },
+    {
+      "text": "Putin relajate",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/putin-relajate.mp3"
+    },
+    {
+      "text": "Ven aqui cabron",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ven-aqui-cabron.mp3"
+    },
+    {
+      "text": "Podemos tener sexo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/podemos-tener-sexo.mp3"
+    },
+    {
+      "text": "Buenas noches hijos de puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/buenas-noches-hijos-de-puta.mp3"
+    },
+    {
+      "text": "Esto tiene mas copyright que mis tetas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/esto-tiene-mas-copyright-que-mis-tetas.mp3"
+    },
+    {
+      "text": "Ooh ooh",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/ooh-ooh.mp3"
+    },
+    {
+      "text": "Que cojoneee",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/que-cojoneee.mp3"
+    },
+    {
+      "text": "No hijodeputa ponte a estudiar y deja la droga",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/no-hijodeputa-ponte-a-estudiar-y-deja-la-droga.mp3"
+    },
+    {
+      "text": "Tu amigo Tom Holland",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tu-amigo-tom-holland.mp3"
+    },
+    {
+      "text": "Tu amigo Tom Holland",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tu-amigo-tom-holland.mp3"
+    },
+    {
+      "text": "Rata! Puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/rata-puta.mp3"
+    },
+    {
+      "text": "Puerco, cerdo, hijo de puta!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/puerco-cerdo-hijodeputa.mp3"
+    },
+    {
+      "text": "Tu amigo Tom Holland",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tu-amigo-tom-holland.mp3"
+    },
+    {
+      "text": "¡Lo sabiiiia!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/lo-sabiaaa.mp3"
+    },
+    {
+      "text": "Cállate un puto mes anda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/callate-un-puto-mes-anda.mp3"
+    },
+    {
+      "text": "¿Estás bobina o qué?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/estas-bobina-o-que.mp3"
+    },
+    {
+      "text": "Tontos del culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Rubius/data/tontos-del-culo.mp3"
+    }
+  ]
 }

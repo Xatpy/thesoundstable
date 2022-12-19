@@ -52,6 +52,11 @@
       "tag": "Top 10"
     },
     {
+      "text": "¿Qué miras?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/que-miras.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Tengo que dar una hostia a algo",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/teng-que-dar-una-hostia-a-algo.mp3",
       "tag": "New"
@@ -59,6 +64,16 @@
     {
       "text": "Su madre me agarró muy fuerte de la berenjena",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/su-madre-me-agarro-muy-fuerte-de-la-berenjena.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Música marroquí aquí no está permitida eh",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/musica-marroqui-aqui-no-esta-permitida-eh.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "No me lo puedo creer",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/no-me-lo-puedo-creer.mp3",
       "tag": "New"
     },
     {
@@ -72,7 +87,7 @@
       "tag": "New"
     },
     {
-      "text": "No soy tu compañero soy tu compañere",
+      "text": "No soy tu compañero. Soy tu compañerE!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/no-soy-tu-companiero-soy-tu-companiere.mp3",
       "tag": "New"
     },
@@ -104,6 +119,16 @@
     {
       "text": "Tomaaa!!!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/tomaaa.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "World of Xokas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/world-of-xokas.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Sí soy yo. El Xokas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/si-soy-yo-el-xokas.mp3",
       "tag": "New"
     },
     {
@@ -147,6 +172,11 @@
       "tag": "New"
     },
     {
+      "text": "Poco me parece",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/poco-me-parece.mp3",
+      "tag": "New"
+    },
+    {
       "text": "No! Yo me cago en los gordos",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/no-yo-me-cago-en-los-gordos.mp3",
       "tag": "New"
@@ -159,6 +189,16 @@
     {
       "text": "Besito por favor ayyy!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/besito-por-favor-ayyy.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Oy-oy-oy-oy",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/oy-oy-oy-oy.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Risa loca",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/ElXokas/data/risa-loca.mp3",
       "tag": "New"
     },
     {

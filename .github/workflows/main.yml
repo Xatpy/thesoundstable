@@ -15,7 +15,7 @@ jobs:
           yarn install
           yarn run build
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/Xatpy/gh-pages.git
-          yarn run deploy -- -u "github-actions-bot <support+actions@github.com>"
+          npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

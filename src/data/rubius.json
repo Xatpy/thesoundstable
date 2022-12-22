@@ -2,6 +2,10 @@
   "title": "Rubius",
   "sounds": [
     {
+      "text": "Buenas noches hijos de puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rubius/data/buenas-noches-hijos-de-puta.mp3"
+    },
+    {
       "text": "Necesitáis salir y tocar cesped",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rubius/data/necesitais-salir-y-tocar-cesped.mp3"
     },
@@ -40,10 +44,6 @@
     {
       "text": "Podemos tener sexo",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rubius/data/podemos-tener-sexo.mp3"
-    },
-    {
-      "text": "Buenas noches hijos de puta",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rubius/data/buenas-noches-hijos-de-puta.mp3"
     },
     {
       "text": "Esto tiene mas copyright que mis tetas",

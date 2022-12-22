@@ -14,10 +14,6 @@ jobs:
         run: |
           yarn install
           yarn run build
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/Xatpy/thesoundstable.git
-          npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
-        env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy 🚀
         run: |
@@ -25,6 +21,4 @@ jobs:
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/Xatpy/thesoundstable.git
           npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
         env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-          
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

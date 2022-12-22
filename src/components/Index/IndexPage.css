@@ -1,0 +1,16 @@
+.mainIndex {
+  display: flex;
+  justify-content: center;
+}
+
+.contentIndex {
+  width: 90%;
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  align-items: center;
+  width: 100ch !important;
+}

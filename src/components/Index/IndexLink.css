@@ -1,0 +1,73 @@
+.divSubsection {
+  width: 250px;
+  height: 250px;
+
+  position: relative;
+  text-align: center;
+  color: white;
+
+  display: flex;
+  align-items: center;
+}
+
+.divSubsection:hover .logoSubsection {
+  opacity: 0.95;
+  -webkit-transform: scale(1.05);
+  transform: scale(1.05);
+}
+
+.divSubsectionImage {
+  /* width: 40%;
+  height: 40%; */
+
+  -moz-transition: all 2s ease-in;
+  -o-transition: all 2s ease-in;
+  -webkit-transition: all 2s ease-in;
+  transition: all 2s ease-in;
+}
+
+.linkSubpage {
+  color: inherit;
+  text-decoration: inherit;
+  cursor: pointer;
+}
+
+.logoSubsection {
+  cursor: pointer;
+  background-color: black;
+  width: 100%;
+  border: 3px solid #fffb04f4;
+  border-radius: 10%;
+  -webkit-transform: scale(1);
+  transform: scale(1);
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+.lblSubsection {
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: xxx-large;
+  cursor: pointer;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
+.divSubsection:hover .lblSubsection {
+  text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000,
+    3px 3px 0 #000;
+}
+
+@media (max-width: 767px) {
+  .divSubsectionImage {
+    width: 250px !important;
+  }
+
+  .lblSubsection {
+    top: 60%;
+    font-size: xx-large;
+  }
+}

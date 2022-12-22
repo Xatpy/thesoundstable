@@ -1,0 +1,14 @@
+.logo {
+  width: 32px;
+  height: 32px;
+  margin-left: 20px;
+  transition: transform 0.4s;
+}
+
+.logo:hover {
+  -webkit-transform: scale(1.25) rotate(0.01deg);
+  transform: scale(1.25) rotate(0.01deg);
+
+  -webkit-filter: drop-shadow(0 0 0.25rem black);
+  filter: drop-shadow(0 0 0.25rem black);
+}

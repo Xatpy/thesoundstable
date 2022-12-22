@@ -1,0 +1,56 @@
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* align vertical */
+  font-size: 12.5vh;
+  text-shadow: 2px 2px 2px white;
+  text-align: center;
+  margin: 10px;
+}
+
+.firstRowHeader {
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.headerIndex {
+  width: 200px;
+  z-index: 1;
+}
+
+.headerTitle {
+  flex: 5;
+}
+
+.peopleLogo {
+  background: #555;
+  margin-right: 10px;
+  float: right;
+  width: 146px;
+  height: 83px;
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  .title {
+    font-size: 7.5vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .headerIndex {
+    width: 100px;
+  }
+
+  .peopleLogo {
+    width: 108px;
+    height: 63px;
+  }
+
+  .title {
+    font-size: 6vh;
+  }
+}

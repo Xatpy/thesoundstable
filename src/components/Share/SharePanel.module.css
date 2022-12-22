@@ -1,0 +1,16 @@
+.share {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 5px;
+  /* margin-top: 29px; */
+  /* margin-right: 45px; */
+}
+
+@media (max-width: 480px) {
+  .share {
+    margin-top: 20px;
+    margin-bottom: 17px;
+    width: 100%;
+  }
+}

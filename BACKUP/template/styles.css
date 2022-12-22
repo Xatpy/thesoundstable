@@ -336,9 +336,9 @@ a.buttonIndex:before {
 
   a.button {
     font-size: 3vw;
-    width: 60px;
-    height: 60px;
-    padding: 0px 5px 0 0;
+    width: 70px;
+    height: 70px;
+    /* padding: 0px 5px 0 0; */
     margin: -50px 0 0 -25px;
   }
 
@@ -348,8 +348,8 @@ a.buttonIndex:before {
     top: 50%;
     left: 50%;
     border-radius: 50%;
-    top: -15px;
-    left: -20px;
+    top: -13px;
+    left: -15px;
     -webkit-box-shadow: inset 0 7px 15px rgba(255, 255, 255, 0.5),
       inset 0 -7px 15px rgba(0, 0, 0, 0.5);
     box-shadow: inset 0 7px 15px rgba(255, 255, 255, 0.5),

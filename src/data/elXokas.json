@@ -3,524 +3,524 @@
   "sounds": [
     {
       "text": "¡Cállate!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/callate.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/callate.mp3",
       "tag": "🥇Top 1"
     },
     {
       "text": "Tontito",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/tontito.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tontito.mp3",
       "tag": "🥈Top 2"
     },
     {
       "text": "Tonto",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/tonto.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tonto.mp3",
       "tag": "🥉Top 3"
     },
     {
       "text": "Y tú callau!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/y-tu-callau.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/y-tu-callau.mp3",
       "tag": "Top 4"
     },
     {
       "text": "Calla la boca",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/calla-la-boca.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/calla-la-boca.mp3",
       "tag": "Top 5"
     },
     {
       "text": "Quéhh",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/queh.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/queh.mp3",
       "tag": "Top 6"
     },
     {
       "text": "Dos por uno en burros",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/dos-por-uno-en-burros.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/dos-por-uno-en-burros.mp3",
       "tag": "Top 7"
     },
     {
       "text": "Fumo porros",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/fumo-porros.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/fumo-porros.mp3",
       "tag": "Top 8"
     },
     {
       "text": "Eres imbécil",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/eres-imbecil.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/eres-imbecil.mp3",
       "tag": "Top 9"
     },
     {
       "text": "¡Dios!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/dios.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/dios.mp3",
       "tag": "Top 10"
     },
     {
       "text": "¿Qué miras?",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-miras.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-miras.mp3",
       "tag": "New"
     },
     {
       "text": "Tengo que dar una hostia a algo",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/teng-que-dar-una-hostia-a-algo.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/teng-que-dar-una-hostia-a-algo.mp3",
       "tag": "New"
     },
     {
       "text": "Su madre me agarró muy fuerte de la berenjena",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/su-madre-me-agarro-muy-fuerte-de-la-berenjena.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/su-madre-me-agarro-muy-fuerte-de-la-berenjena.mp3",
       "tag": "New"
     },
     {
       "text": "Música marroquí aquí no está permitida eh",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/musica-marroqui-aqui-no-esta-permitida-eh.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/musica-marroqui-aqui-no-esta-permitida-eh.mp3",
       "tag": "New"
     },
     {
       "text": "No me lo puedo creer",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-me-lo-puedo-creer.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-me-lo-puedo-creer.mp3",
       "tag": "New"
     },
     {
       "text": "Paolo, me chupas tos los huevos gordo!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/paolo-me-chupas-to-los-huevos-gordo.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/paolo-me-chupas-to-los-huevos-gordo.mp3",
       "tag": "New"
     },
     {
       "text": "Esta página es muy muy buena",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/esta-pagina-es-muy-muy-buena.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/esta-pagina-es-muy-muy-buena.mp3",
       "tag": "New"
     },
     {
       "text": "No soy tu compañero. ¡Soy tu compañere!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-soy-tu-companiero-soy-tu-companiere.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-soy-tu-companiero-soy-tu-companiere.mp3",
       "tag": "New"
     },
     {
       "text": "Me cago en los gordos de Twitch",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-cago-en-los-gordos-de-twitch.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-cago-en-los-gordos-de-twitch.mp3",
       "tag": "New"
     },
     {
       "text": "Es inmune cabrón",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/es-inmune-cabron.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-inmune-cabron.mp3",
       "tag": "New"
     },
     {
       "text": "Girando. Pues toma ban",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/girando-pues-toma-ban.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/girando-pues-toma-ban.mp3",
       "tag": "New"
     },
     {
       "text": "Nooo! Nooo!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/nooo-nooo.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/nooo-nooo.mp3",
       "tag": "New"
     },
     {
       "text": "Yo a México no quiero ir",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/yo-a-mexico-no-quiero-ir.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/yo-a-mexico-no-quiero-ir.mp3",
       "tag": "New"
     },
     {
       "text": "Tomaaa!!!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/tomaaa.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tomaaa.mp3",
       "tag": "New"
     },
     {
       "text": "World of Xokas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/world-of-xokas.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/world-of-xokas.mp3",
       "tag": "New"
     },
     {
       "text": "Sí soy yo. El Xokas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/si-soy-yo-el-xokas.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/si-soy-yo-el-xokas.mp3",
       "tag": "New"
     },
     {
       "text": "Pégale una patada y coge el de fuego",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pegale-una-patada-y-coge-el-de-fuego.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pegale-una-patada-y-coge-el-de-fuego.mp3",
       "tag": "New"
     },
     {
       "text": "Que te llene de carne y te quedas limpio",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-te-llene-de-carne-y-te-quedas-limpio.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-te-llene-de-carne-y-te-quedas-limpio.mp3",
       "tag": "New"
     },
     {
       "text": "Pedazo de rabotes",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pedazo-de-rabotes.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pedazo-de-rabotes.mp3",
       "tag": "New"
     },
     {
       "text": "Es una mentirosa no vuelvas más a mí",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/es-una-mentirosa-no-vuelvas-mas-a-mi.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-una-mentirosa-no-vuelvas-mas-a-mi.mp3",
       "tag": "New"
     },
     {
       "text": "Qué?!Qué?!Qué?!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/ke-ke-ke.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/ke-ke-ke.mp3",
       "tag": "New"
     },
     {
       "text": "Perdonad que me estaba pidiendo una hamburguesa...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/perdonad-me-estaba-pidiendo-una-amburguesa.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/perdonad-me-estaba-pidiendo-una-amburguesa.mp3",
       "tag": "New"
     },
     {
       "text": "No te puedo hacer el corte de manga...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-te-puedo-hacer-el-corte-de-manga.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-te-puedo-hacer-el-corte-de-manga.mp3",
       "tag": "New"
     },
     {
       "text": "Es culpa tuya...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/es-culpa-tuya.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-culpa-tuya.mp3",
       "tag": "New"
     },
     {
       "text": "Poco me parece",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/poco-me-parece.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/poco-me-parece.mp3",
       "tag": "New"
     },
     {
       "text": "No! Yo me cago en los gordos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-yo-me-cago-en-los-gordos.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-yo-me-cago-en-los-gordos.mp3",
       "tag": "New"
     },
     {
       "text": "Las vacas no llevan ropa?...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/las-vacas-no-llevan-ropa.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/las-vacas-no-llevan-ropa.mp3",
       "tag": "New"
     },
     {
       "text": "Besito por favor ayyy!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/besito-por-favor-ayyy.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/besito-por-favor-ayyy.mp3",
       "tag": "New"
     },
     {
       "text": "Oy-oy-oy-oy",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/oy-oy-oy-oy.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/oy-oy-oy-oy.mp3",
       "tag": "New"
     },
     {
       "text": "Risa loca",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/risa-loca.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/risa-loca.mp3",
       "tag": "New"
     },
     {
       "text": "WHAT?!!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/wat.mp3",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/wat.mp3",
       "tag": "New"
     },
     {
       "text": "Pido a 'una puta'...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pido-a-una-puta.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pido-a-una-puta.mp3"
     },
     {
       "text": "Pézzimo criteerio",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pezzimo-criterio.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pezzimo-criterio.mp3"
     },
     {
       "text": "Me fumé un porrazo",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-fume-un-porrazo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-fume-un-porrazo.mp3"
     },
     {
       "text": "Voy a cervezas aaa!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/voy-a-cervezas-aaa.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/voy-a-cervezas-aaa.mp3"
     },
     {
       "text": "Vamo vamo eh eh!!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/vamo-vamo-eh-eh.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/vamo-vamo-eh-eh.mp3"
     },
     {
       "text": "Baneame si tienes huevos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/baneame-si-tienes-huevos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/baneame-si-tienes-huevos.mp3"
     },
     {
       "text": "No mando saludos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-mando-saludos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-mando-saludos.mp3"
     },
     {
       "text": "Ya no puedo más",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/ya-no-puedo-mas.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/ya-no-puedo-mas.mp3"
     },
     {
       "text": "La espada de hielo chaval",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/la-espada-de-hielo-chaval.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/la-espada-de-hielo-chaval.mp3"
     },
     {
       "text": "24 horas baneado me...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/24-horas-baneado-me.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/24-horas-baneado-me.mp3"
     },
     {
       "text": "Tu madre es un postre para mí",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/tu-madre-es-un-postre-para-mi.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tu-madre-es-un-postre-para-mi.mp3"
     },
     {
       "text": "Yuhuuu!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/yuhuu.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/yuhuu.mp3"
     },
     {
       "text": "Estará haciendo caca...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/estara-haciendo-caca.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/estara-haciendo-caca.mp3"
     },
     {
       "text": "¿Estás en desacuerdo? Te callas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/estas-en-desacuerdo-te-callas.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/estas-en-desacuerdo-te-callas.mp3"
     },
     {
       "text": "Viva Hannah Montana...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/viva-hannah-montana.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/viva-hannah-montana.mp3"
     },
     {
       "text": "Redz, quiero el diamante a trabajar",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/redz-a-trabajar-quiero-el-diamante.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/redz-a-trabajar-quiero-el-diamante.mp3"
     },
     {
       "text": "Redz, cambia eso",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/redz-cambia-eso.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/redz-cambia-eso.mp3"
     },
     {
       "text": "Un besito a todos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/un-besito-a-todos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/un-besito-a-todos.mp3"
     },
     {
       "text": "Dale like",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/dale-like.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/dale-like.mp3"
     },
     {
       "text": "Punto!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/punto.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/punto.mp3"
     },
     {
       "text": "Que ya te he escuchado...!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-ya-te-he-escuchado.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-ya-te-he-escuchado.mp3"
     },
     {
       "text": "Habla todo lo español que puedas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/habla-todo-lo-espanol-que-puedas.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/habla-todo-lo-espanol-que-puedas.mp3"
     },
     {
       "text": "Quiero que estés callado",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/quiero-que-estes-callado.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/quiero-que-estes-callado.mp3"
     },
     {
       "text": "Esto qué cojones es",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/esto-que-cojones-es.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/esto-que-cojones-es.mp3"
     },
     {
       "text": "Helado de Happy Hippo",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/helado-de-happy-hippo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/helado-de-happy-hippo.mp3"
     },
     {
       "text": "Esto no es juego",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/esto-no-es-un-juego.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/esto-no-es-un-juego.mp3"
     },
     {
       "text": "Me fumo 4 porros",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-fumo-4-porros.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-fumo-4-porros.mp3"
     },
     {
       "text": "Los inyecto para levantar España...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/los-inyecto-para.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/los-inyecto-para.mp3"
     },
     {
       "text": "A estudiar",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/a-estudiar.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/a-estudiar.mp3"
     },
     {
       "text": "¡¿Quééé?!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/queee.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/queee.mp3"
     },
     {
       "text": "¡¿De verdad?!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/de-verdad.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/de-verdad.mp3"
     },
     {
       "text": "¿Cómo que un juego?",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/como-que-un-juego.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/como-que-un-juego.mp3"
     },
     {
       "text": "¡¡Hooostias!!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/hostias.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/hostias.mp3"
     },
     {
       "text": "Hijo de la gran puta",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/hijo-de-la-gran-puta.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/hijo-de-la-gran-puta.mp3"
     },
     {
       "text": "Español de España",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/espanol-de-espana.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/espanol-de-espana.mp3"
     },
     {
       "text": "Hemos vuelto...!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/hemos-vuelto.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/hemos-vuelto.mp3"
     },
     {
       "text": "Aaaaah mis ojos!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/aaa-mis-ojos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/aaa-mis-ojos.mp3"
     },
     {
       "text": "Vaya tetas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/vaya-tetas.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/vaya-tetas.mp3"
     },
     {
       "text": "Parad de rodar",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/parad-de-rodar.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/parad-de-rodar.mp3"
     },
     {
       "text": "Deja de estar tan feliz",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/deja-de-estar-tan-feliz.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/deja-de-estar-tan-feliz.mp3"
     },
     {
       "text": "Viva España hijos de la gran puta",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/viva-espana-hijos-de-la-gran-puta.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/viva-espana-hijos-de-la-gran-puta.mp3"
     },
     {
       "text": "A ver si se oye así bien",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/a-ver-si-se-oye-asi-bien.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/a-ver-si-se-oye-asi-bien.mp3"
     },
     {
       "text": "Bueno",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/bueno.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/bueno.mp3"
     },
     {
       "text": "Fuera de mi puta vista",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/fuera-de-mi-puta-vista.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/fuera-de-mi-puta-vista.mp3"
     },
     {
       "text": "Gordo, peazo de vaca",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/gordo-peazo-de-vaca.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/gordo-peazo-de-vaca.mp3"
     },
     {
       "text": "Gordo como una polla",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/gordo-como-una-polla.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/gordo-como-una-polla.mp3"
     },
     {
       "text": "Jajaja",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/jajaja.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/jajaja.mp3"
     },
     {
       "text": "La madre que os parió",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/la-madre-que-os-pario.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/la-madre-que-os-pario.mp3"
     },
     {
       "text": "La pisa aterrisa en Ibisa",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pisa-aterrisa-ibisa.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pisa-aterrisa-ibisa.mp3"
     },
     {
       "text": "Los que te dicen que siempre comen sano...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/los-que-te-dicen-que-siempre-comen-sano.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/los-que-te-dicen-que-siempre-comen-sano.mp3"
     },
     {
       "text": "Me cago en tu putísima madre",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-cago-en.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-cago-en.mp3"
     },
     {
       "text": "Me cago en tus muertos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-cago-en-tus-muertos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-cago-en-tus-muertos.mp3"
     },
     {
       "text": "Me he fumado un porro",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-he-fumado-un-porro.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-he-fumado-un-porro.mp3"
     },
     {
       "text": "Me he dejado las llaves dentro...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/me-he-dejado-las-llaves-dentro.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-he-dejado-las-llaves-dentro.mp3"
     },
     {
       "text": "Mi plato favorito es ver gente llorando",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/mi-plato-favorito-es-ver-gente-llorando.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/mi-plato-favorito-es-ver-gente-llorando.mp3"
     },
     {
       "text": "Mirad qué puta locura",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/mirad-que-puta-locura.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/mirad-que-puta-locura.mp3"
     },
     {
       "text": "Ni de coña chaval",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/ni-de-conia.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/ni-de-conia.mp3"
     },
     {
       "text": "Noname de mierda",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/noname-de-mierda.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/noname-de-mierda.mp3"
     },
     {
       "text": "No es gracioso",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/no-es-gracioso.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-es-gracioso.mp3"
     },
     {
       "text": "Pedro Sánchez y...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pedro-sanche-y.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pedro-sanche-y.mp3"
     },
     {
       "text": "Pero tú eres gilipollas o qué",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pero-tu-eres-gilipollas-o-que.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pero-tu-eres-gilipollas-o-que.mp3"
     },
     {
       "text": "Podéis agarrarme del glande",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/podeis-agarrarme-del-glande.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/podeis-agarrarme-del-glande.mp3"
     },
     {
       "text": "Pum baneado 15 días",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pum-baneado-15-dias.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pum-baneado-15-dias.mp3"
     },
     {
       "text": "Pumba que dale",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/pumba-que-dale.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/pumba-que-dale.mp3"
     },
     {
       "text": "Putos pringaos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/putos-pringaos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/putos-pringaos.mp3"
     },
     {
       "text": "Que no se pasen de listos",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-no-se-pasen-de-listos.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-no-se-pasen-de-listos.mp3"
     },
     {
       "text": "¡Qué dices!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-dices.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-dices.mp3"
     },
     {
       "text": "¡Qué pasa!",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-pasa.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-pasa.mp3"
     },
     {
       "text": "Qué cojones me vas a contar tú",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-cojones-me-vas-a-contar-tu.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-cojones-me-vas-a-contar-tu.mp3"
     },
     {
       "text": "Que te meto",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/que-te-meto.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-te-meto.mp3"
     },
     {
       "text": "Quien cojones te crees que eres",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/quien-cojones-te-crees-que-eres.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/quien-cojones-te-crees-que-eres.mp3"
     },
     {
       "text": "Quieres que te haga caca en la cara?",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/quieres-que-te-haga-caca-en-la-cara.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/quieres-que-te-haga-caca-en-la-cara.mp3"
     },
     {
       "text": "Se me cae la babita",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/se-me-cae-la-babita.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/se-me-cae-la-babita.mp3"
     },
     {
       "text": "Soy el mejor streamer de España",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/soy-el-mejor-streamer-de-espania.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/soy-el-mejor-streamer-de-espania.mp3"
     },
     {
       "text": "Soy el Xokas",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/soy-el-xokas.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/soy-el-xokas.mp3"
     },
     {
       "text": "Tell me what you want...",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/tell-me-what-you-want.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tell-me-what-you-want.mp3"
     },
     {
       "text": "Te meto una hostia",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/te-meto-una-hostia.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/te-meto-una-hostia.mp3"
     },
     {
       "text": "Y culo,culo y culo",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/y-culo-culo-y-culo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/y-culo-culo-y-culo.mp3"
     },
     {
       "text": "Y le he dao un poco a la teta",
-      "soundURL": "https://github.com/Xatpy/thesoundstable/raw/main/sounds/ElXokas/data/y-le-he-dao-un-poco-a-la-teta.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/y-le-he-dao-un-poco-a-la-teta.mp3"
     }
   ]
 }

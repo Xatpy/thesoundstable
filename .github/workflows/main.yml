@@ -20,7 +20,11 @@ jobs:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@v4
-        with:
-          folder: build # The folder the action should deploy.
+        run: |
+          yarn run predeploy
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/Xatpy/thesoundstable.git
+          npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
+        env:
+         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
           

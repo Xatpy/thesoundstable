@@ -14,7 +14,7 @@ jobs:
         run: |
           yarn install
           yarn run build
-          yarn run deploy
+          yarn run deploy -- -u "github-actions-bot <support+actions@github.com>"
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4

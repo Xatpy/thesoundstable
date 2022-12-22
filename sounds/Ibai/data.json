@@ -1,0 +1,625 @@
+{
+  "title": "Ibai",
+  "sounds": [
+    {
+      "text": "Full Nexooo!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/full-nexooo.mp3"
+    },
+    {
+      "text": "Callaaa!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/CALLAAA.mp3"
+    },
+    {
+      "text": "Si si si",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/si-si-si.mp3"
+    },
+    {
+      "text": "Cree en ti hostia!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/cree-en-ti-hostia.mp3"
+    },
+    {
+      "text": "A tomar por culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-tomar-por-culo.mp3"
+    },
+    {
+      "text": "Risa ",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/risa(1).mp3"
+    },
+    {
+      "text": "Francés que veo francés que gano",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/frances-que-veo-frances-que-gano.mp3"
+    },
+    {
+      "text": "Me cago en su puta madre",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-cago-en-su-puta-madre.mp3"
+    },
+    {
+      "text": "Ahora nos vamos a pillar un cogorzón",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/ahora-nos-vamos-a-pillar-un-cogorzon.mp3"
+    },
+    {
+      "text": "Pesado de mierda, friki!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pesado-de-mierda-friki.mp3"
+    },
+    {
+      "text": "Huele a osito!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/huele-a-osito.mp3"
+    },
+    {
+      "text": "Cabezón cabezón ih ih",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/cabezon-cabezon-ih-ih.mp3"
+    },
+    {
+      "text": "¿Qué cojones está pasando?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-cojones-esta-pasando.mp3"
+    },
+    {
+      "text": "Me cago en tu puta madre...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-cago-en-tu-puta-madre.mp3"
+    },
+    {
+      "text": "¿Pero qué es esto?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pero-que-es-esto.mp3"
+    },
+    {
+      "text": "¿El quién Piqué? El andorrano...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/el-quien-pique-el-andorrano.mp3"
+    },
+    {
+      "text": "¿Dónde esta el clítoris?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/donde-esta-el-clitoris.mp3"
+    },
+    {
+      "text": "Mua ha ha ha",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/mua-ha-ha-ha.mp3"
+    },
+    {
+      "text": "A veces duras poco y...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-veces-duras-poco-y.mp3"
+    },
+    {
+      "text": "Nooo nooo nooo!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/nooo-nooo-nooo.mp3"
+    },
+    {
+      "text": "Illo que racano zois los catalanes",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/illo-que-racano-zois-los-catalanes.mp3"
+    },
+    {
+      "text": "Dios diosss!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/dios-diosss.mp3"
+    },
+    {
+      "text": "Hostias yo tenia una cena hoy",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hostias-yo-tenia-una-cena-hoy.mp3"
+    },
+    {
+      "text": "Justo cuando empezó Karmaland...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/justo-cuando-empezo-karmaland.mp3"
+    },
+    {
+      "text": "Peazo de gilipollas!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/peazo-de-gilipollas.mp3"
+    },
+    {
+      "text": "A estos periodistas le metia un cañonazo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-estos-periodistas-le-metia-un-canionazo.mp3"
+    },
+    {
+      "text": "Luisito Comunica ven y comprame la verga",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/luisito-comunica-ven-y-comprame-la-verga.mp3"
+    },
+    {
+      "text": "Chavales chavales chavales",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/chavales-chavales-chavales.wav"
+    },
+    {
+      "text": "¿Fumo?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/fumo.mp3"
+    },
+    {
+      "text": "Efectivamente eres extremadamente atractivo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/efectivamente-eres-extremadamente-atractivo.mp3"
+    },
+    {
+      "text": "Voy a Argentina y le arreglo internet",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/voy-a-argentina-y-le-arreglo-internet.mp3"
+    },
+    {
+      "text": "Vamoooos!!! A mamar pollas!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vamoooos-a-mamar-pollas.wav"
+    },
+    {
+      "text": "Calladito tonto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/calladito-tonto.mp3"
+    },
+    {
+      "text": "Y hay ya hasta tetas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/y-hay-ya-hasta-tetas.mp3"
+    },
+    {
+      "text": "Hacerte una paja y meterte un dedo por el culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hacerte-una-paja-y-meterte-un-dedo-por-el-culo.mp3"
+    },
+    {
+      "text": "España el pais que más...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/espania-el-pais-que-mas.wav"
+    },
+    {
+      "text": "La vida me pegaba un pollazo en la cabeza",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/la-vida-me-pegaba-un-pollazo-en-la-cabeza.mp3"
+    },
+    {
+      "text": "3 2 1 impostor",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/3-2-1-impostor.mp3"
+    },
+    {
+      "text": "Veo un Big Mac y digo...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/veo-un-big-mac-y-digo.mp3"
+    },
+    {
+      "text": "Inglés del verbo to be",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/ingles-del-verbo-to-be.mp3"
+    },
+    {
+      "text": "Tomaaa a mamarla!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tomaaa-a-mamarla.mp3"
+    },
+    {
+      "text": "He he he",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/he-he-he.mp3"
+    },
+    {
+      "text": "Me cago en toda tu puta madre",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-cago-en-toda-tu-puta-madre.mp3"
+    },
+    {
+      "text": "Porque odio a los catalanes",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/porque-odio-a-los-catalanes.mp3"
+    },
+    {
+      "text": "A mi me la pela",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-mi-me-la-pela.mp3"
+    },
+    {
+      "text": "Me has pillado un poco a contrapie",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-has-pillado-un-poco-a-contrapie.mp3"
+    },
+    {
+      "text": "Tengo la katana de Rubius",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tengo-la-katana-de-rubius.mp3"
+    },
+    {
+      "text": "Yo no hago nada",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/yo-no-hago-nada.mp3"
+    },
+    {
+      "text": "Antes que alcohol",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/antes-que-alcohol.mp3"
+    },
+    {
+      "text": "Es impresionante como me ponen las abuelas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/es-impresionante-como-me-ponen-las-abuelas.mp3"
+    },
+    {
+      "text": "Esto es una broma",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/esto-es-una-broma.mp3"
+    },
+    {
+      "text": "Que venga el monstruo...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-venga-el-monstruo.mp3"
+    },
+    {
+      "text": "Soy el patito feo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/soy-el-patito-feo.mp3"
+    },
+    {
+      "text": "No tienes novia",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-tienes-novia.mp3"
+    },
+    {
+      "text": "Uuu aquí trincamos pasta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/uuu-aqui-trincamos-pasta.mp3"
+    },
+    {
+      "text": "Tengo los pezones mazo de duros",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tengo-los-pezones-mazo-de-duros.mp3"
+    },
+    {
+      "text": "Le metes un dedo en el culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/le-metes-un-dedo-en-el-culo.mp3"
+    },
+    {
+      "text": "Eh eh hijos de la gran puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/eh-eh-hijos-de-la-gran-puta.mp3"
+    },
+    {
+      "text": "Aaah aaah!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/aaa-aaa.mp3"
+    },
+    {
+      "text": "Quiero besarte",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/quiero-besarte.mp3"
+    },
+    {
+      "text": "Yo lo que me he comido es una polla de humano",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/yo-lo-que-me-he-comido-es-una-polla-de-humano.mp3"
+    },
+    {
+      "text": "Que que no vas a hacer nada",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-que-no-vas-a-hacer-nada.mp3"
+    },
+    {
+      "text": "Uuu fuck you",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/uuu-fuck-you.mp3"
+    },
+    {
+      "text": "Que te quiero",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-te-quiero.mp3"
+    },
+    {
+      "text": "Te quité los petit suisse",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/te-quite-los-petit-suisse.mp3"
+    },
+    {
+      "text": "Esto es una puta mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/esto-es-una-puta-mierda.mp3"
+    },
+    {
+      "text": "Yo tengo un problema y es que creo que me muero",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/yo-tengo-un-problema-y-es-que-creo-que-me-muero.mp3"
+    },
+    {
+      "text": "Me cago en su puta madre hostia puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-cago-en-su-puta-madre-hostia-puta.mp3"
+    },
+    {
+      "text": "Sois unas panda de hijos de puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/sois-unas-panda-de-hijos-de-puta.mp3"
+    },
+    {
+      "text": "Por qué estas enfadado? Sonrie",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/porque-estas-enfadado-sonrie.mp3"
+    },
+    {
+      "text": "Y le mete una teta en la boca",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/y-le-mete-una-teta-en-la-boca.mp3"
+    },
+    {
+      "text": "Eso va a ser la polla cabron",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/eso-va-a-ser-la-polla-cabron.mp3"
+    },
+    {
+      "text": "Le haces pam mamada",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/le-haces-pam-mamada.mp3"
+    },
+    {
+      "text": "Jalar no es hacerte una paja?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/jalar-no-es-hacerte-una-paja.mp3"
+    },
+    {
+      "text": "Argentina me parece el pais mas feo de latam",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/argentina-me-parece-el-pais-mas-feo-de-latam.wav"
+    },
+    {
+      "text": "Risa",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/risa.mp3"
+    },
+    {
+      "text": "Va a haber droga para vender",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/va-a-haber-droga-para-vender.mp3"
+    },
+    {
+      "text": "Y pongo me cago en toda tu puta madre",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/y-pongo-me-cago-en-toda-tu-puta-madre.mp3"
+    },
+    {
+      "text": "Me hago una paja mira la zambomba",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-hago-una-paja-mira-la-zambomba.mp3"
+    },
+    {
+      "text": "Me duele la polla",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-duele-la-polla.mp3"
+    },
+    {
+      "text": "Tu zabeh Cristina",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tu-zabe-cristina.mp3"
+    },
+    {
+      "text": "Han invitado a la tia mas guarra del planeta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/han-invitado-a-la-tia-mas-guarra-del-planeta.mp3"
+    },
+    {
+      "text": "Hay que buscar una vagina",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hay-que-buscar-una-vagina.mp3"
+    },
+    {
+      "text": "Ya estoy notando que la bilirrubina sube",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/ya-estoy-notando-que-la-bilirrubina-sube.mp3"
+    },
+    {
+      "text": "Creo que tengo una nueva adiccion",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/creo-que-tengo-una-nueva-adiccion.mp3"
+    },
+    {
+      "text": "Sal a la calle a beber y fumar unos porros",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/sal-a-la-calle-a-beber-y-fumar-unos-porros.mp3"
+    },
+    {
+      "text": "Me parto la polla",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-parto-la-polla.mp3"
+    },
+    {
+      "text": "Pues que te den por culo perro",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pues-que-te-den-por-culo-perro.mp3"
+    },
+    {
+      "text": "¿Eres Auron Play?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/eres-auron-play.mp3"
+    },
+    {
+      "text": "Soy Hanna Montana",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/soy-hanna-montana.mp3"
+    },
+    {
+      "text": "Te lo vuelvo a decir son robots",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/te-lo-vuelvo-a-decir-son-robots.mp3"
+    },
+    {
+      "text": "¿Por cuánto dinero...?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/por-cuanto-dinero.mp3"
+    },
+    {
+      "text": "No he estudiado nada...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-he-estudiado-nada.mp3"
+    },
+    {
+      "text": "Podéis ganar vuestro peso en congitos",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/podeis-ganar-vuestro-peso-en-congitos.mp3"
+    },
+    {
+      "text": "Modo avión, masturbacion y cama",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/modo-avion-masturbacion-y-cama.mp3"
+    },
+    {
+      "text": "Madre de mi vida que barbaridad",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/madre-de-mi-vida-que-barbaridad.mp3"
+    },
+    {
+      "text": "Dale al espacio si no eres francés",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/dale-al-espacio-si-no-eres-frances.mp3"
+    },
+    {
+      "text": "Hostias",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hostias.mp3"
+    },
+    {
+      "text": "Me gusta mucho cuando...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-gusta-mucho-cuando.mp3"
+    },
+    {
+      "text": "But you cant have tortilla de España",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/but-you-cant-have-tortilla-de-espania.mp3"
+    },
+    {
+      "text": "Yo es que si pensaba algo gay en clase",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/yo-es-que-si-pensaba-algo-gay-en-clase.mp3"
+    },
+    {
+      "text": "Lo que hay que hacer mas grande es la cabeza de Illo Juan",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/lo-que-hay-que-hacer-mas-grande-es-la-cabeza-de-illo-juan.mp3"
+    },
+    {
+      "text": "Como os gusta fumar!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/como-os-gusta-fumar.mp3"
+    },
+    {
+      "text": "Tío de verdad...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tio-de-verdad.mp3"
+    },
+    {
+      "text": "me voy a comer un yogur",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-voy-a-comer-un-yogur.mp3"
+    },
+    {
+      "text": "Chapi",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/chapi.mp3"
+    },
+    {
+      "text": "Estoy más vivo que nunca hijo de puta!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/estoy-mas-vivo-que-nunca-hijo-de-puta.mp3"
+    },
+    {
+      "text": "Pues yo tengo 30 mil chupame la polla",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pues-yo-tengo-30mil-chupame-la-polla.mp3"
+    },
+    {
+      "text": "Hola buenos dias hoy me siento bien",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hola-buenos-dias-hoy-me-siento-bien.mp3"
+    },
+    {
+      "text": "Vaaammooo!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vaaammooo.mp3"
+    },
+    {
+      "text": "Meterte una raya y luego...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/meterte-una-ralla-y-luego.mp3"
+    },
+    {
+      "text": "No duro,pero que estuviese activo el pene",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-duro-pero-que-estuviese-activo-el-pene.mp3"
+    },
+    {
+      "text": "Qué buena estaba",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-buena-estaba.mp3"
+    },
+    {
+      "text": "Puto milagro viendo a mi tandem",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/puto-milagro-viendo-a-mi-tandem.mp3"
+    },
+    {
+      "text": "A mi por amor...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-mi-por-amor.mp3"
+    },
+    {
+      "text": "A mi me encanta hacer el coito",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-mi-me-encanta-hacer-el-coito.mp3"
+    },
+    {
+      "text": "Como me gusta saludar a las madres",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/como-me-gusta-saludar-a-las-madres.mp3"
+    },
+    {
+      "text": "Eso es la polla",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/eso-es-la-polla.mp3"
+    },
+    {
+      "text": "Vamos a un balcon a celebrarlo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vamos-a-un-balcon-a-celebrarlo.mp3"
+    },
+    {
+      "text": "Dime tu codigo postal",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/dime-tu-codigo-postal.mp3"
+    },
+    {
+      "text": "Me da un beso, está en modo zorrita hoy",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-da-un-beso-esta-en-modo-zorrita-hoy.mp3"
+    },
+    {
+      "text": "¿Qué dices puto anormal de los cojones?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-dices-puto-anormal-de-los-cojones.mp3"
+    },
+    {
+      "text": "¿Esto es coña no?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/esto-es-conia-no.mp3"
+    },
+    {
+      "text": "Me hago una paja",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-hago-una-paja.mp3"
+    },
+    {
+      "text": "Pero como te llamas asi",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pero-como-te-llamas-asi.mp3"
+    },
+    {
+      "text": "Pues agarrame esto viejo de mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pues-agarrame-esto-viejo-de-mierda.mp3"
+    },
+    {
+      "text": "Vete a tomar por el culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vete-a-tomar-por-el-culo.mp3"
+    },
+    {
+      "text": "Xokas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/xokas.wav"
+    },
+    {
+      "text": "Vikingo de la gran perra",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vikingo-de-la-gran-perra.mp3"
+    },
+    {
+      "text": "Lo he hecho sin querer",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/lo-he-hecho-sin-querer.mp3"
+    },
+    {
+      "text": "Yo necesito minimo después...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/yo-necesito-minimo-despues.mp3"
+    },
+    {
+      "text": "Pues vaya puta mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pues-vaya-puta-mierda.mp3"
+    },
+    {
+      "text": "No la meto...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-la-meto.mp3"
+    },
+    {
+      "text": "Aim atacking",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/aim-atacking.mp3"
+    },
+    {
+      "text": "¿Por quéééé?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/porqueee.mp3"
+    },
+    {
+      "text": "Me parto la polla profesoraaa",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/me-parto-la-polla-profesoraaa.mp3"
+    },
+    {
+      "text": "Cállate",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/callate.mp3"
+    },
+    {
+      "text": "Para que me dejés de dar por el culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/para-que-me-dejeis-de-dar-por-el-culo.mp3"
+    },
+    {
+      "text": "tú no tienes ni puta idea porque eres un puto noname de mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/tu-no-tienes-ni-puta-idea-porque-eres-un-puto-noname-de-mierda.mp3"
+    },
+    {
+      "text": "Qué rica verga",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-rica-verga.mp3"
+    },
+    {
+      "text": "A chuparla!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-chuparla.mp3"
+    },
+    {
+      "text": "Eh anormal de mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/eh-anormal-de-mierda.mp3"
+    },
+    {
+      "text": "A mi la leche me encanta...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/a-mi-la-leche-me-encanta.mp3"
+    },
+    {
+      "text": "Pa pa pa ya ha merendado",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/pa-pa-pa-ya-ha-merendado.mp3"
+    },
+    {
+      "text": "Un aplauso que estan viniendo todos los gilipollas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/un-aplauso-que-estan-viniendo-todos-los-gilipollas.mp3"
+    },
+    {
+      "text": "Viene tu mami a casa",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/viene-tu-mami-a-casa.mp3"
+    },
+    {
+      "text": "Hijo de puta no da risa",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/hijo-de-puta-no-da-risa.mp3"
+    },
+    {
+      "text": "Dedicada al gilipollas de vuestro exnovio",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/dedicada-al-gilipollas-de-vuestro-exnovio.mp3"
+    },
+    {
+      "text": "No ganamos una hoy tu",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-ganamos-una-hoy-tu.mp3"
+    },
+    {
+      "text": "No me toques los cojones",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/no-me-toques-los-cojones.mp3"
+    },
+    {
+      "text": "Qué ha pasao",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/que-ha-pasao.mp3"
+    },
+    {
+      "text": "Y este pivonazo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/y-este-pivonazo.mp3"
+    },
+    {
+      "text": "vas a meter tu pene dentro tambien",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/vas-a-meter-tu-pene-dentro-tambien.mp3"
+    },
+    {
+      "text": "Voy a hablar como me salga de la polla",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/voy-a-hablar-como-me-salga-de-la-polla.mp3"
+    },
+    {
+      "text": "Bueno me sirve",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/master/Ibai/data/bueno-me-sirve.mp3"
+    }
+  ]
+}

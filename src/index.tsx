@@ -16,14 +16,11 @@ import dataLaVidaModerna from "src/data/laVidaModerna.json";
 import dataLuisEnrique from "src/data/luisEnrique.json";
 import dataMaldini from "src/data/maldini.json";
 import dataRubius from "src/data/rubius.json";
+import dataElChiringuito from "src/data/elChiringuito.json";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
-
-// console.log(
-//   `1 The current URL is ${window.location.pathname}${window.location.search}${window.location.hash}`
-// );
 
 // const basePath = "/thesoundstable.com-react";
 const basePath = "/";
@@ -84,6 +81,23 @@ root.render(
         <Route
           path={`${basePath}/Rubius`}
           children={<App data={dataRubius} />}
+        />
+
+        <Route
+          path={`/ElChiringuito`}
+          children={<App data={dataElChiringuito} />}
+        />
+        <Route
+          path={`/elchiringuito`}
+          children={<App data={dataElChiringuito} />}
+        />
+        <Route
+          path={`${basePath}/Chiringuito`}
+          children={<App data={dataElChiringuito} />}
+        />
+        <Route
+          path={`${basePath}/chiringuito`}
+          children={<App data={dataElChiringuito} />}
         />
 
         {/* Not found */}

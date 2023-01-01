@@ -3,9 +3,9 @@ import os
 
 import json
 
-path = "/Users/jaimechapinal/workspace/thesoundstable/Rubius/data"
+path = "/Users/jaimechapinal/workspace/thesoundstable/ElChiringuito/data"
 
-character = "Rubius"
+character = "ElChiringuito"
 
 f = []
 filenames = next(walk(path), (None, None, []))[2]  

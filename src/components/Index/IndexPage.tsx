@@ -7,6 +7,7 @@ import laVidaModernaImage from "src/images/people/laVidaModerna.jpeg";
 import luisEnriqueImage from "src/images/people/luisEnrique.webp";
 import maldiniImage from "src/images/people/maldini.webp";
 import rubiusImage from "src/images/people/rubius.jpeg";
+import elChiringuitoImage from "src/images/people/elChiringuito.webp";
 
 import { Header } from "../Header";
 import { IndexLink } from "./IndexLink";
@@ -38,7 +39,6 @@ export const IndexPage: React.FC = () => {
             imagePath={luisEnriqueImage}
             title="LuisEnrique"
           />
-
           <IndexLink
             href="./Maldini/"
             imagePath={maldiniImage}
@@ -48,6 +48,11 @@ export const IndexPage: React.FC = () => {
             href="./LaVidaModerna/"
             imagePath={laVidaModernaImage}
             title="La Vida Moderna"
+          />
+          <IndexLink
+            href="./ElChiringuito/"
+            imagePath={elChiringuitoImage}
+            title="El Chiringuito"
           />
         </div>
       </div>

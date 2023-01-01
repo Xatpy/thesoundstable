@@ -14,6 +14,8 @@ export const Header: React.FC = () => {
 
   const image = getImageFromType(title);
 
+  debugger;
+
   return (
     <header>
       <div className={styles.firstRowHeader}>

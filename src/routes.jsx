@@ -15,6 +15,8 @@ export default (
       <Route path={`/LaVidaModerna`} />
       <Route path={`/Maldini`} />
       <Route path={`/Rubius`} />
+      <Route path={`/ElChiringuito`} />
+      <Route path={`/chiringuito`} />
       <Route path="*" />
     </Switch>
   </BrowserRouter>

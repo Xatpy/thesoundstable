@@ -6,8 +6,16 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/bueno-como-estan-los-makinas.mp3"
     },
     {
+      "text": "Venga vamos a echarnos una fotillo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/venga-vamo-a-echarnos-una-fotillo.mp3"
+    },
+    {
       "text": "Eres un máquina tio",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/que-eres-un-makina-tio.mp3"
+    },
+    {
+      "text": "Y eres un máquina y ya lo sabes",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/eres-un-makina-y-ya-lo-sabes.mp3"
     },
     {
       "text": "Nos representas espectacular",
@@ -24,6 +32,42 @@
     {
       "text": "Ya-te-komo",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/ya-te-komo.mp3"
+    },
+    {
+      "text": "No no no!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/no-no-no.mp3"
+    },
+    {
+      "text": "Silencio",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/silencio.mp3"
+    },
+    {
+      "text": "Venga un beso",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/venga-un-beso.mp3"
+    },
+    {
+      "text": "Eeeh! hehehe",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/eeeh-hehehe.mp3"
+    },
+    {
+      "text": "No no no!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/no-no-no.mp3"
+    },
+    {
+      "text": "Que es un bicharraco malo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/que-es-un-bicharraco-malo.mp3"
+    },
+    {
+      "text": "Me cago en to lo que se menea",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/me-cago-en-to-lo-que-se-menea.mp3"
+    },
+    {
+      "text": "Yo me voy de aquí ¡Asquerosos!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/yo-me-voy-de-aqui-asquerosos.mp3"
+    },
+    {
+      "text": "¡Tú! ¿Tú tienes un boli?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/tuuu-tu-tienes-un-boli.mp3"
     }
   ]
 }

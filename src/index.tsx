@@ -9,6 +9,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { IndexPage } from "src/components/Index/IndexPage";
 import { NotFound } from "./components/NotFound";
 
+import dataBisbal from "src/data/bisbal.json";
 import dataElXokas from "src/data/elXokas.json";
 import dataIbai from "src/data/ibai.json";
 import dataIlloJuan from "src/data/illoJuan.json";
@@ -47,6 +48,18 @@ root.render(
         <Route path={`/Ibai`} children={<App data={dataIbai} />} />
         <Route path={`${basePath}/Ibai`} children={<App data={dataIbai} />} />
 
+        <Route path={`/Bisbal`} children={<App data={dataBisbal} />} />
+        <Route
+          path={`${basePath}/Bisbal`}
+          children={<App data={dataBisbal} />}
+        />
+
+        <Route path={`/IlloJuan`} children={<App data={dataIlloJuan} />} />
+        <Route
+          path={`${basePath}/IlloJuan`}
+          children={<App data={dataIlloJuan} />}
+        />
+
         <Route
           path={`/LuisEnrique`}
           children={<App data={dataLuisEnrique} />}
@@ -54,12 +67,6 @@ root.render(
         <Route
           path={`${basePath}/LuisEnrique`}
           children={<App data={dataLuisEnrique} />}
-        />
-
-        <Route path={`/IlloJuan`} children={<App data={dataIlloJuan} />} />
-        <Route
-          path={`${basePath}/IlloJuan`}
-          children={<App data={dataIlloJuan} />}
         />
 
         <Route

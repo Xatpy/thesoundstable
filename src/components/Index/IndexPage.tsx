@@ -1,5 +1,6 @@
 import React from "react";
 
+import bisbalImage from "src/images/people/bisbal.jpeg";
 import elXokasImage from "src/images/people/elXokas.jpg";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
@@ -33,6 +34,7 @@ export const IndexPage: React.FC = () => {
             imagePath={illoJuanImage}
             title="IlloJuan"
           />
+          <IndexLink href="./Bisbal/" imagePath={bisbalImage} title="Bisbal" />
           <IndexLink href="./Rubius/" imagePath={rubiusImage} title="Rubius" />
           <IndexLink
             href="./LuisEnrique/"

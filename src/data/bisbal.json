@@ -1,0 +1,29 @@
+{
+  "title": "Bisbal",
+  "sounds": [
+    {
+      "text": "Bueno ¿cómo están los máquinas?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/bueno-como-estan-los-makinas.mp3"
+    },
+    {
+      "text": "Eres un máquina tio",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/que-eres-un-makina-tio.mp3"
+    },
+    {
+      "text": "Nos representas espectacular",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/nos-representas-espectacula.mp3"
+    },
+    {
+      "text": "Universaaal",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/universal.mp3"
+    },
+    {
+      "text": "Himno España 🇪🇸",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/himno-espania.mp3"
+    },
+    {
+      "text": "Ya-te-komo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Bisbal/data/ya-te-komo.mp3"
+    }
+  ]
+}

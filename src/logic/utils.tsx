@@ -1,3 +1,4 @@
+import bisbalImage from "src/images/people/bisbal.jpeg";
 import elXokasImage from "src/images/people/elXokas.jpg";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
@@ -21,6 +22,7 @@ export const getImageFromType = (title: string): any => {
     "El Xokas": elXokasImage,
     Ibai: ibaiImage,
     IlloJuan: illoJuanImage,
+    Bisbal: bisbalImage,
     "La Vida Moderna": laVidaModernaImage,
     "Luis Enrique": luisEnriqueImage,
     Maldini: maldiniImage,

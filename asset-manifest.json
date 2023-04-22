@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f9c7b1c6.css",
-    "main.js": "/static/js/main.96e1ec5a.js",
+    "main.js": "/static/js/main.c4dcde03.js",
     "static/js/787.51d04ad4.chunk.js": "/static/js/787.51d04ad4.chunk.js",
     "static/media/highRes.webp": "/static/media/highRes.b011e32c02cce6b38328.webp",
     "static/media/highRes.jpg": "/static/media/highRes.1a896ec9796007191758.jpg",
@@ -10,16 +10,17 @@
     "static/media/elChiringuito.webp": "/static/media/elChiringuito.63628e55b327080e0369.webp",
     "static/media/laVidaModerna.jpeg": "/static/media/laVidaModerna.d5ec16e6da0ded48b4ee.jpeg",
     "static/media/illoJuan.jpeg": "/static/media/illoJuan.37de63105ac71971ef91.jpeg",
+    "static/media/bisbal.jpeg": "/static/media/bisbal.737006832c88c8066b16.jpeg",
     "static/media/luisEnrique.webp": "/static/media/luisEnrique.c81da6d53f6ad1aa80b8.webp",
     "static/media/ibai.jpeg": "/static/media/ibai.f74ff5580e5b3357291f.jpeg",
     "static/media/maldini.webp": "/static/media/maldini.d364ace09133c07c3019.webp",
     "index.html": "/index.html",
     "main.f9c7b1c6.css.map": "/static/css/main.f9c7b1c6.css.map",
-    "main.96e1ec5a.js.map": "/static/js/main.96e1ec5a.js.map",
+    "main.c4dcde03.js.map": "/static/js/main.c4dcde03.js.map",
     "787.51d04ad4.chunk.js.map": "/static/js/787.51d04ad4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c7b1c6.css",
-    "static/js/main.96e1ec5a.js"
+    "static/js/main.c4dcde03.js"
   ]
 }

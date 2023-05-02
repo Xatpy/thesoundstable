@@ -40,21 +40,8 @@ export const Main: React.FC<Props> = ({ data }) => {
         let childrenButtons = [];
         for (let i = 0; i < data.sounds.length; ++i) {
           if (verifySound(data.sounds[i])) {
-            /*let innerDiv = document.createElement("div");
-              if (data.sounds[i].tag) {
-                let span = document.createElement("span");
-                span.classList.add("tag");
-                if (data.sounds[i].tag === "New") {
-                  span.classList.add("tagNew");
-                }
-                span.innerHTML = data.sounds[i].tag;
-                innerDiv.appendChild(span);
-              }*/
-
             const urlSound = data.sounds[i].soundURL;
-
             loadAudio(urlSound);
-
             childrenButtons.push(
               <Button
                 key={`button-${i}`}

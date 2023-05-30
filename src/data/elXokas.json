@@ -51,7 +51,11 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/dios.mp3",
       "tag": "Top 10"
     },
-
+    {
+      "text": "Performando a máximo nivel",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/performando-a-maximo-nivel.mp3",
+      "tag": "New"
+    },
     {
       "text": "Kobe Bryant",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/kobe-bryant.mp3",

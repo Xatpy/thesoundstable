@@ -1,5 +1,6 @@
 import React from "react";
 
+import apmImage from "src/images/people/apm.jpg";
 import bisbalImage from "src/images/people/bisbal.jpeg";
 import elXokasImage from "src/images/people/elXokas.jpg";
 import ibaiImage from "src/images/people/ibai.jpeg";
@@ -47,14 +48,15 @@ export const IndexPage: React.FC = () => {
             title="Maldini"
           />
           <IndexLink
-            href="./LaVidaModerna/"
-            imagePath={laVidaModernaImage}
-            title="La Vida Moderna"
-          />
-          <IndexLink
             href="./ElChiringuito/"
             imagePath={elChiringuitoImage}
             title="El Chiringuito"
+          />
+          <IndexLink href="./APM/" imagePath={apmImage} title="APM?" />
+          <IndexLink
+            href="./LaVidaModerna/"
+            imagePath={laVidaModernaImage}
+            title="La Vida Moderna"
           />
         </div>
       </div>

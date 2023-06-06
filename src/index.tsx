@@ -9,6 +9,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { IndexPage } from "src/components/Index/IndexPage";
 import { NotFound } from "./components/NotFound";
 
+import dataAPM from "src/data/apm.json";
 import dataBisbal from "src/data/bisbal.json";
 import dataElXokas from "src/data/elXokas.json";
 import dataIbai from "src/data/ibai.json";
@@ -68,6 +69,11 @@ root.render(
           path={`${basePath}/LuisEnrique`}
           children={<App data={dataLuisEnrique} />}
         />
+
+        <Route path={`/apm`} children={<App data={dataAPM} />} />
+        <Route path={`${basePath}/apm`} children={<App data={dataAPM} />} />
+        <Route path={`/APM`} children={<App data={dataAPM} />} />
+        <Route path={`${basePath}/APM`} children={<App data={dataAPM} />} />
 
         <Route
           path={`/LaVidaModerna`}

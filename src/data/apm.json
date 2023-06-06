@@ -1,0 +1,725 @@
+{
+  "title": "APM",
+  "sounds": [
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_la_mierda.mp3",
+      "text": "A la mierda"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_lo_mejor_es_por_la_fotosintesis.mp3",
+      "text": "A lo mejor es por la fotosintesis"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_mi_me_da_pena_el_chico.mp3",
+      "text": "A mi me da pena el chico"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_mi_me_parece_todo_bien.mp3",
+      "text": "A mi me parece todo bien"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_mi_no_me_haga_pregunta_ninguna.mp3",
+      "text": "A mi no me haga pregunta ninguna"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_mi_que_me_importa.mp3",
+      "text": "A mi que me importa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_proposito_donde_esta_el_sexo.mp3",
+      "text": "A proposito donde esta el sexo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_quien_tas_cargao.mp3",
+      "text": "A quien tas cargao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/a_robar_carteras.mp3",
+      "text": "A robar carteras"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aaaaanaaa.mp3",
+      "text": "Aaaaanaaa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aah_que_peste.mp3",
+      "text": "Aah que peste"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/abobinable.mp3",
+      "text": "Abobinable"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/abril_cerral.mp3",
+      "text": "Abril cerral"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ah_ah_vale.mp3",
+      "text": "Ah ah vale"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ah_me_he_liado.mp3",
+      "text": "Ah me he liado"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ahi_le_tienes_con_dos_cojones.mp3",
+      "text": "Ahi le tienes con dos cojones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aja.mp3",
+      "text": "Aja"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/al_loro.mp3",
+      "text": "Al loro"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/al_mundo_vendran.mp3",
+      "text": "Al mundo vendran"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/alcalde_por_dios_dame_una_casa.mp3",
+      "text": "Alcalde por dios dame una casa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/amazing_que_te_cagas_energy.mp3",
+      "text": "Amazing que te cagas energy"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/anda_mi_madre_pos_yo_no_sabia_eso.mp3",
+      "text": "Anda mi madre pos yo no sabia eso"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/antonio_gilipollas_caraculo.mp3",
+      "text": "Antonio gilipollas caraculo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aqui_caben_tres_muertos.mp3",
+      "text": "Aqui caben tres muertos"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aqui_hay_algo_podrido.mp3",
+      "text": "Aqui hay algo podrido"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aqui_hay_nivel.mp3",
+      "text": "Aqui hay nivel"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/aqui_hay_una_penetracion.mp3",
+      "text": "Aqui hay una penetracion"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/arreando_que_es_tarde.mp3",
+      "text": "Arreando que es tarde"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/arriba_espanya_digame.mp3",
+      "text": "Arriba España digame"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/atencion_al_pajarito.mp3",
+      "text": "Atencion al pajarito"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ay_dios_mio_la_virgen.mp3",
+      "text": "Ay dios mio la virgen"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ay_que_se_mea.mp3",
+      "text": "Ay que se mea"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/bendiciones_y_buenas_noches.mp3",
+      "text": "Bendiciones y buenas noches"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/benedicto_equis_uve_palito.mp3",
+      "text": "Benedicto equis uve palito"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/bravo_bravo_bravo.mp3",
+      "text": "Bravo bravo bravo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/bueno_un_whisky_y_a_dormir.mp3",
+      "text": "Bueno un whisky y a dormir"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/bukkake.mp3",
+      "text": "Bukkake"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/bye_bye.mp3",
+      "text": "Bye bye"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/cabro.mp3",
+      "text": "Cabro"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/caca_supercagada_y.mp3",
+      "text": "Caca supercagada y"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/caguen_la_madre_que_los_pario.mp3",
+      "text": "Caguen la madre que los pario"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/calla_ya_canalla.mp3",
+      "text": "Calla ya canalla"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/caraanchoa.mp3",
+      "text": "Caraanchoa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/casi_na_pal_cuerpo.mp3",
+      "text": "Casi na pal cuerpo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/cien_por_cien_iberico.mp3",
+      "text": "Cien por cien iberico"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ciento_y_pico_de_vena_en_alcohol.mp3",
+      "text": "Ciento y pico de vena en alcohol"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/claro_que_si_campeon.mp3",
+      "text": "Claro que si campeon"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/coge_el_movris.mp3",
+      "text": "Coge el movris"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/como_cristiano_ronaldo.mp3",
+      "text": "Como cristiano ronaldo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/como_se_puede_tolerar_eso.mp3",
+      "text": "Como se puede tolerar eso"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/como_un_pepino.mp3",
+      "text": "Como un pepino"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/comprende_la_filosofia.mp3",
+      "text": "Comprende la filosofia"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/con_dos_cojones.mp3",
+      "text": "Con dos cojones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/con_todo_el_carinyo_pero_becarios_no.mp3",
+      "text": "Con todo el cariño pero becarios no"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/corto_lo_malo_y_entra_lo_sano.mp3",
+      "text": "Corto lo malo y entra lo sano"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/cuidao.mp3",
+      "text": "Cuidao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/dame_tu_fuerza_pegaso.mp3",
+      "text": "Dame tu fuerza pegaso"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/de_moros_y_cristianos.mp3",
+      "text": "De moros y cristianos"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/de_que_te_ries_tu.mp3",
+      "text": "De que te ries tu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/dejame_hablar.mp3",
+      "text": "Dejame hablar"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/dos_escopetas_tengo.mp3",
+      "text": "Dos escopetas tengo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/el_milenarismo_va_a.mp3",
+      "text": "El milenarismo va a"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/enhorabuena.mp3",
+      "text": "Enhorabuena"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/equilicua.mp3",
+      "text": "Equilicua"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/eres_tu.mp3",
+      "text": "Eres tu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/eres_un_porrero.mp3",
+      "text": "Eres un porrero"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/es_de_ser_inutiles.mp3",
+      "text": "Es de ser inutiles"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/es_demencial_es_verguenza_ajena.mp3",
+      "text": "Es demencial es verguenza ajena"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/es_que_em_fa_riure.mp3",
+      "text": "Es que em fa riure"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/es_que_me_desorino.mp3",
+      "text": "Es que me desorino"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/es_un_chico_guapisimo_como_yo.mp3",
+      "text": "Es un chico guapisimo como yo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/eso_es_roja_no.mp3",
+      "text": "Eso es roja no"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/esta_senyora_es_una_guarra.mp3",
+      "text": "Esta señora es una guarra"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/este_tio_es_un_campeon.mp3",
+      "text": "Este tio es un campeon"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/este_tio_esta_flipao.mp3",
+      "text": "Este tio esta flipao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/esto_es_el_bronx.mp3",
+      "text": "Esto es el bronx"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/estupendo.mp3",
+      "text": "Estupendo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/fu_fu_fu_fuu.mp3",
+      "text": "Fu fu fu fuu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/gafas_del_serca.mp3",
+      "text": "Gafas del serca"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/gracias.mp3",
+      "text": "Gracias"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/haaaa_haaaa.mp3",
+      "text": "Haaaa haaaa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/hablemos_claro_y_con_cojones.mp3",
+      "text": "Hablemos claro y con cojones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/hemos_triumfao_alcohol_namas.mp3",
+      "text": "Hemos triumfao alcohol namas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/hippie_colgao.mp3",
+      "text": "Hippie colgao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ho_haveu_vist.mp3",
+      "text": "Ho haveu vist"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/imposible.mp3",
+      "text": "Imposible"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/jajaja_hasta_manyana.mp3",
+      "text": "Jajaja hasta mañana"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/julio_borracho_lavate.mp3",
+      "text": "Julio borracho lavate"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/la_abuela_fuma_la_abuela_bebe.mp3",
+      "text": "La abuela fuma la abuela bebe"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/la_biblia_me_la_paso_por_los_cojones.mp3",
+      "text": "La biblia me la paso por los cojones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/la_sociedad_huye.mp3",
+      "text": "La sociedad huye"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/la_verda_es_que_nunca.mp3",
+      "text": "La verda es que nunca"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/le_damos_un_aplauso.mp3",
+      "text": "Le damos un aplauso"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/leche_calentita.mp3",
+      "text": "Leche calentita"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/lo_ha_dicho.mp3",
+      "text": "Lo ha dicho"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/lo_siento_mucho.mp3",
+      "text": "Lo siento mucho"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/lololololooo.mp3",
+      "text": "Lololololooo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/madre_mia_como_esta_la_vida.mp3",
+      "text": "Madre mia como esta la vida"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/man_crying.mp3",
+      "text": "Man crying"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/maquinote.mp3",
+      "text": "Maquinote"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/marichocho.mp3",
+      "text": "Marichocho"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/me_emociono.mp3",
+      "text": "Me emociono"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/me_puede_hablar_en_castellano.mp3",
+      "text": "Me puede hablar en castellano"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/me_teneis_hasta_los_cojones.mp3",
+      "text": "Me teneis hasta los cojones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/mi_filosofia_es_que_la_vida.mp3",
+      "text": "Mi filosofia es que la vida"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/no_entiendo_nada.mp3",
+      "text": "No entiendo nada"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/no_hace_falta_decir_nada_mas.mp3",
+      "text": "No hace falta decir nada mas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/no_me_hagas_mas_reir.mp3",
+      "text": "No me hagas mas reir"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/no_oigo_na.mp3",
+      "text": "No oigo na"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/nos_esta_enganyando.mp3",
+      "text": "Nos esta engañando"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ole_tu.mp3",
+      "text": "Ole tu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ostia.mp3",
+      "text": "Ostia"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/palla_no_palla.mp3",
+      "text": "Palla no palla"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/pero_que_estas_disiendo_tu.mp3",
+      "text": "Pero que estas disiendo tu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/pero_usted_quien_es.mp3",
+      "text": "Pero usted quien es"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/pim_pam_toma_lacasitos.mp3",
+      "text": "Pim pam toma lacasitos"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/po_mu_bien.mp3",
+      "text": "Po mu bien"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/poca_verguenza_esquerosa.mp3",
+      "text": "Poca verguenza esquerosa"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/policia.mp3",
+      "text": "Policia"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ponga_tres_canyas.mp3",
+      "text": "Ponga 3 cañas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/por_que_no_te_callas.mp3",
+      "text": "Por que no te callas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/por_que_zenyo_por_que.mp3",
+      "text": "Por que zeñó por que"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/profesional.mp3",
+      "text": "Profesional"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/pues_que_te_den_por_culo_dos_veces.mp3",
+      "text": "Pues que te den por culo dos veces"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/pumpum.mp3",
+      "text": "Pumpum"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_diantres_es_eso.mp3",
+      "text": "Que diantres es eso"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_es_ese_animal.mp3",
+      "text": "Que es ese animal"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_le_parece_el_rio.mp3",
+      "text": "Que le parece el rio"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_no_te_enteras.mp3",
+      "text": "Que no te enteras"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_nos_vamos_a_ahogar.mp3",
+      "text": "Que nos vamos a ahogar"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_pollas_pasa_aqui.mp3",
+      "text": "Que pollas pasa aqui"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_que_que_que.mp3",
+      "text": "Que que que que"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/que_te_meto_con_el_mechero.mp3",
+      "text": "Que te meto con el mechero"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/quien_es_ese_hombre.mp3",
+      "text": "Quien es ese hombre"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/quien_ha_dicho_esta_memez.mp3",
+      "text": "Quien ha dicho esta memez"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/quieres_50_euros.mp3",
+      "text": "Quieres 50 euros"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/quieres_que_saquemos_la_pistola.mp3",
+      "text": "Quieres que saquemos la pistola"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/quiero_que_se_peleen.mp3",
+      "text": "Quiero que se peleen"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ra_ra_ragazza.mp3",
+      "text": "Ra ra ragazza"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/risitas.mp3",
+      "text": "Risitas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/riure.mp3",
+      "text": "Riure"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/riure_del_bustamante.mp3",
+      "text": "Riure del bustamante"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/riure_mario_vaquerizo.mp3",
+      "text": "Riure mario vaquerizo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sa_matao_paco.mp3",
+      "text": "Sa matao paco"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sa_tirao.mp3",
+      "text": "Sa tirao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sabes_que_es_una_perlana.mp3",
+      "text": "Sabes que es una perlana"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/se_lo_has_dicho_a_tu_medico.mp3",
+      "text": "Se lo has dicho a tu medico"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/se_va_a_habe_un_follon.mp3",
+      "text": "Se va a habe un follon"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/si_cuela_cuela_y_si_no.mp3",
+      "text": "Si cuela cuela y si no"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/si_no_es_aqui_es_en_pequin.mp3",
+      "text": "Si no es aqui es en pequin"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/si_si_si_que_me_quedo_sin_comer.mp3",
+      "text": "Si si si que me quedo sin comer"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sigue_siendo_aquel.mp3",
+      "text": "Sigue siendo aquel"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sin_animo_de_lucro.mp3",
+      "text": "Sin animo de lucro"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/sois_de_puta_madre.mp3",
+      "text": "Sois de puta madre"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/soy_el_guardian_de_las_estrellas.mp3",
+      "text": "Soy el guardian de las estrellas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/surrealismo.mp3",
+      "text": "Surrealismo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/ta_enterao.mp3",
+      "text": "Ta enterao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/te_estas_tomando_la_pastilla.mp3",
+      "text": "Te estas tomando la pastilla"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/te_jodes_y_bailas.mp3",
+      "text": "Te jodes y bailas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/te_ries.mp3",
+      "text": "Te ries"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tela_eh_tela.mp3",
+      "text": "Tela eh tela"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tenemos_una_cacatua.mp3",
+      "text": "Tenemos una cacatua"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tengo_tres_piscinas.mp3",
+      "text": "Tengo tres piscinas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/terrible_apocaliptico.mp3",
+      "text": "Terrible apocaliptico"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tiene_mas_peligro.mp3",
+      "text": "Tiene mas peligro"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/todavia_no_sabemos_que_animal_es.mp3",
+      "text": "Todavia no sabemos que animal es"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tranquila_mujer.mp3",
+      "text": "Tranquila mujer"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/tu_cara_es_una_gran_caca.mp3",
+      "text": "Tu cara es una gran caca"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/uy_caramba_no_me_diga.mp3",
+      "text": "Uy caramba no me diga"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/uyuyuy.mp3",
+      "text": "Uyuyuy"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/vamos_a_benalmadena.mp3",
+      "text": "Vamos a benalmadena"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/vamos_que_la_he_liado_parda.mp3",
+      "text": "Vamos que la he liado parda"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/vas_a_flipar.mp3",
+      "text": "Vas a flipar"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/verguenza_ajena.mp3",
+      "text": "Verguenza ajena"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/viva_el_semen_espanyol.mp3",
+      "text": "Viva el semen Español"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/viva_espanya_viva_el_rey.mp3",
+      "text": "Viva España viva el Rey 🇪🇸👑"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/where_is_the_fly.mp3",
+      "text": "Where is the fly"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/y_modaba.mp3",
+      "text": "Y modaba"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/yo_no_consumo_nada.mp3",
+      "text": "Yo no consumo nada"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/APM/data/zasca.mp3",
+      "text": "Zasca"
+    }
+  ]
+}

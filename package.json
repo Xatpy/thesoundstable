@@ -28,7 +28,7 @@
     "eject": "react-scripts eject",
     "sitemap": "babel-node src/sitemap-generator.js",
     "predeploy": "yarn run build && echo 'thesoundstable.com' > ./build/CNAME && yarn run sitemap",
-    "deploy": "gh-pages -d build"
+    "deploy": "yarn run predeploy && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

@@ -52,6 +52,16 @@
       "tag": "Top 10"
     },
     {
+      "text": "¿Qué quieres que haga?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-quieres-que-haga.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "¡¿Qué charla quieres tener conmigo?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-charla-quieres-tener-conmigo.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Performando a máximo nivel",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/performando-a-maximo-nivel.mp3",
       "tag": "New"
@@ -362,18 +372,15 @@
     },
     {
       "text": "¡¡¡No quiero!!!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-quiero.mp3",
-      "tag": "New"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-quiero.mp3"
     },
     {
       "text": "¿Qué miras?",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-miras.mp3",
-      "tag": "New"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-miras.mp3"
     },
     {
       "text": "Música marroquí aquí no está permitida eh",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/musica-marroqui-aqui-no-esta-permitida-eh.mp3",
-      "tag": "New"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/musica-marroqui-aqui-no-esta-permitida-eh.mp3"
     },
     {
       "text": "Tengo que dar una hostia a algo",

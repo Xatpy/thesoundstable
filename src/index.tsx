@@ -9,6 +9,7 @@ import { BrowserRouter, Switch, Route } from "react-router-dom";
 import { IndexPage } from "src/components/Index/IndexPage";
 import { NotFound } from "./components/NotFound";
 
+import dataAuronPlay from "src/data/auronPlay.json";
 import dataAPM from "src/data/apm.json";
 import dataBisbal from "src/data/bisbal.json";
 import dataElXokas from "src/data/elXokas.json";
@@ -48,6 +49,17 @@ root.render(
 
         <Route path={`/Ibai`} children={<App data={dataIbai} />} />
         <Route path={`${basePath}/Ibai`} children={<App data={dataIbai} />} />
+
+        <Route path={`/AuronPlay`} children={<App data={dataAuronPlay} />} />
+        <Route
+          path={`${basePath}/AuronPlay`}
+          children={<App data={dataAuronPlay} />}
+        />
+        <Route path={`/Auron`} children={<App data={dataAuronPlay} />} />
+        <Route
+          path={`${basePath}/Auron`}
+          children={<App data={dataAuronPlay} />}
+        />
 
         <Route path={`/Bisbal`} children={<App data={dataBisbal} />} />
         <Route

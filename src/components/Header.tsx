@@ -82,9 +82,6 @@ export const Header: React.FC = () => {
               </defs>
             </svg>
           </div>
-          {/* <h1 className={styles.title}>
-            <span>{title}</span>
-          </h1> */}
         </div>
         <div>
           {image && (

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.55da02fa.css",
-    "main.js": "/static/js/main.1f8b2532.js",
+    "main.js": "/static/js/main.7330f088.js",
     "static/js/787.51d04ad4.chunk.js": "/static/js/787.51d04ad4.chunk.js",
     "static/media/highRes.webp": "/static/media/highRes.b011e32c02cce6b38328.webp",
     "static/media/highRes.jpg": "/static/media/highRes.1a896ec9796007191758.jpg",
@@ -9,6 +9,7 @@
     "static/media/elXokas.jpg": "/static/media/elXokas.83c9575a2bbe3e4ec875.jpg",
     "static/media/elChiringuito.webp": "/static/media/elChiringuito.63628e55b327080e0369.webp",
     "static/media/laVidaModerna.jpeg": "/static/media/laVidaModerna.d5ec16e6da0ded48b4ee.jpeg",
+    "static/media/auronPlay.jpeg": "/static/media/auronPlay.787d162abde3d99d8536.jpeg",
     "static/media/illoJuan.jpeg": "/static/media/illoJuan.37de63105ac71971ef91.jpeg",
     "static/media/apm.jpg": "/static/media/apm.d1e30369303fa3c57356.jpg",
     "static/media/bisbal.jpeg": "/static/media/bisbal.737006832c88c8066b16.jpeg",
@@ -18,11 +19,11 @@
     "static/media/google-play.png": "/static/media/google-play.d22f446fe227941f0c7f.png",
     "index.html": "/index.html",
     "main.55da02fa.css.map": "/static/css/main.55da02fa.css.map",
-    "main.1f8b2532.js.map": "/static/js/main.1f8b2532.js.map",
+    "main.7330f088.js.map": "/static/js/main.7330f088.js.map",
     "787.51d04ad4.chunk.js.map": "/static/js/787.51d04ad4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55da02fa.css",
-    "static/js/main.1f8b2532.js"
+    "static/js/main.7330f088.js"
   ]
 }

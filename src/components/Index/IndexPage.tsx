@@ -30,12 +30,12 @@ export const IndexPage: React.FC = () => {
             imagePath={elXokasImage}
             title="El Xokas"
           />
-          <IndexLink href="./Ibai/" imagePath={ibaiImage} title="Ibai" />
           <IndexLink
             href="./AuronPlay/"
             imagePath={auronPlayImage}
             title="Auron Play"
           />
+          <IndexLink href="./Ibai/" imagePath={ibaiImage} title="Ibai" />
           <IndexLink
             href="./IlloJuan/"
             imagePath={illoJuanImage}

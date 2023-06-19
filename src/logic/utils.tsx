@@ -1,3 +1,4 @@
+import auronImage from "src/images/people/auronPlay.jpeg";
 import apmImage from "src/images/people/apm.jpg";
 import bisbalImage from "src/images/people/bisbal.jpeg";
 import elXokasImage from "src/images/people/elXokas.jpg";
@@ -20,6 +21,8 @@ export function verifySound(sound: any): boolean {
 // Get image from the "title" field given in the data.json file
 export const getImageFromType = (title: string): any => {
   const dict = {
+    APM: apmImage,
+    AuronPlay: auronImage,
     "El Xokas": elXokasImage,
     Ibai: ibaiImage,
     IlloJuan: illoJuanImage,
@@ -29,7 +32,6 @@ export const getImageFromType = (title: string): any => {
     Maldini: maldiniImage,
     Rubius: rubiusImage,
     "El Chiringuito": elChiringuitoImage,
-    APM: apmImage,
   };
 
   //obj[str as keyof typeof obj];

@@ -32,11 +32,15 @@
     },
 
     {
-      "text": "Que yo tengo la culpa...?",
+      "text": "Exprópiese",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/expropiese.mp3"
+    },
+    {
+      "text": "¿Que yo tengo la culpa...?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/que-yo-tengo-la-culpa-de.mp3"
     },
     {
-      "text": "Habéis visto la 🐥 de Dj Mario?",
+      "text": "¿Habéis visto la 🐥 de Dj Mario?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/habeis-visto-la-polla-de-dj-mario.mp3"
     },
     {

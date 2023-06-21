@@ -27,13 +27,25 @@
     },
 
     {
-      "text": "Que venga un paramédico no veo",
+      "text": "Que venga un paramédico, ¡no veo!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/que-venga-un-paramedico-no-veo.mp3"
     },
 
     {
+      "text": "Marshmellow es gay",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/marshmellow-es-gay.mp3"
+    },
+    {
       "text": "Las cosas como son",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/las-cosas-como-son.mp3"
+    },
+    {
+      "text": "La dieta de mi huevo en tu cara",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/la-dieta-de-mi-huevo-en-tu-cara.mp3"
+    },
+    {
+      "text": "Soporta panzona",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/soporta-panzona.mp3"
     },
     {
       "text": "No me llame más!",

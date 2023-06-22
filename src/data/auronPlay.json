@@ -36,7 +36,8 @@
     },
     {
       "text": "New! Lo van actualizando",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/new-lo-van-actualizando.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/new-lo-van-actualizando.mp3",
+      "tag": "New"
     },
     {
       "text": "Voy a tener esta página en marcadores",

@@ -68,8 +68,8 @@
       "tag": "New"
     },
     {
-      "text": "Puto mentiroso de mierda y...",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/mentiroso-de-mierda.mp3",
+      "text": "Eres un fracasado...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/eres-un-fracasado.mp3",
       "tag": "New"
     },
     {
@@ -82,16 +82,18 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/valve-sois.mp3",
       "tag": "New"
     },
+
     {
-      "text": "No con randoms",
+      "text": "Puto mentiroso de mierda y...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/mentiroso-de-mierda.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "No con randoms...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-con-randoms.mp3",
       "tag": "New"
     },
-    {
-      "text": "Eres un fracasado",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/eres-un-fracasado.mp3",
-      "tag": "New"
-    },
+
     {
       "text": "El pepinillo es para imbéciles 🥒",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/el-pepinillo-es-para-imbeciles.mp3",
@@ -119,7 +121,7 @@
       "tag": "New"
     },
     {
-      "text": "Lo posiciones en la zona de atrás",
+      "text": "Lo posiciones en la zona de atrás...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/lo-posiciones-en-la-zona-de-atras.mp3",
       "tag": "New"
     },
@@ -127,11 +129,6 @@
     {
       "text": "¿Qué quieres que haga?!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-quieres-que-haga.mp3",
-      "tag": "New"
-    },
-    {
-      "text": "¡¿Qué charla quieres tener conmigo?!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/que-charla-quieres-tener-conmigo.mp3",
       "tag": "New"
     },
     {

@@ -81,16 +81,19 @@
 
     {
       "text": "¡¿Pero qué ha pasao?!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/pero-que-ha-pasao.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/pero-que-ha-pasao.mp3",
+      "tag": "New"
     },
 
     {
       "text": "Es esta la mejor página del mundo",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/es-esta-la-mejor-pagina-del-mundo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/es-esta-la-mejor-pagina-del-mundo.mp3",
+      "tag": "New"
     },
     {
       "text": "Esto es increíble es una maravilla",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/esto-es-increible-es-una-maravilla.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/esto-es-increible-es-una-maravilla.mp3",
+      "tag": "New"
     },
     {
       "text": "New! Lo van actualizando",

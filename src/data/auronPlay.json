@@ -3,27 +3,89 @@
   "sounds": [
     {
       "text": "Hey qué pasa chavales...!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/hey-que-pasa-chavales.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/hey-que-pasa-chavales.mp3",
+      "tag": "🥇Top 1"
     },
     {
       "text": "Os bendigo... ",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/os-bendigo.mp3"
-    },
-    {
-      "text": "¡¿Pero qué ha pasao?!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/pero-que-ha-pasao.mp3"
-    },
-    {
-      "text": "Yo no soy rico...",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/yo-no-soy-rico.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/os-bendigo.mp3",
+      "tag": "🥈Top 2"
     },
     {
       "text": "Teengo miedoo",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/teeengo-miedoo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/teeengo-miedoo.mp3",
+      "tag": "🥉Top 3"
     },
     {
       "text": "Y yo te meto una hostia..!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/y-yo-te-meto-una-hostia.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/y-yo-te-meto-una-hostia.mp3",
+      "tag": "Top 4"
+    },
+    {
+      "text": "Yo no soy rico...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/yo-no-soy-rico.mp3",
+      "tag": "Top 5"
+    },
+
+    {
+      "text": "Detenme! Me la pela",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/detenme-me-la-pela.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "La de trabajar no te la sabes eh",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/la-de-trabajar-no-te-la-sabes-tu-eh.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Me tiene hasta los huevos",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/me-tiene-hasta-los-huevos.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Panzona ¿qué te ocurre?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/panzona-que-te-ocurre.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "¡Vete a la verga!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/vete-a-la-verga.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Gracias por haber participado...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/gracias-por-haber-participado-no-vuelvas.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "I don't understand...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/i-dont-understand-thank-you.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "¿En qué momento?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/en-que-momento.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Si lo sé no me levanto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/si-lo-se-es-que-no-me-levanto.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "¡Vamos a morir todos!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/vamos-a-morir-todos.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Esto es muy de AuronPlay",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/esto-es-muy-de-auron-play.mp3",
+      "tag": "New"
+    },
+
+    {
+      "text": "¡¿Pero qué ha pasao?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/pero-que-ha-pasao.mp3"
     },
 
     {

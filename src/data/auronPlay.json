@@ -28,6 +28,11 @@
     },
 
     {
+      "text": "Reborn",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/reborn.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Detenme! Me la pela",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/AuronPlay/data/detenme-me-la-pela.mp3",
       "tag": "New"

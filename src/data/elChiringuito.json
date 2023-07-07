@@ -2,6 +2,11 @@
   "title": "El Chiringuito",
   "sounds": [
     {
+      "text": "Soy una fucking bestia",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElChiringuito/data/soy-una-fucking-bestia.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Tic tac",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElChiringuito/data/tic-tac.mp3"
     },

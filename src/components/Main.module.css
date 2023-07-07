@@ -1,6 +1,26 @@
 .main {
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.filters {
+  margin: 8px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.inputFilter {
+  margin: 8px;
+  border-radius: 10px;
+  width: 25%;
+  text-align: center;
+}
+
+.inputMagnifier {
+  font-size: xx-large;
 }
 
 .content {

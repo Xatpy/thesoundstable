@@ -16,6 +16,8 @@ type Props = {
 export const Main: React.FC<Props> = ({ data }) => {
   const [children, setChildren] = useState<any>(null);
 
+  const [filterText, setFilterText] = useState<string>("");
+
   const { hashAudiosHowl, setHashAudiosHowl } = useGlobalContext();
 
   useEffect(() => {
@@ -60,10 +62,34 @@ export const Main: React.FC<Props> = ({ data }) => {
     getChildrenButtons(data);
   }, [data, hashAudiosHowl, setHashAudiosHowl]);
 
+  const onChange = (event: any) => {
+    setFilterText(event.target.value);
+  };
+
+  if (!children) {
+    return null;
+  }
+
+  const filteredChildren = children?.filter((child: any) =>
+    child.props.text.toLowerCase().includes(filterText.toLowerCase())
+  );
+
   return (
     <div id="main" className={styles.main}>
+      <div className={styles.filters}>
+        <input
+          onChange={onChange}
+          className={styles.inputFilter}
+          placeholder="Filtro por texto"
+        ></input>
+        <span className={styles.inputMagnifier}>🔍</span>
+      </div>
       <div id="content" className={styles.content}>
-        {children}
+        {filteredChildren.length > 0 ? (
+          filteredChildren
+        ) : (
+          <span>Búsqueda sin resultado</span>
+        )}
       </div>
     </div>
   );

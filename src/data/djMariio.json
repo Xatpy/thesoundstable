@@ -1,0 +1,170 @@
+{
+  "title": "DjMariio",
+  "sounds": [
+    {
+      "text": "¡A mamar! ¡A mamar!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/a-mamar-a-mamar.mp3"
+    },
+    {
+      "text": "A mí me llevan preso como diga lo que opino",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/a-mi-me-llevan-preso-como-diga-lo-que-opino.mp3"
+    },
+    {
+      "text": "A quién ficho?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/a-quien-ficho.mp3"
+    },
+    {
+      "text": "Al palo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/al-palo.mp3"
+    },
+    {
+      "text": "Asdfgh asdfjfhs",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/asdfgh.mp3"
+    },
+    {
+      "text": "Calvo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/calvo.mp3"
+    },
+    {
+      "text": "Eeeh!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/eee.mp3"
+    },
+    {
+      "text": "El balón está aquí, voy a hacer así",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/el-balon-esta-aqui-voy-a-hacer-asi.mp3"
+    },
+    {
+      "text": "El cofre coño!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/el-cofre-conio.mp3"
+    },
+    {
+      "text": "Eres tonto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/eres-tonto.mp3"
+    },
+    {
+      "text": "Es imposible ganar",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/es-imposible-ganar.mp3"
+    },
+    {
+      "text": "Esto es una vergüenza tio",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/esto-es-una-puta-verguenza-tio.mp3"
+    },
+    {
+      "text": "Finishing",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/finishing.mp3"
+    },
+    {
+      "text": "Gilipollas",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/gilipollas.mp3"
+    },
+    {
+      "text": "¿Habéis visto esa para de Casillas?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/habeis-visto-esa-parada-de-iker-casillas.mp3"
+    },
+    {
+      "text": "He perdido tío es increible",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/he-perdido-tio-es-increible.mp3"
+    },
+    {
+      "text": "Hijo de la gran puta!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/hijo-de-la-gran-pta.mp3"
+    },
+    {
+      "text": "Hijo de puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/hijo-de-puta.mp3"
+    },
+    {
+      "text": "Joder macho",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/joder-macho.mp3"
+    },
+    {
+      "text": "Mira mi equipo!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/mira-mi-equipo.mp3"
+    },
+    {
+      "text": "Necesito un abrazo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/necesito-un-abrazo.mp3"
+    },
+    {
+      "text": "No puedo ganar este partido, es imposible",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/no-puedo-ganar-este-partido-es-imposible.mp3"
+    },
+    {
+      "text": "No puedo más con este juego de mierda",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/no-puedo-mas-con-este-juego-de-mierda.mp3"
+    },
+    {
+      "text": "Oy ay ay ay ay",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/oy-ay-ay-ay-ay.mp3"
+    },
+    {
+      "text": "Pásala hijo de puta",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/pasala-hijo-de-puta.mp3"
+    },
+    {
+      "text": "Pero por favor!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/pero-por-favor.mp3"
+    },
+    {
+      "text": "¡¿Pero qué haces?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/pero-que-haces.mp3"
+    },
+    {
+      "text": "Pero tú eres tonto",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/pero-tu-eres-tonto.mp3"
+    },
+    {
+      "text": "¿Pongo a mi padre?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/pongo-a-mi-padre.mp3"
+    },
+    {
+      "text": "¿Qué es estooo?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-es-estooo.mp3"
+    },
+    {
+      "text": "¿Qué hace Courtois?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-hace-courtois.mp3"
+    },
+    {
+      "text": "Que me limpie el culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-me-limpie-el-culo.mp3"
+    },
+    {
+      "text": "Que no me voy a ir!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-no-me-voy-a-ir.mp3"
+    },
+    {
+      "text": "Qué pasaaa!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-pasaaa.mp3"
+    },
+
+    {
+      "text": "Que te calles coño!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-te-calles-conio.mp3"
+    },
+    {
+      "text": "Qué vergüenza!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/que-verguenza.mp3"
+    },
+    {
+      "text": "¡¿Quién eres?!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/quien-eres.mp3"
+    },
+    {
+      "text": "Quítasela ya!!!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/quitasela-ya.mp3"
+    },
+    {
+      "text": "Túuu te estás cargando el juego",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/tuuu-te-estas-cargando-este-juego.mp3"
+    },
+    {
+      "text": "Vete a tomar por el putísimo culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/vete-a-tomar-por-el-putisimo-culo.mp3"
+    },
+    {
+      "text": "Y que chingu tu madre",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/DjMariio/data/y-que-chingue-su-madre.mp3"
+    }
+  ]
+}

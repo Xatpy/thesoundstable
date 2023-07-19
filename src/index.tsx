@@ -12,6 +12,7 @@ import { NotFound } from "./components/NotFound";
 import dataAuronPlay from "src/data/auronPlay.json";
 import dataAPM from "src/data/apm.json";
 import dataBisbal from "src/data/bisbal.json";
+import dataDjMariio from "src/data/djMariio.json";
 import dataElXokas from "src/data/elXokas.json";
 import dataIbai from "src/data/ibai.json";
 import dataIlloJuan from "src/data/illoJuan.json";
@@ -59,6 +60,16 @@ root.render(
         <Route
           path={`${basePath}/Auron`}
           children={<App data={dataAuronPlay} />}
+        />
+        <Route path={`/DjMariio`} children={<App data={dataDjMariio} />} />
+        <Route path={`/DjMario`} children={<App data={dataDjMariio} />} />
+        <Route
+          path={`${basePath}/DjMariio`}
+          children={<App data={dataDjMariio} />}
+        />
+        <Route
+          path={`${basePath}/DjMario`}
+          children={<App data={dataDjMariio} />}
         />
 
         <Route path={`/Bisbal`} children={<App data={dataBisbal} />} />

@@ -3,6 +3,7 @@ import React from "react";
 import auronPlayImage from "src/images/people/auronPlay.jpeg";
 import apmImage from "src/images/people/apm.jpg";
 import bisbalImage from "src/images/people/bisbal.jpeg";
+import djMariioImage from "src/images/people/djMariio.jpg";
 import elXokasImage from "src/images/people/elXokas.jpg";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
@@ -40,6 +41,11 @@ export const IndexPage: React.FC = () => {
             href="./IlloJuan/"
             imagePath={illoJuanImage}
             title="IlloJuan"
+          />
+          <IndexLink
+            href="./DjMariio/"
+            imagePath={djMariioImage}
+            title="DjMariio"
           />
           <IndexLink href="./Bisbal/" imagePath={bisbalImage} title="Bisbal" />
           <IndexLink href="./Rubius/" imagePath={rubiusImage} title="Rubius" />

@@ -1,6 +1,7 @@
 import auronImage from "src/images/people/auronPlay.jpeg";
 import apmImage from "src/images/people/apm.jpg";
 import bisbalImage from "src/images/people/bisbal.jpeg";
+import djMariioImage from "src/images/people/djMariio.jpg";
 import elXokasImage from "src/images/people/elXokas.jpg";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
@@ -32,6 +33,7 @@ export const getImageFromType = (title: string): any => {
     Maldini: maldiniImage,
     Rubius: rubiusImage,
     "El Chiringuito": elChiringuitoImage,
+    DjMariio: djMariioImage,
   };
 
   //obj[str as keyof typeof obj];

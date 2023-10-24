@@ -53,6 +53,37 @@
     },
 
     {
+      "text": "Old Xokas is back",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/old-xokas-is-back.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Lo querías eh",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/lo-querias-eh.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Porque su papá haya venido...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/porque-su-papa-haya-venido.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Puedes llorar ahora",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/puedes-llorar-ahora.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Ahora ya puedes llorar",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/ahora-ya-puedes-llorar.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Llora ****!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/llora-pta.mp3",
+      "tag": "New"
+    },
+
+    {
       "text": "Mira el tweet de Grenheir",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/mira-el-tweet-del-imbecil-de-grenheir.mp3",
       "tag": "New"

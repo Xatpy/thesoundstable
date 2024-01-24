@@ -2,6 +2,27 @@
   "title": "Maldini",
   "sounds": [
     {
+      "text": "Mira tio a tomar por culo ya me he cabreao",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Maldini/data/mira-tio-pues-a-tomar-por-culo-ya-me-he-cabreao.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Escucha ya no vuelvo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Maldini/data/escucha-ya-no-vuelvo-ya-no-vuelvo.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "A tomar por culo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Maldini/data/a-tomar-por-culo.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Comprad un ordenador nuevo",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Maldini/data/comprar-un-ordenador-nuevo.mp3",
+      "tag": "New"
+    },
+
+    {
       "text": "Cáscale, ¡cascais!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Maldini/data/cascale-cascaisss.mp3"
     },

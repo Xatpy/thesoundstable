@@ -53,11 +53,20 @@
     },
 
     {
+      "text": "¿Galileo?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/galileo.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "¿Por qué Galileo?",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/por-que-galileo.mp3",
+      "tag": "New"
+    },
+    {
       "text": "¿Por qué voy a decir cocreta...?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/porque-voy-a-decir-cocreta.mp3",
       "tag": "New"
     },
-
     {
       "text": "¿De qué se ha disfrazado el retrasado este?",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/me-podreis-explicar-de-que-se-ha-disfrazado-el-retrasado-este.mp3",

@@ -17,6 +17,7 @@ import dataElXokas from "src/data/elXokas.json";
 import dataIbai from "src/data/ibai.json";
 import dataIlloJuan from "src/data/illoJuan.json";
 import dataLaVidaModerna from "src/data/laVidaModerna.json";
+import dataLlados from "src/data/llados.json";
 import dataLuisEnrique from "src/data/luisEnrique.json";
 import dataMaldini from "src/data/maldini.json";
 import dataRubius from "src/data/rubius.json";
@@ -105,6 +106,12 @@ root.render(
         <Route
           path={`${basePath}/LaVidaModerna`}
           children={<App data={dataLaVidaModerna} />}
+        />
+
+        <Route path={`/Llados`} children={<App data={dataLlados} />} />
+        <Route
+          path={`${basePath}/Llados`}
+          children={<App data={dataLlados} />}
         />
 
         <Route path={`/Maldini`} children={<App data={dataMaldini} />} />

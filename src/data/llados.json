@@ -2,6 +2,58 @@
   "title": "Llados",
   "sounds": [
     {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/panza.mp3",
+      "text": "Panza 🫃",
+      "tag": "🥇Top 1"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/mileurista.mp3",
+      "text": "Mileurista 💸",
+      "tag": "🥈Top 2"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/miro-al-otro-lado-croissant.mp3",
+      "text": "Miro al otro lado croissant 🥐",
+      "tag": "🥉Top 3"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/miro-al-otro-lado-panza.mp3",
+      "text": "Miro al otro lado panza",
+      "tag": "Top 4"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/es-como-fck.mp3",
+      "text": "Es como FAK",
+      "tag": "Top 5"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/comeme-el-nabo.mp3",
+      "text": "Cómeme el nabo",
+      "tag": "Top 6"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/fucking-bestia.mp3",
+      "text": "Fucking bestia",
+      "tag": "Top 7"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/fck-that-sht.mp3",
+      "text": "Faak that shit!",
+      "tag": "Top 8"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/tirate-burpees.mp3",
+      "text": "Tírate burpees",
+      "tag": "Top 9"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/y-activo-el-modo-cod-en-la-vida-real.mp3",
+      "text": "Y activo el modo Call of Duty en la vida real",
+      "tag": "Top 10"
+    },
+
+    {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/a-mi-si-llega-un-tio-con-panza.mp3",
       "text": "A mi si me llega un tío con panza..."
     },
@@ -22,10 +74,7 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/bro.mp3",
       "text": "Bro"
     },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/comeme-el-nabo.mp3",
-      "text": "Cómeme el nabo"
-    },
+
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/con-la-panza-que-te-toca-la-mesa.mp3",
       "text": "Con la panza que te toca la mesa"
@@ -63,21 +112,14 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/eres-tonto-o-que.mp3",
       "text": "Eres tonto o qué"
     },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/es-como-fck.mp3",
-      "text": "Es como FAK"
-    },
+
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/ese-rolex-me-fucking-come-la-poia.mp3",
-      "text": "Ese rolex me f+cking come la polla"
+      "text": "Ese rolex me fucking come la polla"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/faak.mp3",
       "text": "Faaak"
-    },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/fck-that-sht.mp3",
-      "text": "Faak that sh+t"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/fcking-vivirlo.mp3",
@@ -115,21 +157,10 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/miedo-a-que.mp3",
       "text": "Miedo a qué?!"
     },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/mileurista.mp3",
-      "text": "Mileurista 💸"
-    },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/miro-al-otro-lado-croissant.mp3",
-      "text": "Miro al otro lado croissant 🥐"
-    },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/miro-al-otro-lado-panza.mp3",
-      "text": "Miro al otro lado panza"
-    },
+
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/mthrfckr-sht.mp3",
-      "text": "Motherfuckershit"
+      "text": "Motherfucker shit!"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/oh-quiero-ser-millonario.mp3",
@@ -138,10 +169,6 @@
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/ole-tus-huevos.mp3",
       "text": "Olé tus huevos"
-    },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/panza.mp3",
-      "text": "Panza 🫃"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/pero-a-ver-pedazo-de-papanatas.mp3",
@@ -165,7 +192,7 @@
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/se-lo-digo-a-la-fucking-cara.mp3",
-      "text": "Se lo digo a la f*cking cara"
+      "text": "Se lo digo a la fucking cara"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/si-no-eres-capaz-de-no-hacerte-una-pja.mp3",
@@ -183,10 +210,7 @@
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/te-tienes-que-levantar-antes-que-el-fcking-sol.mp3",
       "text": "Te tienes que levantar antes"
     },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/tirate-burpees.mp3",
-      "text": "Tírate burpees"
-    },
+
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/tu-pasas-por-la-calle-es-como-si-pasa-una-rata.mp3",
       "text": "Tú pasas por la calle es como si pasa una rata"
@@ -206,10 +230,6 @@
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/wtf.mp3",
       "text": "WTF"
-    },
-    {
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/y-activo-el-modo-cod-en-la-vida-real.mp3",
-      "text": "Y activo el modo Call of Duty en la vida real"
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/yo-no-puedo-durar-mucho-aqui-sabes.mp3",

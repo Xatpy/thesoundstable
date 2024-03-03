@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="utf-8" />
 
     <link
       rel="icon"
       type="image/png"
-      href="https://raw.githubusercontent.com/Xatpy/thesoundstable/main/src/images/icon.png"
+      href="https://raw.githubusercontent.com/Xatpy/thesoundstable/main/src/images/favicon.png"
     />
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -17,10 +17,12 @@
     <meta name="title" content="The Sounds Table" />
     <meta
       name="description"
-      content="The Sounds Table - La web con los sonidos más divertidos"
+      content="Descubre y comparte los sonidos más icónicos de tus streamers favoritos como ElXokas, AuronPlay, Ibai, ElRubius y mucho más en The Sounds Table"
     />
 
     <!-- Open Graph / Facebook -->
+    <meta property="og:site_name" content="The Sounds Table" />
+    <meta property="og:locale" content="es_ES" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://thesoundstable.com/" />
     <meta property="og:image:type" content="image/png" />
@@ -36,7 +38,8 @@
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@chapi13" />
+    <meta name="twitter:site" content="@thesoundstable" />
+    <meta name="twitter:creator" content="@thesoundstable" />
     <meta name="twitter:title" content="The Sounds Table" />
     <meta
       name="twitter:description"
@@ -46,6 +49,13 @@
       name="twitter:image"
       content="https://raw.githubusercontent.com/Xatpy/thesoundstable.com-react/main/src/images/twPreview.jpg"
     />
+
+    <link rel="manifest" href="./manifest.json" />
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <meta name="apple-mobile-web-app-title" content="The Sounds Table" />
+    <link rel="apple-touch-icon" href="./logo512.png" />
 
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">
@@ -116,5 +126,31 @@
       src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8801495871341198"
       crossorigin="anonymous"
     ></script>
+
+    <script>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", function () {
+          navigator.serviceWorker.register("/service-worker.js").then(
+            function (registration) {
+              console.info(
+                "ServiceWorker registration successful with scope: ",
+                registration.scope
+              );
+            },
+            function (err) {
+              console.log("ServiceWorker registration failed: ", err);
+            }
+          );
+        });
+      }
+
+      window.addEventListener("appinstalled", (event) => {
+        gtag("event", "installation", {
+          event_category: "PWA",
+          event_label: "Installation",
+          value: navigator.userAgent,
+        });
+      });
+    </script>
   </body>
 </html>

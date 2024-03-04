@@ -27,14 +27,16 @@ export const SharePanel: React.FC = () => {
           <ShareComponent type={ShareType.Telegram} />
         </div>
 
-        <div className={styles.shareSujerencias}>
+        <div className={styles.shareSugerencias}>
           <a
             href="https://twitter.com/thesoundstable"
             target="blank"
             rel="noopener noreferrer"
             className={styles.titleGooglePlay}
           >
-            <span>¿Quieres añadir nuevos sonidos? ¡Manda tus sujerencias!</span>
+            <span>
+              ➕ ¿Quieres añadir nuevos sonidos? ¡Manda tus sugerencias!
+            </span>
           </a>
         </div>
 

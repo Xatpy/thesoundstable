@@ -53,6 +53,11 @@
     },
 
     {
+      "text": "Una buena sudaca ",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/una-buena-sudaca.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Es que hay gente ciega que me ve",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-que-hay-gente-ciega-que-me-ve.mp3",
       "tag": "New"

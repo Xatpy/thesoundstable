@@ -41,3 +41,18 @@ export const getImageFromType = (title: string): any => {
   //obj[str as keyof typeof obj];
   return dict[title as keyof typeof dict];
 };
+
+export function isIOS() {
+  return (
+    [
+      "iPad Simulator",
+      "iPhone Simulator",
+      "iPod Simulator",
+      "iPad",
+      "iPhone",
+      "iPod",
+    ].includes(navigator.platform) ||
+    // iPad on iOS 13 detection
+    (navigator.userAgent.includes("Mac") && "ontouchend" in document)
+  );
+}

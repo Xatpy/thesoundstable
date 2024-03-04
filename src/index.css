@@ -5,6 +5,7 @@
   -moz-osx-font-smoothing: grayscale;
   font-family: "Lobster";
   font-weight: 400;
+  font-display: swap;
 }
 
 html,

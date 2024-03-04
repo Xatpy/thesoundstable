@@ -59,6 +59,11 @@
       "tag": "New"
     },
     {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/la-tilde-me-puede-comer-el-nabo.mp3",
+      "text": "La tilde me puede comer el nabo",
+      "tag": "New"
+    },
+    {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/pole-cabron.mp3",
       "text": "Pole cabrón",
       "tag": "New"

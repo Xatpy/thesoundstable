@@ -79,10 +79,11 @@ export const SharePanel: React.FC = () => {
         {iosDevice && (
           <div id="installWPA" className={styles.installWPA}>
             <a
-              href="https://twitter.com/thesoundstable"
+              href="https://x.com/thesoundstable/status/1764630357691806174"
               target="blank"
               rel="noopener noreferrer"
               className={styles.titleGooglePlay}
+              id="linkInstallPWATwitter"
             >
               <div className={styles.shareGooglePlayDescription}>
                 <span>¡App ya disponible para iOS!</span>

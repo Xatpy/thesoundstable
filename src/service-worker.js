@@ -2,7 +2,7 @@ import { precacheAndRoute } from "workbox-precaching";
 // eslint-disable-next-line no-restricted-globals
 precacheAndRoute(self.__WB_MANIFEST);
 
-const dynamicCacheName = "0.0.4";
+const dynamicCacheName = "0.0.5";
 
 // eslint-disable-next-line no-restricted-globals
 self.addEventListener("install", (event) => {

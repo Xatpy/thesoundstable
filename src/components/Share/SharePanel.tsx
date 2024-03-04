@@ -14,29 +14,6 @@ import iosPWA from "../../images/share/pwa-ios.png";
 export const SharePanel: React.FC = () => {
   const iosDevice = isIOS();
 
-  const share = () => {
-    // Primero, verifica si la Web Share API está disponible
-    if (navigator.share) {
-      // Intenta compartir
-      navigator
-        .share({
-          title: "Añade aplicación con acceso directo",
-          text: " Pulsa el botón de compartir y luego 'Añadir a pantalla de inicio'",
-          url: window.location.href,
-        })
-        .then(() => {
-          console.log("¡Compartido con éxito!");
-        })
-        .catch((error) => {
-          console.warn("Error al compartir:", error);
-        });
-    } else {
-      // Manejar casos donde la Web Share API no está disponible
-      alert(
-        "La funcionalidad de compartir no está disponible en tu navegador."
-      );
-    }
-  };
   return (
     <>
       <div className={styles.share}>
@@ -48,6 +25,17 @@ export const SharePanel: React.FC = () => {
           <ShareComponent type={ShareType.Twitter} />
           {/* <ShareComponent type={ShareType.Facebook} /> */}
           <ShareComponent type={ShareType.Telegram} />
+        </div>
+
+        <div className={styles.shareSujerencias}>
+          <a
+            href="https://twitter.com/thesoundstable"
+            target="blank"
+            rel="noopener noreferrer"
+            className={styles.titleGooglePlay}
+          >
+            <span>¿Quieres añadir nuevos sonidos? ¡Manda tus sujerencias!</span>
+          </a>
         </div>
 
         {!iosDevice && (
@@ -89,24 +77,26 @@ export const SharePanel: React.FC = () => {
         )}
 
         {iosDevice && (
-          <div
-            id="installWPA"
-            className={styles.installWPA}
-            tabIndex={0}
-            onClick={share}
-          >
-            <div className={styles.shareGooglePlayDescription}>
-              <span>¡App ya disponible para iOS!</span>
-              <span>
-                Pulsa el botón de compartir y luego "Añadir a pantalla de
-                inicio".
-              </span>
-            </div>
-            <img
-              alt={"Instalación PWA de la app en iOS"}
-              src={iosPWA}
-              className={styles.googlePlayLogo}
-            />
+          <div id="installWPA" className={styles.installWPA}>
+            <a
+              href="https://twitter.com/thesoundstable"
+              target="blank"
+              rel="noopener noreferrer"
+              className={styles.titleGooglePlay}
+            >
+              <div className={styles.shareGooglePlayDescription}>
+                <span>¡App ya disponible para iOS!</span>
+                <span>
+                  Pulsa el botón de compartir y luego "Añadir a pantalla de
+                  inicio".
+                </span>
+              </div>
+              <img
+                alt={"Instalación PWA de la app en iOS"}
+                src={iosPWA}
+                className={styles.googlePlayLogo}
+              />
+            </a>
           </div>
         )}
       </div>

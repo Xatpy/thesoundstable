@@ -46,6 +46,24 @@
   border-radius: 25px;
 }
 
+.shareSujerencias {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  text-align: center;
+  margin-bottom: 10px;
+
+  background-color: #bfdb418c;
+  padding-top: 3px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 3px;
+  border-radius: 25px;
+
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
 .installWPA {
   display: flex;
   align-items: center;

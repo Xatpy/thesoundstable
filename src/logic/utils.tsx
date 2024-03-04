@@ -1,14 +1,15 @@
-import auronImage from "src/images/people/auronPlay.jpeg";
-import apmImage from "src/images/people/apm.jpg";
+import auronImage from "src/images/people/auronPlay.webp";
+import apmImage from "src/images/people/apm.webp";
 import bisbalImage from "src/images/people/bisbal.jpeg";
 import djMariioImage from "src/images/people/djMariio.jpg";
-import elXokasImage from "src/images/people/elXokas.jpg";
+import elXokasImage from "src/images/people/elXokas.webp";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
-import laVidaModernaImage from "src/images/people/laVidaModerna.jpeg";
+import laVidaModernaImage from "src/images/people/laVidaModerna.webp";
 import lladosImage from "src/images/people/llados.webp";
 import luisEnriqueImage from "src/images/people/luisEnrique.webp";
 import maldiniImage from "src/images/people/maldini.webp";
+import rajoyImage from "src/images/people/rajoy.webp";
 import rubiusImage from "src/images/people/rubius.jpeg";
 import elChiringuitoImage from "src/images/people/elChiringuito.webp";
 
@@ -33,6 +34,7 @@ export const getImageFromType = (title: string): any => {
     "Luis Enrique": luisEnriqueImage,
     Llados: lladosImage,
     Maldini: maldiniImage,
+    Rajoy: rajoyImage,
     Rubius: rubiusImage,
     "El Chiringuito": elChiringuitoImage,
     DjMariio: djMariioImage,

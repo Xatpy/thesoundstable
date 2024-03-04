@@ -20,6 +20,7 @@ import dataLaVidaModerna from "src/data/laVidaModerna.json";
 import dataLlados from "src/data/llados.json";
 import dataLuisEnrique from "src/data/luisEnrique.json";
 import dataMaldini from "src/data/maldini.json";
+import dataRajoy from "src/data/rajoy.json";
 import dataRubius from "src/data/rubius.json";
 import dataElChiringuito from "src/data/elChiringuito.json";
 
@@ -125,6 +126,9 @@ root.render(
           path={`${basePath}/Rubius`}
           children={<App data={dataRubius} />}
         />
+
+        <Route path={`/Rajoy`} children={<App data={dataRajoy} />} />
+        <Route path={`${basePath}/Rajoy`} children={<App data={dataRajoy} />} />
 
         <Route
           path={`/ElChiringuito`}

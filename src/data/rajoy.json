@@ -1,0 +1,149 @@
+{
+  "title": "Rajoy",
+  "sounds": [
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/un-vaso-es-un-vaso-y-un-plato-es-un-plato.mp3",
+      "text": "Un vaso es un vaso y un plato es un plato",
+      "tag": "🥇Top 1"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/ee-la-segunda-ya-tal.mp3",
+      "text": "La segunda ya tal",
+      "tag": "🥈Top 2"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/cuanto-peor-mejor-para-todos.mp3",
+      "text": "Cuanto peor mejor para todos...",
+      "tag": "🥉Top 3"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/es-el-vecino-el-que-elije-el-alcalde.mp3",
+      "text": "Es el vecino el que elige al alcalde...",
+      "tag": "Top 4"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/como-decia-galileo.mp3",
+      "text": "Como decía Galileo...",
+      "tag": "Top 5"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/fin-de-la-cita.mp3",
+      "text": "Fin de la cita",
+      "tag": "Top 6"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/venga-ya-toma-democraci.mp3",
+      "text": "Venga ya, ¡toma democracia!",
+      "tag": "Top 7"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/tenemos-que-fabricar-maquinas.mp3",
+      "text": "Tenemos que fabricar máquinas que...",
+      "tag": "Top 8"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/me-gusta-catalunya.mp3",
+      "text": "Me gusta Catalunya, hacen cosas",
+      "tag": "Top 9"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/he-ido-a-catalunya-extranjero.mp3",
+      "text": "He ido a Catalunya, al extranjero",
+      "tag": "Top 10"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/espania-es-una-gran-nacion.mp3.mp3",
+      "text": "España es una gran nación"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/hacemos-lo-que-podemos.mp3",
+      "text": "Hacemos lo que podemos..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/hare-todo-lo-que-pueda.mp3",
+      "text": "Haré todo lo que pueda..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/hay-cosas-mas-bonitas-como-estas.mp3",
+      "text": "Hay cosas más bonitas como éstas"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/its-very-difficult-todo-esto.mp3",
+      "text": "It's very difficult todo esto"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/la-ceramica-de-talavera.mp3",
+      "text": "La cerámica de Talavera..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/la-epa-de-maniana.mp3",
+      "text": "La EPA de mañana..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/lo-que-nosotros-hemos-hecho-es-enganiar-a-la-gente.mp3",
+      "text": "Lo que nosotros hemos hecho es engañar a la gente"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/lo-unico-serio-es-ser-serio.mp3",
+      "text": "Lo único serio es ser serio"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/me-gusta-catalunya.mp3",
+      "text": "Me gusta Catalunya, hacen cosas"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/no-he-dormido-nada-no-me-pregunten-demasiado.mp3",
+      "text": "No he dormido nada no me pregunten demasiado"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/por-las-carreteras-tienen-que-ir-coches.mp3",
+      "text": "Por las carreteras tienen que ir coches"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/si-no-os-portais-en-las-ponencias.mp3",
+      "text": "Si no os portáis bien en las ponencias..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/somos-sentimientos-y-tenemos-seres-humano.mp3",
+      "text": "Somos sentimientos y tenemos seres humanos"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/tenemos-que-fabricar-maquinas.mp3",
+      "text": "Tenemos que fabricar máquinas que..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/todo-lo-que-no-es-cierto-salvo.mp3",
+      "text": "Todo lo que no es cierto salvo..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/espania-es-un-gran-pais-y-tiene-espanoles.mp3",
+      "text": "España es un gran pais y tiene españoles"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/agua-que-cae-del-cielo-sin-saber-por-que.mp3",
+      "text": "Agua que cae del cielo sin saber por qué"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/una-espania-que-vienen-75-millones-de-espanioles.mp3",
+      "text": "Una España que vienen 75 millones de españoles"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/ustedes-piensan-antes-de-hablar.mp3",
+      "text": "Ustedes piensan antes de hablar..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/venga-ya-toma-democraci.mp3",
+      "text": "Venga ya, ¡toma democracia!"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Rajoy/data/y-la-europea.mp3",
+      "text": "¿Y la europea?"
+    }
+  ]
+}

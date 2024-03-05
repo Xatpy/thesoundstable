@@ -54,6 +54,11 @@
     },
 
     {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/felicidades-bro.mp3",
+      "text": "Felicidades bro",
+      "tag": "New"
+    },
+    {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/me-va-a-comer-el-fucking-nabo.mp3",
       "text": "Me va a comer el fucking nabo",
       "tag": "New"

@@ -14,6 +14,7 @@ import iosPWA from "../../images/share/pwa-ios.png";
 export const SharePanel: React.FC = () => {
   const iosDevice = isIOS();
   const isPWA = isInPWA();
+  console.log("pwa: ", isPWA);
 
   return (
     <>

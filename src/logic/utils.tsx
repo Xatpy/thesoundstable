@@ -58,3 +58,21 @@ export function isIOS() {
     (navigator.userAgent.includes("Mac") && "ontouchend" in document)
   );
 }
+
+declare global {
+  interface Navigator {
+    standalone?: boolean;
+  }
+}
+
+export function isInPWA() {
+  // For iOS Safari
+  if (window.navigator.standalone) {
+    return true;
+  }
+  // For other browsers
+  if (window.matchMedia("(display-mode: standalone)").matches) {
+    return true;
+  }
+  return false;
+}

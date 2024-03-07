@@ -5,7 +5,7 @@ import { ShareComponent } from "./ShareComponent";
 
 import styles from "./SharePanel.module.css";
 
-import { isIOS } from "../../logic/utils";
+import { isIOS, isInPWA } from "../../logic/utils";
 
 import android from "../../images/share/android-logo.png";
 import googlePlay from "../../images/share/google-play.png";
@@ -13,6 +13,7 @@ import iosPWA from "../../images/share/pwa-ios.png";
 
 export const SharePanel: React.FC = () => {
   const iosDevice = isIOS();
+  const isPWA = isInPWA();
 
   return (
     <>
@@ -40,7 +41,7 @@ export const SharePanel: React.FC = () => {
           </a>
         </div>
 
-        {!iosDevice && (
+        {!iosDevice && !isPWA && (
           <div id="installAndroid" className={styles.shareGooglePlay}>
             <a
               href="https://play.google.com/store/apps/details?id=com.xatpy.thesoundstable"
@@ -78,7 +79,7 @@ export const SharePanel: React.FC = () => {
           </div>
         )}
 
-        {iosDevice && (
+        {iosDevice && !isPWA && (
           <div id="installWPA" className={styles.installWPA}>
             <a
               href="https://x.com/thesoundstable/status/1764630357691806174"

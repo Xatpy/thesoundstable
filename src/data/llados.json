@@ -54,6 +54,27 @@
     },
 
     {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/dame-un-unfollow-cabron.mp3",
+      "text": "Dame unfollow cabrón",
+      "tag": "New"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/eres-un-trozo-de-fcking-mierda-plebeyo-mileurista.mp3",
+      "text": "Eres un trozo de mierda plebeyo mileurista",
+      "tag": "New"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/fcking-plebeyos.mp3",
+      "text": "Fucking plebeyos",
+      "tag": "New"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/lamentable.mp3",
+      "text": "Lamentable",
+      "tag": "New"
+    },
+
+    {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/felicidades-bro.mp3",
       "text": "Felicidades bro",
       "tag": "New"

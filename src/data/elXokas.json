@@ -53,27 +53,6 @@
     },
 
     {
-      "text": "Una buena sudaca ",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/una-buena-sudaca.mp3",
-      "tag": "New"
-    },
-    {
-      "text": "Es que hay gente ciega que me ve",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-que-hay-gente-ciega-que-me-ve.mp3",
-      "tag": "New"
-    },
-    {
-      "text": "Vaya pandero Lluna",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/vaya-pandero-lluna.mp3",
-      "tag": "New"
-    },
-    {
-      "text": "A pesar de que tengas ese pedazo de biplaza...",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/a-pesar-de-que-tengas-ese-pedazo-de-biplaza.mp3",
-      "tag": "New"
-    },
-
-    {
       "text": "Muchas gracias por representar a los...",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/muchas-gracias-por-representar-a-los.mp3",
       "tag": "New"
@@ -91,6 +70,27 @@
     {
       "text": "Sois lo peor de Internet",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/sois-lo-peor-de-internet.mp3",
+      "tag": "New"
+    },
+
+    {
+      "text": "Una buena sudaca ",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/una-buena-sudaca.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Es que hay gente ciega que me ve",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/es-que-hay-gente-ciega-que-me-ve.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Vaya pandero Lluna",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/vaya-pandero-lluna.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "A pesar de que tengas ese pedazo de biplaza...",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/a-pesar-de-que-tengas-ese-pedazo-de-biplaza.mp3",
       "tag": "New"
     },
 

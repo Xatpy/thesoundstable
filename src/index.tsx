@@ -16,6 +16,7 @@ import dataDjMariio from "src/data/djMariio.json";
 import dataElXokas from "src/data/elXokas.json";
 import dataIbai from "src/data/ibai.json";
 import dataIlloJuan from "src/data/illoJuan.json";
+import dataKnekro from "src/data/knekro.json";
 import dataLaVidaModerna from "src/data/laVidaModerna.json";
 import dataLlados from "src/data/llados.json";
 import dataLuisEnrique from "src/data/luisEnrique.json";
@@ -38,7 +39,6 @@ root.render(
       <Switch>
         <Route exact path="/" children={<IndexPage />} />
         <Route exact path={basePath} children={<App data={dataElXokas} />} />
-
         <Route path={`/ElXokas`} children={<App data={dataElXokas} />} />
         <Route path={`/xokas`} children={<App data={dataElXokas} />} />
         <Route
@@ -49,10 +49,8 @@ root.render(
           path={`${basePath}/xokas`}
           children={<App data={dataElXokas} />}
         />
-
         <Route path={`/Ibai`} children={<App data={dataIbai} />} />
         <Route path={`${basePath}/Ibai`} children={<App data={dataIbai} />} />
-
         <Route path={`/AuronPlay`} children={<App data={dataAuronPlay} />} />
         <Route
           path={`${basePath}/AuronPlay`}
@@ -73,19 +71,21 @@ root.render(
           path={`${basePath}/DjMario`}
           children={<App data={dataDjMariio} />}
         />
-
         <Route path={`/Bisbal`} children={<App data={dataBisbal} />} />
         <Route
           path={`${basePath}/Bisbal`}
           children={<App data={dataBisbal} />}
         />
-
         <Route path={`/IlloJuan`} children={<App data={dataIlloJuan} />} />
         <Route
           path={`${basePath}/IlloJuan`}
           children={<App data={dataIlloJuan} />}
         />
-
+        <Route path={`/Knekro`} children={<App data={dataKnekro} />} />
+        <Route
+          path={`${basePath}/Knekro`}
+          children={<App data={dataKnekro} />}
+        />
         <Route
           path={`/LuisEnrique`}
           children={<App data={dataLuisEnrique} />}
@@ -94,12 +94,10 @@ root.render(
           path={`${basePath}/LuisEnrique`}
           children={<App data={dataLuisEnrique} />}
         />
-
         <Route path={`/apm`} children={<App data={dataAPM} />} />
         <Route path={`${basePath}/apm`} children={<App data={dataAPM} />} />
         <Route path={`/APM`} children={<App data={dataAPM} />} />
         <Route path={`${basePath}/APM`} children={<App data={dataAPM} />} />
-
         <Route
           path={`/LaVidaModerna`}
           children={<App data={dataLaVidaModerna} />}
@@ -108,28 +106,23 @@ root.render(
           path={`${basePath}/LaVidaModerna`}
           children={<App data={dataLaVidaModerna} />}
         />
-
         <Route path={`/Llados`} children={<App data={dataLlados} />} />
         <Route
           path={`${basePath}/Llados`}
           children={<App data={dataLlados} />}
         />
-
         <Route path={`/Maldini`} children={<App data={dataMaldini} />} />
         <Route
           path={`${basePath}/Maldini`}
           children={<App data={dataMaldini} />}
         />
-
         <Route path={`/Rubius`} children={<App data={dataRubius} />} />
         <Route
           path={`${basePath}/Rubius`}
           children={<App data={dataRubius} />}
         />
-
         <Route path={`/Rajoy`} children={<App data={dataRajoy} />} />
         <Route path={`${basePath}/Rajoy`} children={<App data={dataRajoy} />} />
-
         <Route
           path={`/ElChiringuito`}
           children={<App data={dataElChiringuito} />}
@@ -146,7 +139,6 @@ root.render(
           path={`${basePath}/chiringuito`}
           children={<App data={dataElChiringuito} />}
         />
-
         {/* Not found */}
         <Route path="*" children={<NotFound />} />
       </Switch>

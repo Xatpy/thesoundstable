@@ -1,0 +1,143 @@
+{
+  "title": "Knekro",
+  "sounds": [
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/ay-lokete.mp3",
+      "text": "Ay loquete",
+      "tag": "🥇Top 1"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/loquete.mp3",
+      "text": "Loquete",
+      "tag": "🥈Top 2"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/jeje-god.mp3",
+      "text": "Jeje god",
+      "tag": "🥉Top 3"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/claro-30-pavos.mp3",
+      "text": "Claro 30 pavos",
+      "tag": "Top 4"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/lets-go-gente.mp3",
+      "text": "Let's go gente!",
+      "tag": "Top 5"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/da-mucho-cringe.mp3",
+      "text": "Da mucho cringe",
+      "tag": "Top 6"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/risa.mp3",
+      "text": "Risa",
+      "tag": "Top 7"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/eres-deficiente.mp3",
+      "text": "Eres deficiente!",
+      "tag": "Top 8"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/te-pego-dos-y-te-fundo.mp3",
+      "text": "Te pego dos y te fundo",
+      "tag": "Top 9"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-tela.mp3",
+      "text": "Que tela.mp3",
+      "tag": "Top 10"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/tela-dejabadentro.mp3",
+      "text": "Tela-de-Java-dentro",
+      "tag": "New"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/tela-dejabasmoradas.mp3",
+      "text": "Tela-de-Javas-morada",
+      "tag": "New"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/eso-es-real-o-no.mp3",
+      "text": "¿Eso es real o no?",
+      "tag": "New"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/estamos-tryhardeando.mp3",
+      "text": "Estamos try-hardeando"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/estoy-hasta-la-polla.mp3",
+      "text": "Estoy hasta la polla"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/felicidades-y-pasa-buen-dia.mp3",
+      "text": "Felicidades y pasa buen día"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/hola-soy-sergio-garcia-y-juego-pokemon.mp3",
+      "text": "Hola soy Sergio García y juego Pokémon"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/juan-que-es-esto.mp3",
+      "text": "¿Juan qué es esto?!"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/machoke-machoke.mp3",
+      "text": "Machoke machoke"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/mondongo.mp3",
+      "text": "Mondongo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/no-jodas.mp3",
+      "text": "No jodas!"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-cojones-es-esto.mp3",
+      "text": "¿Qué cojones es esto?"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-es-esa-mierda-loco.mp3",
+      "text": "¿Qué es esta mierda loco?"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-grande-no.mp3",
+      "text": "Qué grande, no?"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-troleada.mp3",
+      "text": "Qué troleada"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/Risa2.mp3",
+      "text": "Risa 2"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/sii-unos-cojones.mp3",
+      "text": "Siii unos cojones"
+    },
+
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/the-cuajada-one.mp3",
+      "text": "The cuajada one"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/un-pikachu-en-ladroga-o-un-raichu.mp3",
+      "text": "Un pikachu en la droga o un raichu"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/vete-a-tomar-por-el-culo.mp3",
+      "text": "Vete a tomar por culo"
+    }
+  ]
+}

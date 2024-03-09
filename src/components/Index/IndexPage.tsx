@@ -7,6 +7,7 @@ import djMariioImage from "src/images/people/djMariio.jpg";
 import elXokasImage from "src/images/people/elXokas.webp";
 import ibaiImage from "src/images/people/ibai.jpeg";
 import illoJuanImage from "src/images/people/illoJuan.jpeg";
+import knekroImage from "src/images/people/knekro.webp";
 import laVidaModernaImage from "src/images/people/laVidaModerna.webp";
 import lladosImage from "src/images/people/llados.webp";
 import luisEnriqueImage from "src/images/people/luisEnrique.webp";
@@ -45,13 +46,15 @@ export const IndexPage: React.FC = () => {
           />
           <IndexLink href="./Llados/" imagePath={lladosImage} title="Llados" />
           <IndexLink href="./Ibai/" imagePath={ibaiImage} title="Ibai" />
-          <IndexLink href="./Bisbal/" imagePath={bisbalImage} title="Bisbal" />
           <IndexLink href="./Rubius/" imagePath={rubiusImage} title="Rubius" />
+          <IndexLink href="./Knekro/" imagePath={knekroImage} title="Knekro" />
           <IndexLink
             href="./IlloJuan/"
             imagePath={illoJuanImage}
             title="IlloJuan"
           />
+          <IndexLink href="./Bisbal/" imagePath={bisbalImage} title="Bisbal" />
+
           <IndexLink
             href="./LuisEnrique/"
             imagePath={luisEnriqueImage}

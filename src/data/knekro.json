@@ -1,5 +1,5 @@
 {
-  "title": "Knekro",
+  "title": "KNekro",
   "sounds": [
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/ay-lokete.mp3",
@@ -48,7 +48,7 @@
     },
     {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Knekro/data/que-tela.mp3",
-      "text": "Que tela.mp3",
+      "text": "Que tela",
       "tag": "Top 10"
     },
     {

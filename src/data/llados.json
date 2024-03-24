@@ -54,6 +54,11 @@
     },
 
     {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/mendigo-tirandose-burpees.mp3",
+      "text": "Mendigo tirándose burpees",
+      "tag": "New"
+    },
+    {
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/Llados/data/dame-un-unfollow-cabron.mp3",
       "text": "Dame unfollow cabrón",
       "tag": "New"

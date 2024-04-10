@@ -24,6 +24,7 @@ import dataMaldini from "src/data/maldini.json";
 import dataRajoy from "src/data/rajoy.json";
 import dataRubius from "src/data/rubius.json";
 import dataElChiringuito from "src/data/elChiringuito.json";
+import dataViviendoEnLaCalle from "src/data/viviendoEnLaCalle.json";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
@@ -139,6 +140,15 @@ root.render(
           path={`${basePath}/chiringuito`}
           children={<App data={dataElChiringuito} />}
         />
+        <Route
+          path={`/ViviendoEnLaCalle`}
+          children={<App data={dataViviendoEnLaCalle} />}
+        />
+        <Route
+          path={`${basePath}/viviendoenlacalle`}
+          children={<App data={dataViviendoEnLaCalle} />}
+        />
+
         {/* Not found */}
         <Route path="*" children={<NotFound />} />
       </Switch>

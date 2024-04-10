@@ -1,0 +1,53 @@
+{
+  "title": "Viviendo en la calle",
+  "sounds": [
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/pollo-loko.mp3",
+      "text": "Pollo loko"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/bag.mp3",
+      "text": "Buag"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/buenisimo-me-ha-encantao.mp3",
+      "text": "Buenísimo me ha encantao"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/el-ultimo.mp3",
+      "text": "El último!!"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/gracias-majo.mp3",
+      "text": "Gracias majo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/hay-que-tener-mucho-cuidao-con-los-peatones.mp3",
+      "text": "Hay que tener cuidao con los peatones"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/joder.mp3",
+      "text": "Joder!!"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/quereis-contenido-de-calidad-chavales.mp3",
+      "text": "Queréis contenido de calidad chavales?"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/si-veis-alguien-que-dice-hala.mp3",
+      "text": "Alguien que dice halá..."
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/un-perro-que-hace-el-pinopuente.mp3",
+      "text": "Un perro que hace el pelo puente"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/uy-me-he-tirado-un-pedo.mp3",
+      "text": "Uy me he tirado un pedo"
+    },
+    {
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ViviendoEnLaCalle/data/vtc-calvo.mp3",
+      "text": "VTC...calvo"
+    }
+  ]
+}

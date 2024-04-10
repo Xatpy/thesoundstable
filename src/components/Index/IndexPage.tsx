@@ -15,6 +15,7 @@ import maldiniImage from "src/images/people/maldini.webp";
 import rajoyImage from "src/images/people/rajoy.webp";
 import rubiusImage from "src/images/people/rubius.jpeg";
 import elChiringuitoImage from "src/images/people/elChiringuito.webp";
+import viviendoEnLaCalleImage from "src/images/people/viviendoEnLaCalle.webp";
 
 import { Header } from "../Header";
 import { IndexLink } from "./IndexLink";
@@ -60,10 +61,16 @@ export const IndexPage: React.FC = () => {
             imagePath={luisEnriqueImage}
             title="LuisEnrique"
           />
+
           <IndexLink
             href="./Maldini/"
             imagePath={maldiniImage}
             title="Maldini"
+          />
+          <IndexLink
+            href="./ViviendoEnLaCalle"
+            imagePath={viviendoEnLaCalleImage}
+            title="Viviendo en la calle"
           />
           <IndexLink
             href="./ElChiringuito/"

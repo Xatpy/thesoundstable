@@ -3,7 +3,8 @@
   "sounds": [
     {
       "text": "Pelopo!",
-      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/LuisEnrique/data/pelopo.mp3"
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/LuisEnrique/data/pelopo.mp3",
+      "tag": "New"
     },
     {
       "text": "Apartaros que voy cuesta abajo y sin frenos",

@@ -2,6 +2,10 @@
   "title": "Luis Enrique",
   "sounds": [
     {
+      "text": "Pelopo!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/LuisEnrique/data/pelopo.mp3"
+    },
+    {
       "text": "Apartaros que voy cuesta abajo y sin frenos",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/LuisEnrique/data/apartaros-que-voy-cuesta-abajo-y-sin-frenos.mp3"
     },

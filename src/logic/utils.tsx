@@ -81,7 +81,10 @@ export function isInPWA(): boolean {
     return true;
   }
   // For other browsers
-  if (window.matchMedia("(display-mode: standalone)").matches) {
+  if (
+    typeof window.matchMedia === "function" &&
+    window.matchMedia("(display-mode: standalone)").matches
+  ) {
     return true;
   }
   return false;

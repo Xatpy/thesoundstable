@@ -17,14 +17,16 @@ type AudioPlayer = {
 
 type Props = {
   data: Board;
-  createAudio?: (urlSound: string) => AudioPlayer;
+  createAudio?: (urlSound: string, onError: () => void) => AudioPlayer;
 };
 
 export const Main: React.FC<Props> = ({
   data,
-  createAudio = (urlSound) => new Howl({ src: [urlSound] }),
+  createAudio = (urlSound, onError) =>
+    new Howl({ src: [urlSound], onloaderror: onError, onplayerror: onError }),
 }) => {
   const [filterText, setFilterText] = useState<string>("");
+  const [audioErrors, setAudioErrors] = useState<Record<string, boolean>>({});
   const audioById = useRef<Map<string, AudioPlayer>>(new Map());
 
   useEffect(() => {
@@ -46,12 +48,30 @@ export const Main: React.FC<Props> = ({
     let audio = audioById.current.get(id);
 
     if (!audio) {
-      audio = createAudio(urlSound);
+      audio = createAudio(urlSound, () =>
+        setAudioErrors((errors) => ({ ...errors, [id]: true }))
+      );
       audioById.current.set(id, audio);
     }
 
-    audio.play();
+    setAudioErrors((errors) => ({ ...errors, [id]: false }));
+    try {
+      audio.play();
+    } catch {
+      setAudioErrors((errors) => ({ ...errors, [id]: true }));
+    }
   }, [createAudio]);
+
+  const retrySound = useCallback(
+    (sourceUrl: string) => {
+      const id = getIdFromUrl(sourceUrl);
+      const audio = audioById.current.get(id);
+      audio?.unload();
+      audioById.current.delete(id);
+      playSound(sourceUrl);
+    },
+    [playSound]
+  );
 
   const onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setFilterText(event.target.value);
@@ -81,6 +101,8 @@ export const Main: React.FC<Props> = ({
               text={sound.text}
               tag={sound.tag}
               onPlay={() => playSound(sound.soundURL)}
+              hasError={audioErrors[getIdFromUrl(sound.soundURL)]}
+              onRetry={() => retrySound(sound.soundURL)}
             />
           ))
         ) : (

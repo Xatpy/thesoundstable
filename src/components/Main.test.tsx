@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from "@testing-library/react";
+import { act, fireEvent, render, screen } from "@testing-library/react";
 import { Main } from "./Main";
 
 const data = {
@@ -12,10 +12,13 @@ const data = {
 describe("Main", () => {
   const makeAudioFactory = () => {
     const calls: string[] = [];
+    const errors: Array<() => void> = [];
     return {
       calls,
-      createAudio: ((urlSound: string) => {
+      errors,
+      createAudio: ((urlSound: string, onError: () => void) => {
         calls.push(urlSound);
+        errors.push(onError);
         return { play: () => undefined, unload: () => undefined };
       }),
     };
@@ -54,5 +57,19 @@ describe("Main", () => {
     expect(screen.queryByRole("button", { name: "Reproducir Primer sonido" })).not.toBeInTheDocument();
     expect(screen.getByRole("button", { name: "Reproducir Segundo sonido" })).toBeInTheDocument();
     expect(calls).toHaveLength(0);
+  });
+
+  it("shows a retry action when audio loading fails", () => {
+    const { calls, createAudio, errors } = makeAudioFactory();
+    render(<Main data={data} createAudio={createAudio} />);
+
+    fireEvent.click(screen.getByRole("button", { name: "Reproducir Primer sonido" }));
+    act(() => errors[0]());
+
+    expect(screen.getByRole("alert")).toHaveTextContent("No se ha podido cargar el audio.");
+
+    fireEvent.click(screen.getByRole("button", { name: "Reintentar" }));
+
+    expect(calls).toHaveLength(2);
   });
 });

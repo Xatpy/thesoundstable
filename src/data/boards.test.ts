@@ -13,6 +13,7 @@ import luisEnrique from "./luisEnrique.json";
 import maldini from "./maldini.json";
 import rajoy from "./rajoy.json";
 import rubius from "./rubius.json";
+import { GITHUB_AUDIO_PREFIX } from "../logic/audio";
 import { Board } from "../types";
 
 const boards = [apm, auronPlay, bisbal, djMariio, elChiringuito, elXokas, ibai, illoJuan, knekro, laVidaModerna, llados, luisEnrique, maldini, rajoy, rubius] as Board[];
@@ -25,6 +26,7 @@ describe("published board data", () => {
     board.sounds.forEach((sound) => {
       expect(sound.text.trim()).toBeTruthy();
       expect(sound.soundURL).toMatch(/^https:\/\/.+\.mp3$/);
+      expect(sound.soundURL.startsWith(GITHUB_AUDIO_PREFIX)).toBe(true);
     });
   });
 });

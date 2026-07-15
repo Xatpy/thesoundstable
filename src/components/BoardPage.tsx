@@ -21,23 +21,29 @@ const boardLoaders = {
 };
 
 export type BoardKey = keyof typeof boardLoaders;
+export type BoardLoader = (board: BoardKey) => Promise<Board>;
+
+const loadBoard: BoardLoader = (board) =>
+  boardLoaders[board]().then(({ default: loadedBoard }) => loadedBoard as Board);
 
 type Props = {
   board: BoardKey;
+  loadBoard?: BoardLoader;
 };
 
-export const BoardPage: React.FC<Props> = ({ board }) => {
+export const BoardPage: React.FC<Props> = ({ board, loadBoard: boardLoader = loadBoard }) => {
   const [data, setData] = useState<Board | null>(null);
   const [hasError, setHasError] = useState(false);
+  const [attempt, setAttempt] = useState(0);
 
   useEffect(() => {
     let active = true;
     setData(null);
     setHasError(false);
 
-    boardLoaders[board]()
-      .then(({ default: loadedBoard }) => {
-        if (active) setData(loadedBoard as Board);
+    boardLoader(board)
+      .then((loadedBoard) => {
+        if (active) setData(loadedBoard);
       })
       .catch(() => {
         if (active) setHasError(true);
@@ -46,10 +52,17 @@ export const BoardPage: React.FC<Props> = ({ board }) => {
     return () => {
       active = false;
     };
-  }, [board]);
+  }, [attempt, board, boardLoader]);
 
   if (hasError) {
-    return <p role="alert">No se han podido cargar los sonidos. Inténtalo de nuevo.</p>;
+    return (
+      <div role="alert">
+        <p>No se han podido cargar los sonidos.</p>
+        <button type="button" onClick={() => setAttempt((value) => value + 1)}>
+          Reintentar
+        </button>
+      </div>
+    );
   }
 
   if (!data) {

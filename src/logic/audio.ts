@@ -1,4 +1,4 @@
-const GITHUB_AUDIO_PREFIX =
+export const GITHUB_AUDIO_PREFIX =
   "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/";
 
 const configuredAudioCdn = process.env.REACT_APP_AUDIO_CDN_URL?.replace(/\/$/, "");

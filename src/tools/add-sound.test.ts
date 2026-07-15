@@ -2,7 +2,7 @@ import fs from "fs";
 import os from "os";
 import path from "path";
 
-const { addSound, insertionIndex, parseArguments, toFilename } = require("./add-sound");
+const { addSound, insertionIndex, parseArguments, resolveSourcePath, toFilename } = require("./add-sound");
 
 describe("add-sound tool", () => {
   let directory: string;
@@ -13,16 +13,23 @@ describe("add-sound tool", () => {
     fs.mkdirSync(path.join(directory, "sounds", "TestBoard", "data"), { recursive: true });
     fs.mkdirSync(path.join(directory, "incoming"));
     fs.writeFileSync(path.join(directory, "incoming", "clip.mp3"), "audio");
-    fs.writeFileSync(
-      path.join(directory, "src", "data", "testBoard.json"),
-      JSON.stringify({
-        title: "Test Board",
-        sounds: [
-          { text: "Top", soundURL: "https://example.com/top.mp3", tag: "🥇Top 1" },
-          { text: "Older new", soundURL: "https://example.com/old.mp3", tag: "New" },
-        ],
-      })
-    );
+    fs.writeFileSync(path.join(directory, "src", "data", "testBoard.json"), `{
+  "title": "Test Board",
+  "sounds": [
+    {
+      "text": "Top",
+      "soundURL": "https://example.com/top.mp3",
+      "tag": "🥇Top 1"
+    },
+
+    {
+      "text": "Older new",
+      "soundURL": "https://example.com/old.mp3",
+      "tag": "New"
+    }
+  ]
+}
+`);
   });
 
   afterEach(() => fs.rmSync(directory, { recursive: true, force: true }));
@@ -41,6 +48,7 @@ describe("add-sound tool", () => {
     expect(updated.sounds.map((sound: { text: string }) => sound.text)).toEqual(["Top", "¡Nuevo ñandú!", "Older new"]);
     expect(updated.sounds[1].tag).toBe("New");
     expect(updated.sounds[1].soundURL).toContain("sounds/TestBoard/data/nuevo-nandu.mp3");
+    expect(fs.readFileSync(path.join(directory, "src", "data", "testBoard.json"), "utf8")).toContain("\n\n    {");
   });
 
   it("uses the beginning when a board has no Top sounds", () => {
@@ -50,5 +58,11 @@ describe("add-sound tool", () => {
   it("rejects malformed command arguments and creates safe filenames", () => {
     expect(() => parseArguments(["--unknown", "value"])).toThrow("Unknown argument");
     expect(toFilename("Qué tal! 2026")).toBe("que-tal-2026.mp3");
+  });
+
+  it("accepts a full MP3 path even when pasted with surrounding whitespace", () => {
+    const sourcePath = path.join(directory, "incoming", "clip.mp3");
+
+    expect(resolveSourcePath(`  ${sourcePath}  `)).toBe(sourcePath);
   });
 });

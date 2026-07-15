@@ -63,9 +63,10 @@ const findBoard = (boards, requestedBoard) => {
 };
 
 const resolveSourcePath = (sourceFile) => {
-  const candidate = path.isAbsolute(sourceFile) || sourceFile.includes(path.sep)
-    ? path.resolve(sourceFile)
-    : path.join(os.homedir(), "Downloads", sourceFile);
+  const requestedPath = String(sourceFile).trim();
+  const candidate = path.isAbsolute(requestedPath) || requestedPath.includes(path.sep)
+    ? path.resolve(requestedPath)
+    : path.join(os.homedir(), "Downloads", requestedPath);
   if (!candidate.toLowerCase().endsWith(".mp3")) throw new Error("The source file must have an .mp3 extension.");
   if (!fs.existsSync(candidate) || !fs.statSync(candidate).isFile()) throw new Error(`MP3 file not found: ${candidate}`);
   if (fs.statSync(candidate).size === 0) throw new Error("The source MP3 file is empty.");
@@ -78,6 +79,30 @@ const insertionIndex = (sounds) => {
     -1
   );
   return lastTopIndex + 1;
+};
+
+const formatSound = (sound) =>
+  JSON.stringify(sound, null, 2)
+    .split("\n")
+    .map((line) => `    ${line}`)
+    .join("\n");
+
+const insertSoundInJson = (rawJson, boardData, sound, index) => {
+  const formattedSound = formatSound(sound);
+  if (index === 0) {
+    const arrayStart = rawJson.indexOf("[", rawJson.indexOf('"sounds"'));
+    if (arrayStart === -1) throw new Error("Could not find the sounds array in the board JSON.");
+    return `${rawJson.slice(0, arrayStart + 1)}\n${formattedSound},${rawJson.slice(arrayStart + 1)}`;
+  }
+
+  const previousSound = formatSound(boardData.sounds[index - 1]);
+  const previousSoundOffset = rawJson.indexOf(previousSound);
+  if (previousSoundOffset === -1) throw new Error("Could not safely locate the Top section in the board JSON.");
+
+  const commaOffset = rawJson.indexOf(",", previousSoundOffset + previousSound.length);
+  if (commaOffset === -1) throw new Error("Could not safely locate the end of the Top section.");
+  const insertionOffset = rawJson.indexOf("\n", commaOffset) + 1;
+  return `${rawJson.slice(0, insertionOffset)}${formattedSound},\n${rawJson.slice(insertionOffset)}`;
 };
 
 const addSound = ({ rootDirectory, board: requestedBoard, name, file }) => {
@@ -96,11 +121,11 @@ const addSound = ({ rootDirectory, board: requestedBoard, name, file }) => {
 
   const index = insertionIndex(boardData.sounds);
   const sound = { text: name, soundURL, tag: "New" };
-  boardData.sounds.splice(index, 0, sound);
+  const updatedJson = insertSoundInJson(rawJson, boardData, sound, index);
   fs.copyFileSync(sourcePath, targetPath);
 
   try {
-    fs.writeFileSync(board.dataPath, `${JSON.stringify(boardData, null, 2)}\n`);
+    fs.writeFileSync(board.dataPath, updatedJson);
   } catch (error) {
     fs.unlinkSync(targetPath);
     throw error;
@@ -183,4 +208,4 @@ if (require.main === module) {
   });
 }
 
-module.exports = { addSound, findBoard, getBoards, insertionIndex, parseArguments, toFilename };
+module.exports = { addSound, findBoard, getBoards, insertionIndex, insertSoundInJson, parseArguments, resolveSourcePath, toFilename };

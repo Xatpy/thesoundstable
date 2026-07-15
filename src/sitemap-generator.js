@@ -1,25 +1,6 @@
 const fs = require("fs");
-
-const canonicalPaths = [
-  "/",
-  "/ElXokas",
-  "/Ibai",
-  "/AuronPlay",
-  "/DjMariio",
-  "/Bisbal",
-  "/IlloJuan",
-  "/Knekro",
-  "/LuisEnrique",
-  "/APM",
-  "/LaVidaModerna",
-  "/Llados",
-  "/Maldini",
-  "/Rubius",
-  "/Rajoy",
-  "/ElChiringuito",
-];
-
-const siteUrl = "https://thesoundstable.com";
+const { boardPages, siteUrl } = require("./seo-pages");
+const canonicalPaths = ["/", ...boardPages.map((page) => page.path)];
 const entries = canonicalPaths
   .map((path) => `  <url><loc>${siteUrl}${path}</loc></url>`)
   .join("\n");

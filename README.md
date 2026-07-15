@@ -24,7 +24,7 @@ corepack yarn build
 
 1. Add or update a JSON file in `src/data` with `title` and `sounds` fields.
 2. Add its lazy loader and route aliases in `src/components/BoardPage.tsx` and `src/index.tsx`.
-3. Add it to the index page and sitemap source when it should be publicly discoverable.
+3. Add its canonical path to `src/seo-pages.js` and an index card when it should be publicly discoverable.
 4. Run `corepack yarn test:ci` and `corepack yarn build`.
 
 ## Performance model
@@ -33,6 +33,13 @@ Board JSON is loaded per route. Audio instances are created only after the user 
 clip and are released when the board unmounts. The app shell service worker caches only
 same-origin assets; moving audio to a first-party CDN is the next step before enabling
 offline audio caching.
+
+## Discoverability
+
+`corepack yarn generate:seo` creates static crawler-readable pages for every canonical
+board path. These pages include page-specific metadata, JSON-LD, and a sound-name list
+before the React app starts. The deployment also includes `robots.txt`, `sitemap.xml`,
+and `llms.txt` for search engines and AI crawlers.
 
 To switch GitHub-hosted audio to a CDN without editing the JSON files, set
 `REACT_APP_AUDIO_CDN_URL` at build time to the CDN URL whose object layout mirrors this

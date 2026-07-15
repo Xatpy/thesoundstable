@@ -1,0 +1,24 @@
+# The Sounds Table
+
+The Sounds Table is a Spanish-language soundboard directory for creators and programmes.
+Each linked page contains a board description and an accessible list of sound names.
+
+## Canonical soundboards
+
+- [El Xokas Sounds](https://thesoundstable.com/ElXokas): 264 clips.
+- [Ibai Sounds](https://thesoundstable.com/Ibai): 173 clips.
+- [AuronPlay Sounds](https://thesoundstable.com/AuronPlay): 131 clips.
+- [DjMariio Sounds](https://thesoundstable.com/DjMariio): 41 clips.
+- [Bisbal Sounds](https://thesoundstable.com/Bisbal): 17 clips.
+- [IlloJuan Sounds](https://thesoundstable.com/IlloJuan): 70 clips.
+- [KNekro Sounds](https://thesoundstable.com/Knekro): 30 clips.
+- [Luis Enrique Sounds](https://thesoundstable.com/LuisEnrique): 67 clips.
+- [APM Sounds](https://thesoundstable.com/APM): 180 clips.
+- [La Vida Moderna Sounds](https://thesoundstable.com/LaVidaModerna): 59 clips.
+- [Llados Sounds](https://thesoundstable.com/Llados): 72 clips.
+- [Maldini Sounds](https://thesoundstable.com/Maldini): 117 clips.
+- [Rubius Sounds](https://thesoundstable.com/Rubius): 25 clips.
+- [Rajoy Sounds](https://thesoundstable.com/Rajoy): 32 clips.
+- [El Chiringuito Sounds](https://thesoundstable.com/ElChiringuito): 32 clips.
+
+Sitemap: https://thesoundstable.com/sitemap.xml

@@ -1,32 +1,53 @@
-import apm from "./apm.json";
-import auronPlay from "./auronPlay.json";
-import bisbal from "./bisbal.json";
-import djMariio from "./djMariio.json";
-import elChiringuito from "./elChiringuito.json";
-import elXokas from "./elXokas.json";
-import ibai from "./ibai.json";
-import illoJuan from "./illoJuan.json";
-import knekro from "./knekro.json";
-import laVidaModerna from "./laVidaModerna.json";
-import llados from "./llados.json";
-import luisEnrique from "./luisEnrique.json";
-import maldini from "./maldini.json";
-import rajoy from "./rajoy.json";
-import rubius from "./rubius.json";
+import fs from "fs";
+import path from "path";
 import { GITHUB_AUDIO_PREFIX } from "../logic/audio";
-import { Board } from "../types";
+import { Board, Sound } from "../types";
 
-const boards = [apm, auronPlay, bisbal, djMariio, elChiringuito, elXokas, ibai, illoJuan, knekro, laVidaModerna, llados, luisEnrique, maldini, rajoy, rubius] as Board[];
+const dataDirectory = path.join(process.cwd(), "src", "data");
+const boardFiles = fs
+  .readdirSync(dataDirectory)
+  .filter((file) => file.endsWith(".json"))
+  .sort();
+
+const parseBoard = (file: string): Board => {
+  const contents = fs.readFileSync(path.join(dataDirectory, file), "utf8");
+
+  try {
+    return JSON.parse(contents) as Board;
+  } catch (error) {
+    throw new Error(`${file} is not valid JSON: ${(error as Error).message}`);
+  }
+};
+
+const expectValidSound = (file: string, sound: Sound, index: number) => {
+  expect(typeof sound).toBe("object");
+  expect(typeof sound.text).toBe("string");
+  expect(sound.text.trim()).toBeTruthy();
+  expect(typeof sound.soundURL).toBe("string");
+  expect(sound.soundURL.startsWith(GITHUB_AUDIO_PREFIX)).toBe(true);
+  expect(() => new URL(sound.soundURL)).not.toThrow();
+  expect(new URL(sound.soundURL).protocol).toBe("https:");
+  expect(new URL(sound.soundURL).pathname).toMatch(/\.mp3$/);
+
+  if (sound.tag !== undefined) {
+    expect(typeof sound.tag).toBe("string");
+  }
+};
 
 describe("published board data", () => {
-  it.each(boards)("contains a title and valid sound URLs", (board) => {
-    expect(board.title).toBeTruthy();
+  it("discovers every JSON board file", () => {
+    expect(boardFiles.length).toBeGreaterThan(0);
+  });
+
+  it.each(boardFiles)("%s is parseable and conforms to the board schema", (file) => {
+    const board = parseBoard(file);
+
+    expect(Object.keys(board).sort()).toEqual(["sounds", "title"]);
+    expect(typeof board.title).toBe("string");
+    expect(board.title.trim()).toBeTruthy();
+    expect(Array.isArray(board.sounds)).toBe(true);
     expect(board.sounds.length).toBeGreaterThan(0);
 
-    board.sounds.forEach((sound) => {
-      expect(sound.text.trim()).toBeTruthy();
-      expect(sound.soundURL).toMatch(/^https:\/\/.+\.mp3$/);
-      expect(sound.soundURL.startsWith(GITHUB_AUDIO_PREFIX)).toBe(true);
-    });
+    board.sounds.forEach((sound, index) => expectValidSound(file, sound, index));
   });
 });

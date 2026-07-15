@@ -26,6 +26,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "test:ci": "CI=true react-scripts test --watchAll=false --runInBand",
+    "validate:data": "CI=true react-scripts test --watchAll=false --runInBand src/data/boards.test.ts",
     "eject": "react-scripts eject",
     "sitemap": "node src/sitemap-generator.js",
     "predeploy": "corepack yarn build && echo 'thesoundstable.com' > ./build/CNAME && corepack yarn sitemap",

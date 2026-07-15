@@ -1,23 +1,41 @@
 name: Build and Deploy
-on: [push]
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
 permissions:
-  contents: write
+  contents: read
 jobs:
-  build-and-deploy:
+  validate:
     concurrency: ci-${{ github.ref }} # Recommended if you intend to make multiple deployments in quick succession.
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install and Build 🔧 # This example project is built using npm and outputs the result to the 'build' folder. Replace with the commands required to build your project, or remove this step entirely if your site is pre-built.
         run: |
-          yarn install
-          yarn run build
+          corepack enable
+          corepack yarn install --frozen-lockfile
+          corepack yarn test:ci
+          corepack yarn build
+
+  deploy:
+    if: github.event_name == 'push'
+    needs: validate
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
 
       - name: Deploy 🚀
         run: |
-          yarn run predeploy
+          corepack enable
+          corepack yarn install --frozen-lockfile
+          corepack yarn predeploy
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/Xatpy/thesoundstable.git
           npx gh-pages -d build -u "github-actions-bot <support+actions@github.com>"
         env:

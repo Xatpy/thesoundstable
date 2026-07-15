@@ -14,7 +14,6 @@ import iosPWA from "../../images/share/pwa-ios.png";
 export const SharePanel: React.FC = () => {
   const iosDevice = isIOS();
   const isPWA = isInPWA();
-  console.log("pwa: ", isPWA);
 
   return (
     <>
@@ -32,7 +31,7 @@ export const SharePanel: React.FC = () => {
         <div className={styles.shareSugerencias}>
           <a
             href="https://twitter.com/thesoundstable"
-            target="blank"
+            target="_blank"
             rel="noopener noreferrer"
             className={styles.titleGooglePlay}
           >
@@ -46,7 +45,7 @@ export const SharePanel: React.FC = () => {
           <div id="installAndroid" className={styles.shareGooglePlay}>
             <a
               href="https://play.google.com/store/apps/details?id=com.xatpy.thesoundstable"
-              target="blank"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <img
@@ -57,7 +56,7 @@ export const SharePanel: React.FC = () => {
             </a>
             <a
               href="https://play.google.com/store/apps/details?id=com.xatpy.thesoundstable"
-              target="blank"
+              target="_blank"
               rel="noopener noreferrer"
               className={styles.titleGooglePlay}
             >
@@ -68,7 +67,7 @@ export const SharePanel: React.FC = () => {
             </a>
             <a
               href="https://play.google.com/store/apps/details?id=com.xatpy.thesoundstable"
-              target="blank"
+              target="_blank"
               rel="noopener noreferrer"
             >
               <img
@@ -84,7 +83,7 @@ export const SharePanel: React.FC = () => {
           <div id="installWPA" className={styles.installWPA}>
             <a
               href="https://x.com/thesoundstable/status/1764630357691806174"
-              target="blank"
+              target="_blank"
               rel="noopener noreferrer"
               className={styles.titleGooglePlay}
               id="linkInstallPWATwitter"

@@ -19,6 +19,11 @@
   text-align: center;
 }
 
+.inputFilter:focus-visible {
+  outline: 3px solid #ffe5e5;
+  outline-offset: 3px;
+}
+
 .inputMagnifier {
   font-size: xx-large;
 }

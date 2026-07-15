@@ -1,32 +1,22 @@
 import styles from "./Button.module.css";
 
-import { useGlobalContext } from "src/hooks/useGlobalContext";
-
-import { getIdFromUrl } from "src/logic/utils";
-
 import cx from "classnames";
 
 type ButtonProps = {
-  id: string;
   text: string;
-  urlSound: string;
   tag?: string;
+  onPlay: () => void;
+  hasError?: boolean;
+  onRetry?: () => void;
 };
 
 export const Button: React.FC<ButtonProps> = ({
   text,
-  id,
-  urlSound,
   tag = "",
+  onPlay,
+  hasError = false,
+  onRetry,
 }) => {
-  const { hashAudiosHowl } = useGlobalContext();
-
-  const onClick = (evt: any) => {
-    evt.preventDefault();
-    var target = evt.target || evt.srcElement; // Fix for Firefox
-    hashAudiosHowl[target.id].play();
-  };
-
   return (
     <div className={styles.divButton}>
       {tag && (
@@ -38,14 +28,22 @@ export const Button: React.FC<ButtonProps> = ({
           {tag}
         </span>
       )}
-      <a
-        href={urlSound}
+      <button
+        type="button"
         className={styles.button}
-        id={getIdFromUrl(urlSound)}
-        onClick={onClick}
+        onClick={onPlay}
+        aria-label={`Reproducir ${text}`}
       >
         {text}
-      </a>
+      </button>
+      {hasError && onRetry && (
+        <div className={styles.error} role="alert">
+          <span>No se ha podido cargar el audio.</span>
+          <button type="button" className={styles.retry} onClick={onRetry}>
+            Reintentar
+          </button>
+        </div>
+      )}
     </div>
   );
 };

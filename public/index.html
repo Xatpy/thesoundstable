@@ -11,6 +11,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#FF0000" />
+    <link rel="canonical" href="https://thesoundstable.com/" />
 
     <!-- Primary Meta Tags -->
     <title>The Sounds Table</title>
@@ -132,6 +133,24 @@
         window.addEventListener("load", function () {
           navigator.serviceWorker.register("/service-worker.js").then(
             function (registration) {
+              navigator.serviceWorker.ready.then(function (readyRegistration) {
+                var resourceUrls = performance
+                  .getEntriesByType("resource")
+                  .map(function (entry) {
+                    return entry.name;
+                  })
+                  .filter(function (url) {
+                    return url.indexOf(window.location.origin) === 0;
+                  });
+
+                resourceUrls.push(window.location.href, "/manifest.json");
+                if (readyRegistration.active) {
+                  readyRegistration.active.postMessage({
+                    type: "CACHE_URLS",
+                    urls: resourceUrls,
+                  });
+                }
+              });
               console.info(
                 "ServiceWorker registration successful with scope: ",
                 registration.scope

@@ -3,6 +3,7 @@
   "homepage": "https://thesoundstable.com",
   "version": "0.1.0",
   "private": true,
+  "packageManager": "yarn@1.22.22",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -16,7 +17,6 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^5.2.0",
-    "react-router-sitemap": "^1.2.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
@@ -25,10 +25,14 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "test:ci": "CI=true react-scripts test --watchAll=false --runInBand",
+    "validate:data": "CI=true react-scripts test --watchAll=false --runInBand src/data/boards.test.ts",
     "eject": "react-scripts eject",
-    "sitemap": "babel-node src/sitemap-generator.js",
-    "predeploy": "yarn run build && echo 'thesoundstable.com' > ./build/CNAME && yarn run sitemap",
-    "deploy": "yarn run predeploy && gh-pages -d build"
+    "generate:service-worker": "node src/service-worker-generator.js",
+    "generate:seo": "node src/seo-generator.js",
+    "sitemap": "node src/sitemap-generator.js",
+    "predeploy": "corepack yarn build && echo 'thesoundstable.com' > ./build/CNAME && corepack yarn generate:service-worker && corepack yarn generate:seo && corepack yarn sitemap",
+    "deploy": "corepack yarn predeploy && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -51,10 +55,6 @@
   "devDependencies": {
     "@types/howler": "^2.2.7",
     "@types/react-router-dom": "^5.3.3",
-    "babel-cli": "^6.26.0",
-    "babel-preset-es2015": "^6.24.1",
-    "babel-preset-react": "^6.24.1",
-    "babel-register": "^6.26.0",
     "gh-pages": "^4.0.0",
     "typescript-plugin-css-modules": "^4.1.1",
     "typings-for-css-modules-loader": "^1.7.0"

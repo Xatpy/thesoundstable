@@ -1,28 +1,50 @@
-# Getting Started with Create React App
+# The Sounds Table
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The Sounds Table is a React soundboard for memorable clips from Spanish creators.
+Board metadata lives in `src/data`; audio remains hosted separately under `sounds` and
+is loaded only when a visitor presses a clip.
 
-## Available Scripts
+## Development
 
-In the project directory, you can run:
+Install dependencies with Corepack (the repository uses Yarn Classic):
 
-### `yarn start`
+```sh
+corepack yarn install --frozen-lockfile
+```
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Useful commands:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```sh
+corepack yarn start
+corepack yarn test:ci
+corepack yarn build
+```
 
-### `yarn test`
+## Adding or changing a board
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Add or update a JSON file in `src/data` with `title` and `sounds` fields.
+2. Add its lazy loader and route aliases in `src/components/BoardPage.tsx` and `src/index.tsx`.
+3. Add its canonical path to `src/seo-pages.js` and an index card when it should be publicly discoverable.
+4. Run `corepack yarn test:ci` and `corepack yarn build`.
 
-### `yarn build`
+## Performance model
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Board JSON is loaded per route. Audio instances are created only after the user selects a
+clip and are released when the board unmounts. The app shell service worker caches only
+same-origin assets and derives its cache version from each production build; moving audio
+to a first-party CDN is the next step before enabling offline audio caching.
+
+## Discoverability
+
+`corepack yarn generate:seo` creates static crawler-readable pages for every canonical
+board path. These pages include page-specific metadata, JSON-LD, and a sound-name list
+before the React app starts. The deployment also includes `robots.txt`, `sitemap.xml`,
+and `llms.txt` for search engines and AI crawlers.
+
+To switch GitHub-hosted audio to a CDN without editing the JSON files, set
+`REACT_APP_AUDIO_CDN_URL` at build time to the CDN URL whose object layout mirrors this
+repository (for example, `https://media.example.com`). The CDN must permit browser CORS
+requests and should use long-lived immutable cache headers for versioned audio objects.
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!

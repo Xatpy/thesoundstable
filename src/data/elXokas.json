@@ -52,6 +52,21 @@
       "tag": "Top 10"
     },
     {
+      "text": "Vamos Oyarzabal!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/vamos-oyarzabal.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "No hay nada más vasco que un español",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/no-hay-nada-mas-vasco-que-un-espanol.mp3",
+      "tag": "New"
+    },
+    {
+      "text": "Tú eres español!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/tu-eres-espanol.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Abajo Bildu!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/abajo-bildu.mp3",
       "tag": "New"

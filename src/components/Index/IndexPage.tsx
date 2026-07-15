@@ -31,39 +31,39 @@ export const IndexPage: React.FC = () => {
       <div className="mainIndex">
         <div className="contentIndex">
           <IndexLink
-            href="./ElXokas/"
+            href="/ElXokas"
             imagePath={elXokasImage}
             title="El Xokas"
           />
           <IndexLink
-            href="./DjMariio/"
+            href="/DjMariio"
             imagePath={djMariioImage}
             title="DjMariio"
           />
           <IndexLink
-            href="./AuronPlay/"
+            href="/AuronPlay"
             imagePath={auronPlayImage}
             title="Auron Play"
           />
-          <IndexLink href="./Llados/" imagePath={lladosImage} title="Llados" />
-          <IndexLink href="./Ibai/" imagePath={ibaiImage} title="Ibai" />
-          <IndexLink href="./Rubius/" imagePath={rubiusImage} title="Rubius" />
-          <IndexLink href="./Knekro/" imagePath={knekroImage} title="Knekro" />
+          <IndexLink href="/Llados" imagePath={lladosImage} title="Llados" />
+          <IndexLink href="/Ibai" imagePath={ibaiImage} title="Ibai" />
+          <IndexLink href="/Rubius" imagePath={rubiusImage} title="Rubius" />
+          <IndexLink href="/Knekro" imagePath={knekroImage} title="Knekro" />
           <IndexLink
-            href="./IlloJuan/"
+            href="/IlloJuan"
             imagePath={illoJuanImage}
             title="IlloJuan"
           />
-          <IndexLink href="./Bisbal/" imagePath={bisbalImage} title="Bisbal" />
+          <IndexLink href="/Bisbal" imagePath={bisbalImage} title="Bisbal" />
 
           <IndexLink
-            href="./LuisEnrique/"
+            href="/LuisEnrique"
             imagePath={luisEnriqueImage}
             title="LuisEnrique"
           />
 
           <IndexLink
-            href="./Maldini/"
+            href="/Maldini"
             imagePath={maldiniImage}
             title="Maldini"
           />
@@ -73,14 +73,14 @@ export const IndexPage: React.FC = () => {
             title="Viviendo en la calle"
           /> */}
           <IndexLink
-            href="./ElChiringuito/"
+            href="/ElChiringuito"
             imagePath={elChiringuitoImage}
             title="El Chiringuito"
           />
-          <IndexLink href="./Rajoy/" imagePath={rajoyImage} title="Rajoy" />
-          <IndexLink href="./APM/" imagePath={apmImage} title="APM?" />
+          <IndexLink href="/Rajoy" imagePath={rajoyImage} title="Rajoy" />
+          <IndexLink href="/APM" imagePath={apmImage} title="APM?" />
           <IndexLink
-            href="./LaVidaModerna/"
+            href="/LaVidaModerna"
             imagePath={laVidaModernaImage}
             title="La Vida Moderna"
           />

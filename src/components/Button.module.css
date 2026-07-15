@@ -9,6 +9,8 @@ Link: https://codepen.io/mkvug/pen/meJyr
 <a id="button">Click Me</a>
 */
 .button {
+  border: 0;
+  font-family: inherit;
   position: relative;
   display: block;
   text-align: center;
@@ -74,6 +76,11 @@ Link: https://codepen.io/mkvug/pen/meJyr
 
 .button:hover {
   background: rgb(221, 0, 0);
+}
+
+.button:focus-visible {
+  outline: 3px solid #ffe5e5;
+  outline-offset: 3px;
 }
 
 .buttonIndex:active {
@@ -164,7 +171,7 @@ Link: https://codepen.io/mkvug/pen/meJyr
     height: 125px;
   }
 
-  a.button {
+  .button {
     font-size: 3vw;
     width: 70px;
     height: 70px;
@@ -172,7 +179,7 @@ Link: https://codepen.io/mkvug/pen/meJyr
     margin: -50px 0 0 -25px;
   }
 
-  a.button:before {
+  .button:before {
     width: 100px;
     height: 100px;
     top: 50%;

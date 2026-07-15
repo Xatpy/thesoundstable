@@ -1,5 +1,4 @@
 import React from "react";
-import { useState } from "react";
 
 // import "./App.css";
 
@@ -10,36 +9,23 @@ import { Main } from "./components/Main";
 // import { Button } from "./components/Button";
 
 import { SharePanel } from "src/components/Share/SharePanel";
+import { Board } from "./types";
 
 type AppProps = {
-  data: any;
+  data: Board;
 };
 
 const App: React.FC<AppProps> = ({ data }) => {
-  const [title, setTitle] = useState<string>(data.title ?? "The Sounds Table");
-  const [hashAudiosHowl, setHashAudiosHowl] = useState<any>({});
+  const title = data.title || "The Sounds Table";
 
   document.title = `🎶 ${title} Sounds`;
 
   return (
-    <MyGlobalContext.Provider
-      value={{
-        title,
-        setTitle,
-        hashAudiosHowl,
-        setHashAudiosHowl,
-      }}
-    >
+    <MyGlobalContext.Provider value={{ title }}>
       <Header />
       <SharePanel />
       <Main data={data} />
     </MyGlobalContext.Provider>
-
-    /* <Button
-        id="foo"
-        text="text"
-        urlSound="https://raw.githubusercontent.com/Xatpy/SoundsTable/master/ElXokas/callate.mp3"
-      /> */
   );
 };
 

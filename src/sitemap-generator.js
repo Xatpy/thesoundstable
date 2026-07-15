@@ -1,14 +1,28 @@
-require("babel-register")({
-  presets: ["es2015", "react"],
-});
+const fs = require("fs");
 
-const router = require("./routes").default;
-const Sitemap = require("react-router-sitemap").default;
+const canonicalPaths = [
+  "/",
+  "/ElXokas",
+  "/Ibai",
+  "/AuronPlay",
+  "/DjMariio",
+  "/Bisbal",
+  "/IlloJuan",
+  "/Knekro",
+  "/LuisEnrique",
+  "/APM",
+  "/LaVidaModerna",
+  "/Llados",
+  "/Maldini",
+  "/Rubius",
+  "/Rajoy",
+  "/ElChiringuito",
+];
 
-function generateSitemap() {
-  return new Sitemap(router)
-    .build("https://thesoundstable.com")
-    .save("./build/sitemap.xml");
-}
+const siteUrl = "https://thesoundstable.com";
+const entries = canonicalPaths
+  .map((path) => `  <url><loc>${siteUrl}${path}</loc></url>`)
+  .join("\n");
+const sitemap = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${entries}\n</urlset>\n`;
 
-generateSitemap();
+fs.writeFileSync("./build/sitemap.xml", sitemap);

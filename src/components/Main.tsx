@@ -1,77 +1,63 @@
 import React from "react";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 import { Howl } from "howler";
 
 import { Button } from "src/components/Button";
 import { getIdFromUrl, verifySound } from "src/logic/utils";
-import { useGlobalContext } from "src/hooks/useGlobalContext";
+import { Board } from "src/types";
 
 import styles from "./Main.module.css";
 
-type Props = {
-  data: any;
+type AudioPlayer = {
+  play: () => void;
+  unload: () => void;
 };
 
-export const Main: React.FC<Props> = ({ data }) => {
-  const [children, setChildren] = useState<any>(null);
+type Props = {
+  data: Board;
+  createAudio?: (urlSound: string) => AudioPlayer;
+};
 
+export const Main: React.FC<Props> = ({
+  data,
+  createAudio = (urlSound) => new Howl({ src: [urlSound] }),
+}) => {
   const [filterText, setFilterText] = useState<string>("");
-
-  const { hashAudiosHowl, setHashAudiosHowl } = useGlobalContext();
+  const audioById = useRef<Map<string, AudioPlayer>>(new Map());
 
   useEffect(() => {
-    const loadAudio = (urlSound: string): void => {
-      const id = getIdFromUrl(urlSound);
-
-      const audioHowl = new Howl({
-        src: [urlSound],
-      });
-
-      hashAudiosHowl[id] = audioHowl;
-      setHashAudiosHowl(hashAudiosHowl);
+    const audios = audioById.current;
+    return () => {
+      audios.forEach((audio) => audio.unload());
+      audios.clear();
     };
+  }, [data]);
 
-    const getChildrenButtons = (data: any) => {
-      if (!data) {
-        return;
-      }
+  const sounds = useMemo(
+    () => data.sounds.filter(verifySound),
+    [data.sounds]
+  );
 
-      let sounds = data.sounds;
-      if (sounds !== undefined) {
-        let childrenButtons = [];
-        for (let i = 0; i < data.sounds.length; ++i) {
-          if (verifySound(data.sounds[i])) {
-            const urlSound = data.sounds[i].soundURL;
-            loadAudio(urlSound);
-            childrenButtons.push(
-              <Button
-                key={`button-${i}`}
-                text={data.sounds[i].text}
-                urlSound={urlSound}
-                id={i.toString()}
-                tag={data.sounds[i].tag ?? ""}
-              />
-            );
-          }
-        }
-        setChildren(childrenButtons);
-      }
-    };
+  const playSound = useCallback((urlSound: string) => {
+    const id = getIdFromUrl(urlSound);
+    let audio = audioById.current.get(id);
 
-    getChildrenButtons(data);
-  }, [data, hashAudiosHowl, setHashAudiosHowl]);
+    if (!audio) {
+      audio = createAudio(urlSound);
+      audioById.current.set(id, audio);
+    }
 
-  const onChange = (event: any) => {
+    audio.play();
+  }, [createAudio]);
+
+  const onChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setFilterText(event.target.value);
   };
 
-  if (!children) {
-    return null;
-  }
-
-  const filteredChildren = children?.filter((child: any) =>
-    child.props.text.toLowerCase().includes(filterText.toLowerCase())
+  const normalizedFilter = filterText.trim().toLocaleLowerCase();
+  const filteredSounds = sounds.filter((sound) =>
+    sound.text.toLocaleLowerCase().includes(normalizedFilter)
   );
 
   return (
@@ -81,12 +67,20 @@ export const Main: React.FC<Props> = ({ data }) => {
           onChange={onChange}
           className={styles.inputFilter}
           placeholder="Filtro por texto"
-        ></input>
+          aria-label="Filtrar sonidos por texto"
+        />
         <span className={styles.inputMagnifier}>🔍</span>
       </div>
       <div id="content" className={styles.content}>
-        {filteredChildren.length > 0 ? (
-          filteredChildren
+        {filteredSounds.length > 0 ? (
+          filteredSounds.map((sound) => (
+            <Button
+              key={sound.soundURL}
+              text={sound.text}
+              tag={sound.tag}
+              onPlay={() => playSound(sound.soundURL)}
+            />
+          ))
         ) : (
           <span>Búsqueda sin resultado</span>
         )}

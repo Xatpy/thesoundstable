@@ -23,7 +23,7 @@ type Props = {
 export const ShareComponent: React.FC<Props> = ({ type }) => {
   const { title } = useGlobalContext();
   const getShareComponentByType = (type: ShareType): React.ReactElement => {
-    const url = window.location.href;
+    const url = encodeURIComponent(window.location.href);
 
     switch (type) {
       case ShareType.Facebook:
@@ -35,12 +35,12 @@ export const ShareComponent: React.FC<Props> = ({ type }) => {
           />
         );
       case ShareType.Twitter: {
-        const tweetMessage = encodeURI(
+        const tweetMessage = encodeURIComponent(
           `🎶 ${title} Sounds Table - La web app con sus mejores sonidos: `
         );
         return (
           <ShareLink
-            href={`https://twitter.com/intent/tweet?text=${tweetMessage}${url}`}
+          href={`https://twitter.com/intent/tweet?text=${tweetMessage}%20${url}`}
             title="Twitter"
             src={logoTwitter}
           />

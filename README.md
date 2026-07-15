@@ -34,6 +34,11 @@ clip and are released when the board unmounts. The app shell service worker cach
 same-origin assets; moving audio to a first-party CDN is the next step before enabling
 offline audio caching.
 
+To switch GitHub-hosted audio to a CDN without editing the JSON files, set
+`REACT_APP_AUDIO_CDN_URL` at build time to the CDN URL whose object layout mirrors this
+repository (for example, `https://media.example.com`). The CDN must permit browser CORS
+requests and should use long-lived immutable cache headers for versioned audio objects.
+
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 

@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { Howl } from "howler";
 
 import { Button } from "src/components/Button";
+import { getAudioUrl } from "src/logic/audio";
 import { getIdFromUrl, verifySound } from "src/logic/utils";
 import { Board } from "src/types";
 
@@ -39,8 +40,9 @@ export const Main: React.FC<Props> = ({
     [data.sounds]
   );
 
-  const playSound = useCallback((urlSound: string) => {
-    const id = getIdFromUrl(urlSound);
+  const playSound = useCallback((sourceUrl: string) => {
+    const urlSound = getAudioUrl(sourceUrl);
+    const id = getIdFromUrl(sourceUrl);
     let audio = audioById.current.get(id);
 
     if (!audio) {

@@ -21,6 +21,29 @@ self.addEventListener("activate", (event) => {
   );
 });
 
+self.addEventListener("message", (event) => {
+  if (event.data?.type !== "CACHE_URLS" || !Array.isArray(event.data.urls)) {
+    return;
+  }
+
+  const requests = event.data.urls
+    .map((url) => new URL(url, self.location.origin))
+    .filter((url) => url.origin === self.location.origin)
+    .map((url) => new Request(url.href));
+
+  event.waitUntil(
+    caches.open(CACHE_NAME).then((cache) =>
+      Promise.all(
+        requests.map((request) =>
+          fetch(request)
+            .then((response) => response.ok && response.type === "basic" && cache.put(request, response))
+            .catch(() => undefined)
+        )
+      )
+    )
+  );
+});
+
 self.addEventListener("fetch", (event) => {
   const { request } = event;
   const url = new URL(request.url);

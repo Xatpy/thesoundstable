@@ -52,6 +52,11 @@
       "tag": "Top 10"
     },
     {
+      "text": "Abajo Bildu!",
+      "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/abajo-bildu.mp3",
+      "tag": "New"
+    },
+    {
       "text": "Viva la vascongada!",
       "soundURL": "https://raw.githubusercontent.com/Xatpy/thesoundstable/main/sounds/ElXokas/data/viva-la-vascongada.mp3",
       "tag": "New"

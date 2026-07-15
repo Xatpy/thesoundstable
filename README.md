@@ -31,8 +31,8 @@ corepack yarn build
 
 Board JSON is loaded per route. Audio instances are created only after the user selects a
 clip and are released when the board unmounts. The app shell service worker caches only
-same-origin assets; moving audio to a first-party CDN is the next step before enabling
-offline audio caching.
+same-origin assets and derives its cache version from each production build; moving audio
+to a first-party CDN is the next step before enabling offline audio caching.
 
 ## Discoverability
 

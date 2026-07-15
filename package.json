@@ -28,9 +28,10 @@
     "test:ci": "CI=true react-scripts test --watchAll=false --runInBand",
     "validate:data": "CI=true react-scripts test --watchAll=false --runInBand src/data/boards.test.ts",
     "eject": "react-scripts eject",
+    "generate:service-worker": "node src/service-worker-generator.js",
     "generate:seo": "node src/seo-generator.js",
     "sitemap": "node src/sitemap-generator.js",
-    "predeploy": "corepack yarn build && echo 'thesoundstable.com' > ./build/CNAME && corepack yarn generate:seo && corepack yarn sitemap",
+    "predeploy": "corepack yarn build && echo 'thesoundstable.com' > ./build/CNAME && corepack yarn generate:service-worker && corepack yarn generate:seo && corepack yarn sitemap",
     "deploy": "corepack yarn predeploy && gh-pages -d build"
   },
   "eslintConfig": {

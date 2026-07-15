@@ -27,6 +27,25 @@ corepack yarn build
 3. Add its canonical path to `src/seo-pages.js` and an index card when it should be publicly discoverable.
 4. Run `corepack yarn test:ci` and `corepack yarn build`.
 
+## Adding a sound
+
+Run the interactive helper to add a local MP3 to an existing board:
+
+```sh
+corepack yarn sound:add
+```
+
+Choose the board, enter the display name, and provide either the MP3's full path or its
+filename from your Downloads folder. The helper copies the file into the right `sounds`
+directory, adds a `New` entry immediately after the `Top` sounds, and runs board-data
+validation. It never overwrites an existing file or deletes the source download.
+
+For a non-interactive invocation:
+
+```sh
+corepack yarn sound:add --board elXokas --name "¡Cállate ya!" --file clip.mp3
+```
+
 ## Performance model
 
 Board JSON is loaded per route. Audio instances are created only after the user selects a

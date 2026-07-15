@@ -27,6 +27,7 @@
     "test": "react-scripts test",
     "test:ci": "CI=true react-scripts test --watchAll=false --runInBand",
     "validate:data": "CI=true react-scripts test --watchAll=false --runInBand src/data/boards.test.ts",
+    "sound:add": "node src/tools/add-sound.js",
     "eject": "react-scripts eject",
     "generate:service-worker": "node src/service-worker-generator.js",
     "generate:seo": "node src/seo-generator.js",

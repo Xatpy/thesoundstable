@@ -1,4 +1,4 @@
-const CACHE_NAME = "sounds-table-shell-606a98eebb37";
+const CACHE_NAME = "sounds-table-shell-1a05cb3b524a";
 const APP_SHELL = ["/", "/index.html", "/manifest.json"];
 
 self.addEventListener("install", (event) => {

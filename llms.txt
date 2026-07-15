@@ -5,7 +5,7 @@ Each linked page contains a board description and an accessible list of sound na
 
 ## Canonical soundboards
 
-- [El Xokas Sounds](https://thesoundstable.com/ElXokas): 265 clips.
+- [El Xokas Sounds](https://thesoundstable.com/ElXokas): 266 clips.
 - [Ibai Sounds](https://thesoundstable.com/Ibai): 173 clips.
 - [AuronPlay Sounds](https://thesoundstable.com/AuronPlay): 131 clips.
 - [DjMariio Sounds](https://thesoundstable.com/DjMariio): 41 clips.

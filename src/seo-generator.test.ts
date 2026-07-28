@@ -39,7 +39,7 @@ describe("SEO artifact generator", () => {
     generateSeoArtifacts({
       buildDirectory: path.join(directory, "build"),
       dataDirectory: path.join(directory, "data"),
-      pages: [{ dataFile: "test.json", path: "/Test" }],
+      pages: [{ dataFile: "test.json", path: "/Test/" }],
     });
 
     const boardHtml = fs.readFileSync(path.join(directory, "build", "Test", "index.html"), "utf8");
@@ -47,12 +47,12 @@ describe("SEO artifact generator", () => {
     const llms = fs.readFileSync(path.join(directory, "build", "llms.txt"), "utf8");
 
     expect(boardHtml).toContain("<title>Test &lt;board&gt; Sounds | The Sounds Table</title>");
-    expect(boardHtml).toContain('<link rel="canonical" href="https://thesoundstable.com/Test" />');
+    expect(boardHtml).toContain('<link rel="canonical" href="https://thesoundstable.com/Test/" />');
     expect(boardHtml).toContain("<h1>Test &lt;board&gt; Sounds</h1>");
     expect(boardHtml).toContain("Hello &lt;world&gt;");
     expect(boardHtml).toContain('"@type":"CollectionPage"');
     expect(boardHtml.match(/rel="canonical"/g)).toHaveLength(1);
-    expect(landingHtml).toContain('href="/Test"');
-    expect(llms).toContain("https://thesoundstable.com/Test");
+    expect(landingHtml).toContain('href="/Test/"');
+    expect(llms).toContain("https://thesoundstable.com/Test/");
   });
 });

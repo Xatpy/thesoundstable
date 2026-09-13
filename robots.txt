@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
+# The clips may be indexed and used to answer user requests, but not used for model training.
+Content-Signal: ai-train=no, search=yes, ai-input=yes
+
 Sitemap: https://thesoundstable.com/sitemap.xml

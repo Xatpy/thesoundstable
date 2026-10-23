@@ -12,19 +12,19 @@ Each linked page is a canonical board with a description, an accessible list of 
 
 ## Canonical soundboards
 
-- [El Xokas Sounds](https://thesoundstable.com/ElXokas/): 278 clips.
-- [Ibai Sounds](https://thesoundstable.com/Ibai/): 173 clips.
-- [AuronPlay Sounds](https://thesoundstable.com/AuronPlay/): 131 clips.
+- [El Xokas Sounds](https://thesoundstable.com/ElXokas/): 262 clips.
+- [Ibai Sounds](https://thesoundstable.com/Ibai/): 168 clips.
+- [AuronPlay Sounds](https://thesoundstable.com/AuronPlay/): 129 clips.
 - [DjMariio Sounds](https://thesoundstable.com/DjMariio/): 41 clips.
 - [Bisbal Sounds](https://thesoundstable.com/Bisbal/): 17 clips.
-- [IlloJuan Sounds](https://thesoundstable.com/IlloJuan/): 70 clips.
+- [IlloJuan Sounds](https://thesoundstable.com/IlloJuan/): 63 clips.
 - [KNekro Sounds](https://thesoundstable.com/Knekro/): 30 clips.
-- [Luis Enrique Sounds](https://thesoundstable.com/LuisEnrique/): 67 clips.
-- [APM Sounds](https://thesoundstable.com/APM/): 180 clips.
+- [Luis Enrique Sounds](https://thesoundstable.com/LuisEnrique/): 66 clips.
+- [APM Sounds](https://thesoundstable.com/APM/): 179 clips.
 - [La Vida Moderna Sounds](https://thesoundstable.com/LaVidaModerna/): 59 clips.
-- [Llados Sounds](https://thesoundstable.com/Llados/): 72 clips.
+- [Llados Sounds](https://thesoundstable.com/Llados/): 70 clips.
 - [Maldini Sounds](https://thesoundstable.com/Maldini/): 117 clips.
-- [Rubius Sounds](https://thesoundstable.com/Rubius/): 25 clips.
+- [Rubius Sounds](https://thesoundstable.com/Rubius/): 24 clips.
 - [Rajoy Sounds](https://thesoundstable.com/Rajoy/): 32 clips.
 - [El Chiringuito Sounds](https://thesoundstable.com/ElChiringuito/): 32 clips.
 

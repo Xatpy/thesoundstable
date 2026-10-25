@@ -12,9 +12,9 @@ Each linked page is a canonical board with a description, and an accessible list
 
 ## Canonical soundboards
 
-- [El Xokas Sounds](https://thesoundstable.com/ElXokas/): 262 clips.
+- [El Xokas Sounds](https://thesoundstable.com/ElXokas/): 261 clips.
 - [Ibai Sounds](https://thesoundstable.com/Ibai/): 168 clips.
-- [AuronPlay Sounds](https://thesoundstable.com/AuronPlay/): 129 clips.
+- [AuronPlay Sounds](https://thesoundstable.com/AuronPlay/): 128 clips.
 - [DjMariio Sounds](https://thesoundstable.com/DjMariio/): 41 clips.
 - [Bisbal Sounds](https://thesoundstable.com/Bisbal/): 17 clips.
 - [IlloJuan Sounds](https://thesoundstable.com/IlloJuan/): 63 clips.

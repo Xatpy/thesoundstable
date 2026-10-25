@@ -22,7 +22,7 @@ const parseBoard = (file: string): Board => {
 // Titles are rendered as crawlable text, so AdSense reviews them. Swear words
 // must be censored (e.g. "p*ta") and slurs are not allowed at all.
 const blockedText =
-  /\bput[aoáóí](?!n\b)|\bpollas?\b|\bpollazo|gilipoll|\bcoño\b|coj[oó]n|\bmierda|culo\b|\bverga\b|\bnabo\b|\bmamada|\bpajas?\b|\btetas?\b|\bcabr[oó]n|fuck|\bshit\b|\bh?o+stia|sudaca|retrasad|anormal|subnormal|\bmaric[oó]n|\bmaricas?\b/i;
+  /\bput[aoáóí](?!n\b)|\bpollas?\b|\bpollazo|lipoll|\bcoño\b|coj[oó]n|\bmierda|culo\b|\bverga\b|\bnabo\b|\bmamada|\bpajas?\b|\btetas?\b|\bcabr[oó]n|fuck|\bshit\b|\bh?o+stia|sudaca|retrasad|anormal|subnormal|\bmaric[oó]n|\bmaricas?\b/i;
 
 const expectValidSound = (file: string, sound: Sound, index: number) => {
   expect(typeof sound).toBe("object");

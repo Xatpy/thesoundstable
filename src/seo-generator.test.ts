@@ -52,6 +52,8 @@ describe("SEO artifact generator", () => {
     expect(boardHtml).toContain("Hello &lt;world&gt;");
     expect(boardHtml).toContain('"@type":"CollectionPage"');
     expect(boardHtml.match(/rel="canonical"/g)).toHaveLength(1);
+    // MP3 file names contain uncensored titles, so they must not be crawlable.
+    expect(boardHtml).not.toContain("test.mp3");
     expect(landingHtml).toContain('href="/Test/"');
     expect(llms).toContain("https://thesoundstable.com/Test/");
     expect(llms).toContain("Primary language: Spanish (es-ES).");

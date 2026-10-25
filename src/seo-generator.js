@@ -67,7 +67,6 @@ const createBoardSchema = (board, canonicalPath) => ({
       "@type": "ListItem",
       position: index + 1,
       name: sound.text,
-      url: sound.soundURL,
     })),
   },
 });
@@ -127,7 +126,7 @@ const generateSeoArtifacts = ({ buildDirectory, dataDirectory, pages = boardPage
     "",
     "The Sounds Table is a Spanish-language soundboard directory of memorable clips from creators, streamers and programmes in Spain.",
     "Use it to find soundboards, identify a quoted reaction, or browse clips by creator or programme.",
-    "Each linked page is a canonical board with a description, an accessible list of sound names, and direct MP3 links in its structured data.",
+    "Each linked page is a canonical board with a description, and an accessible list of sound names.",
     "",
     "## Language and scope",
     "",
